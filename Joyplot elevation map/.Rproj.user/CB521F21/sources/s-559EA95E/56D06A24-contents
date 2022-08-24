@@ -1,0 +1,352 @@
+---
+title: "Ejemplo de entrega"
+description: |
+  Analizando los datos de Netflix
+author:
+  - name: Javier Álvarez Liébana
+    url: https://dadosdelaplace.github.io
+    affiliation: Universidad Complutense de Madrid
+date: "`r Sys.Date()`"
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+---
+
+```{r setup, include = FALSE}
+# Ajuste comunes de los chunk, sobre todo con las figuras
+knitr::opts_chunk$set(fig.width = 10, fig.asp = 1,
+                      out.width = "100%",
+                      message = FALSE, warning = FALSE,
+                      res = 500, retina = 1)
+```
+
+# Presentación del problema
+
+En est ocasión vamos a usar los **datos de Netflix** proporcionados por **Paula Casado** en [El Arte del Dato](https://elartedeldato.com/blog/como-anadir-una-anotacion-en-ggplot/), página en la que se basará esta visualización: **visualizaremos** el **número de películas y series de instituto** que se han estrenado en **Netflix en cada año**.
+
+Los paquetes que usaremos serán los siguientes
+
+```{r}
+library(tidyverse)
+library(lubridate)
+library(skimr)
+```
+
+## Carga de datos
+
+Los datos provienen originalmente de [Kaggle](https://www.kaggle.com/shivamb/netflix-shows) aunque, como hemos mencionado, usaremos el repositorio de **Paula Casado**, cargando los datos directamente con `read_csv()`.
+
+```{r}
+netflix <-
+  read_csv('https://raw.githubusercontent.com/elartedeldato/datasets/main/netflix_titles.csv')
+netflix
+```
+
+Los datos cargados tienen `r nrow(netflix)` registros y `r ncol(netflix)` variables.
+
+## Breve inspección
+
+Con la función `glimpse()` podemos tener en un vistazo una visión de qué variables tenemos y de que tipo
+
+```{r}
+glimpse(netflix)
+```
+
+
+Con la función `skim()` del paquete `{skimr}` podremos obtener un resumen numérico simple y rápido de nuestras variables
+
+```{r}
+netflix %>% skim()
+```
+
+
+## Preprocesamiento
+
+### Filtramos películas
+
+Para visualizar antes vamos a filtrar las **películas y series de instituto**, usando la función `str_detect()` (del paquete `{stringr}`), que nos devolverá `TRUE` si detecta en la variable `description` (pasándola a mayúsculas por si acaso) el patrón de texto `"HIGH SCHOOL"`.
+
+```{r}
+netflix_hs <- netflix %>%
+  filter(str_detect(toupper(description), "HIGH SCHOOL"))
+netflix_hs 
+```
+
+Podemos hacerlo en más paso, añadiendo una variable extra al conjunto de datos, por ejemplo una variable `hs`, que nos diga `TRUE` si es de instituto y `FALSE` en caso contrario.
+
+```{r}
+netflix <-
+  netflix %>%
+  mutate(hs = str_detect(toupper(description), "HIGH SCHOOL"))
+glimpse(netflix)
+```
+
+Esa variable creada podemos usarla para realizar un conteo de frecuencias, para saber como se reparten nuestros datos respecto a dicha variable `hs`
+
+```{r}
+netflix %>% count(hs)
+```
+
+  
+Además vamos a añadir un filtro para eliminar ausentes, usando `drop_na()` con la variable `date_added`, indicándole que no queremos registros cuya **fecha de estreno esté ausente**
+
+```{r}
+netflix_filtro <- 
+  netflix_hs %>% filter(!is.na(date_added))
+
+# Comprobamos que efectivamente no quedan ausentes
+netflix_filtro %>% filter(is.na(date_added))
+```
+
+
+### Añadir variable de fecha
+
+
+Tras dicho filtro vamos a añadir el **año en el que se estrenó**, con la función `year()` de `{lubridate}`, que nos devuelve el año de una fecha concreta. Esa fecha concreta la vamos a construir con `mdy()`.
+
+```{r}
+library(lubridate)
+# Ejemplo de funcionamiento
+mdy("August 26, 2016")
+mdy("January 13, 2015")
+```
+
+```{r}
+netflix_final <- 
+  netflix_filtro %>%
+  mutate(year = year(mdy(date_added)))
+glimpse(netflix_final)
+```
+
+## Conteo y agrupación
+
+Tras la depuración, lo primero que haremos será **agrupar los datos por año** (que tenemos en la nueva variable `year` creada)
+
+```{r}
+netflix_resumen <- 
+  netflix_final %>%
+  group_by(year)
+```
+
+Tras ello usaremos dicha variable «invisible» de grupo para contar el número de elementos en cada año.
+
+```{r}
+netflix_resumen <- 
+  netflix_final %>%
+  group_by(year) %>%
+  count() %>%
+  ungroup()
+netflix_resumen
+```
+
+
+## Primer diagrama de barras
+
+Con estos datos ya estamos condiciones de poder hacer nuestro diagrama de barras. Realiza un diagrama de barras con el año en el eje X, el número de películas en cada una en el eje Y.
+
+* `x = year`: le indicamos dentro del `aes()` que la coordenada x será mapeada o codificada por la variable `year`
+* `y = n`: le indicamos dentro del `aes()` que la coordenada y será mapeada o codificada por la variable `n` (que ha salido del conteo).
+
+
+```{r eval = FALSE}
+ggplot(netflix_resumen, aes(x = year, y = n)) +
+  geom_col()
+```
+
+
+```{r echo = FALSE}
+ggplot(netflix_resumen,
+       aes(x = year, y = n)) +
+  geom_col()
+```
+
+
+### Color 
+
+Vamos a repetir el gráfico indicándole el color del RELLENO de las barras sea rojo (`"red"`), que va codificado en `fill`
+
+
+```{r}
+ggplot(netflix_resumen,
+       aes(x = year, y = n)) +
+  geom_col(fill = "red")
+```
+
+### Modificando la escala de los ejes
+
+
+Si te fijas solo nos ha mostrado algunos años en el eje X, así que le vamos a indicar la **escala concreta** que queremos en dicho eje con `scale_x_continuous()`, usando el argumento `breaks` en el que le indicaremos los valores donde queremos que «corte» el eje X (los corte serán los años guardados en `netflix_resumen$year`)
+
+
+```{r}
+ggplot(netflix_resumen, aes(x = year, y = n)) +
+  geom_col(fill = "red") +
+  scale_x_continuous(breaks = netflix_resumen$year)
+```
+
+### Fechas en los ejes 
+
+Cuando uno de los **ejes representa una fecha** podemos indicárselo con `scale_x_date()`, asigándole en `date_breaks` el lapso temporal que queremos en las marcas (por ejemplo, `date_breaks = '1 month'`). Como ejemplo, vamos a visualizar el número de películas y series generales estrenadas en Netflix desde el 1 de julio de 2020.
+
+Antes vamos filtrar el conjunto original `netflix` para quedarnos solo con los registros posteriroes al 1 de julio de 2020, agrupados por fecha
+
+```{r}
+netflix_julio_2022 <-
+  netflix %>%
+  mutate(date_added = mdy(date_added)) %>%
+  filter(date_added > as.Date("2020-07-01")) #<<
+```
+  
+Con el fichero `netflix_julio_2022`, y haciendo uso `geom_col()` y `scale_x_date(date_breaks = '1 month')`, visualizaremos los datos habiendo personalizado nosotros la escala de fechas del eje X (de mes en mes)
+
+```{r}
+ggplot(netflix_julio_2022 %>%
+         group_by(date_added) %>% count(),
+       aes(x = date_added, y = n)) +
+  geom_col(fill = "red") +
+  scale_x_date(date_breaks = '1 month')  
+```
+
+
+
+## Más allá: personalizando tema
+
+Lo primero que vamos a hacer para personalizar es **añadir título, subtítulo y caption**.
+
+
+```{r}
+ggplot(netflix_resumen,
+       aes(x = year, y = n)) +
+  geom_col(fill = "red") +
+  scale_x_continuous(breaks = netflix_resumen$year) +
+  labs(title = "NETFLIX", #<<
+       subtitle = "Películas y series de instituto",
+       caption =
+         "Basada en El Arte del Dato (https://elartedeldato.com) | Datos: Kaggle")
+```
+
+### Fuente propia
+
+En este caso, al ser datos de Netflix, la propia palabara de es una marca por sí misma, y quizás nos interese **usar alguna fuente de Google** para cambiar la fuente por defecto. En este caso vamos a usar la fuente de Netflix, la fuente `Bebas Neue`, y para poder usarla usaremos `font_add_google()`
+
+```{r}
+library(sysfonts)
+library(showtext)
+font_add_google(family = "Bebas Neue",
+                name = "Bebas Neue")
+showtext_auto()
+```
+
+Tras ello vamos a **personalizar totalmente nuestro tema**. Lo primero que haremos será «resetear» el tema que podamos tener por defecto  con `theme_minimal()`. Tras dicho reseteo, le indicaremos con `theme()`
+
+* `legend.position = "none"`: sin leyenda.
+* `plot.title = element_text(family = "Bebas Neue", color = "red", size = 50)`: le indicaremos la fuente, el color y el tamaño de nuestro título.
+
+```{r}
+gg <- ggplot(netflix_resumen, aes(x = year, y = n)) +
+  geom_col(fill = "red") +
+  scale_x_continuous(breaks = netflix_resumen$year) +
+  theme_minimal() +
+  theme(legend.position = "none",
+        plot.title =
+          element_text(family = "Bebas Neue",
+                       color = "red", size = 80)) +
+  labs(title = "NETFLIX",
+       subtitle = "Películas y series de instituto",
+       caption = "Basada en El Arte del Dato (https://elartedeldato.com) | Datos: Kaggle")
+gg
+```
+
+
+### Color de fondo
+
+
+Tras cambiar la fuente del título vamos a indicarle que el fondo del gráfico sea todo negro.
+
+```{r}
+gg <- 
+  gg +
+  theme(panel.background =
+          element_rect(fill = "black"),
+        plot.background =
+          element_rect(fill = "black", 
+                       color = "black"))
+gg
+```
+
+
+
+### Grid
+
+También vamos a personalizar el grid horizontal (el que marca las alturas del eje y), indicándole color y tamaño.
+
+```{r}
+gg <- gg +
+  theme(panel.grid.major.y =
+          element_line(size = 0.1,
+                       color = "white"),
+        panel.grid.minor.y = element_blank(),
+        panel.grid.major.x = element_blank(),
+        panel.grid.minor.x = element_blank())
+gg
+```
+
+
+### Fuentes de textos
+
+Vamos a personalizar también la **fuente del subtítulo y caption** y los textos de los ejes.
+
+```{r}
+font_add_google(family = "Permanent Marker",
+                name = "Permanent Marker")
+showtext_auto()
+gg <- gg + 
+  theme(plot.subtitle =
+          element_text(family = "Permanent Marker",
+                       size = 21, color = "white"),
+        plot.caption =
+          element_text(family = "Permanent Marker",
+                       color = "white", size = 19),
+        axis.text = 
+          element_text(size = 15,
+                       family = "Permanent Marker",
+                       color = "white"))
+gg
+```
+
+
+### Márgenes
+
+Vamos a darle un poco de aire **añadiendo márgenes**
+
+```{r}
+gg <- gg +
+  theme(plot.margin =
+          margin(t = 4, r = 4,
+                 b = 4, l = 8, "pt"))
+gg
+```
+
+
+### Anotaciones
+
+Por último con `annotate()` podemos añadir anotaciones al gráfico, por ejemplo, escribiendo el mes de enero en la última barra para remarcar que solo llega hasta enero de 2021, con una fina curva como «flecha».
+
+```{r}
+gg <- gg  +
+  annotate("text", label = "(hasta enero)", 
+           x = 2021, y = 11,
+           hjust = 0.3, vjust = 0,
+           family = "Permanent Marker",
+           size = 5, color='white', angle = 20) +
+  annotate("curve",
+           x = 2021, y = 9,
+           xend = 2021, yend = 5,
+           color = "white")
+gg
+```
+
+
+
