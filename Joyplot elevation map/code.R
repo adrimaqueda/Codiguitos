@@ -11,7 +11,7 @@ library(ggridges)
 library(emojifont)
 
 
-# Select a Spanish Region: Andalucia
+# Select a Spanish Region: Comunidad de Madrid
 region <- gisco_get_nuts(nuts_id = "ES30") %>%
   # And project data
   st_transform(25830)
