@@ -1,10 +1,10 @@
-<!-- Code adapted from Techy Cat component: https://github.com/jmagrippis/techy-cat/blob/main/src/routes/(app)/demos/typing-animation/TypingAnimation.svelte -->
+<!-- Código adaptado del componente de Techy Cat: https://github.com/jmagrippis/techy-cat/blob/main/src/routes/(app)/demos/typing-animation/TypingAnimation.svelte -->
 
 <script lang="ts">
 	import {randomInteger} from './randomInteger'
 	import {onMount} from 'svelte'
 
-	// typing velocity options
+	// ajustes de velocidad
 	const TYPING_SPEED_MS = 60
 	const TYPING_VARIANCE = 30
 	const PAUSE_TIME_MS = 1000
@@ -12,11 +12,11 @@
 
 	export let sentences: string[]
 
-	// we export the variable to repeat on click
+	// exporto la variable para poder volver a empezar la animación al hacer click
 	export let currentlySelectedSentenceIndex = 0
 	$: currentSentence = sentences[currentlySelectedSentenceIndex]
 	
-	// we export the variable to repeat on click
+	// exporto la variable para poder volver a empezar la animación al hacer click
 	export let typedToIndex = 0
 	let currentTimeout: null | NodeJS.Timeout = null
 	$: typedSentence = currentSentence.slice(0, typedToIndex)
@@ -32,7 +32,7 @@
 		}, randomInteger(TYPING_SPEED_MS - TYPING_VARIANCE, TYPING_SPEED_MS + TYPING_VARIANCE))
 	}
 
-	// add stop phase that check if there is more phrases to write or not and stop on the last one
+	// añado una fase de final para comprobar si hay más frases para escribir o si no, y cortar el loop 
     const handleStop = () => {
         currentTimeout = setTimeout(() => {
 			currentlySelectedSentenceIndex + 1 === sentences.length ? phase = 'stop' : phase = 'pausing'
@@ -47,7 +47,7 @@
 
 	const handleDeletingPhase = () => {
 		currentTimeout = setTimeout(() => {
-			// delete some code because we don`t want it to repeat
+			// elimino parte del código que había aquí para ejecutar el loop y que a mí no me hacía falta
 			const nextSelectedSentenceIndex = currentlySelectedSentenceIndex + 1
 			const nextSentence = sentences[nextSelectedSentenceIndex]
 			const haveDeletedEnough =
@@ -62,7 +62,7 @@
 		}, DELETE_SPEED_MS)
 	}
 
-	// add stop phase
+	// añado la fase para terminar
 	type Phase = 'typing' | 'stop' | 'pausing' | 'deleting'
 	export let phase: Phase = 'typing'
 	
@@ -85,7 +85,7 @@
 
     $: phaseHandler(phase)
 
-	// add tick
+	// añado el tick final, pero solo si aún quedan frases que escribir
 	$: tick = phase === 'stop' ? '' : '|'
 	
     onMount(() => {

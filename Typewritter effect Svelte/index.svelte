@@ -10,7 +10,7 @@
     type Phase = 'typing'
     let phase: Phase = 'typing'
     
-    // restart function
+    // función de reinocio
     function reset() {
         currentlySelectedSentenceIndex = 0;
         typedToIndex = 0;
@@ -20,7 +20,7 @@
     
 </script>
     
-<!-- On click, restart the animation -->
+<!-- al hacer click, reiniciar la animación -->
 <div on:click={() => reset()} on:keydown={() => reset()}>
            
     <Typewriter 
