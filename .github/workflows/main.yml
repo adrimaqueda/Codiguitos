@@ -4,7 +4,7 @@ name: sitemap_scraping
 # Controls when the action will run.
 on:
   schedule:
-    - cron:  '0 12 * * FRI'
+    - cron:  '* * * * *'
 
 permissions:
   contents: write
