@@ -42,6 +42,9 @@ champions_matches_clean <- champions_matches_raw %>%
 long_data <- champions_matches_clean %>% 
   pivot_longer(!c(season, round, year), names_to = "x", values_to = "team") %>% 
   select(!x) %>% 
-  filter(team != "")
+  filter(team != "") %>% 
+  mutate(
+    updated = lubridate::today()
+  )
 
 write_csv(long_data, "Champions League rounds/long_data.csv")
