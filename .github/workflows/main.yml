@@ -24,7 +24,7 @@ jobs:
         R -e 'install.packages("rvest")'
     # Run R script
     - name: Scrape
-      run: Rscript Champions League rounds/dataCleaning.R
+      run: Rscript 'Champions League rounds/dataCleaning.R'
       
  # Add new files in data folder, commit along with other modified files, push
     - name: Commit files
