@@ -1,5 +1,5 @@
 # Hourly scraping
-name: sitemap_scraping
+name: ucl_scraping
 
 # Controls when the action will run.
 on:
