@@ -35,13 +35,12 @@ champions_matches_clean <- champions_matches_raw %>%
     )
   ) %>% 
   filter(round %in% rounds) %>% 
-  select(!year) %>% 
-  mutate(year = str_sub(season, 0, 4)) %>% 
-  arrange(year)
+  arrange(year) %>% 
+  relocate(year)
 
 ##long data so we can analyze it
 long_data <- champions_matches_clean %>% 
-  pivot_longer(!c(season, round), names_to = "x", values_to = "team") %>% 
+  pivot_longer(!c(season, round, year), names_to = "x", values_to = "team") %>% 
   select(!x) %>% 
   filter(team != "")
 
