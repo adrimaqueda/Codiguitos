@@ -33,7 +33,7 @@ jobs:
       run: |
         git config --local user.name actions-user
         git config --local user.email "actions@github.com"
-        git add 'Champions League rounds/*'
+        git add *
         git commit -am "GH ACTION UCL rounds: $(date)"
         git push origin main
       env:
