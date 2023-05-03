@@ -1,3778 +1,2519 @@
-season,round,team
-2003/04,F,AS Monaco
-2003/04,F,FC Porto
-2003/04,F,2003
-2003/04,SF,FC Porto
-2003/04,SF,Deportivo La Coruña
-2003/04,SF,2003
-2003/04,SF,AS Monaco
-2003/04,SF,Chelsea
-2003/04,SF,2003
-2003/04,QF,Chelsea
-2003/04,QF,Arsenal
-2003/04,QF,2003
-2003/04,QF,Real Madrid
-2003/04,QF,AS Monaco
-2003/04,QF,2003
-2003/04,QF,AC Milan
-2003/04,QF,Deportivo La Coruña
-2003/04,QF,2003
-2003/04,QF,FC Porto
-2003/04,QF,Olympique Lyon
-2003/04,QF,2003
-2003/04,R16,Lokomotiv Moscow
-2003/04,R16,AS Monaco
-2003/04,R16,2003
-2003/04,R16,Sparta Praha
-2003/04,R16,AC Milan
-2003/04,R16,2003
-2003/04,R16,Bayern München
-2003/04,R16,Real Madrid
-2003/04,R16,2003
-2003/04,R16,Celta de Vigo
-2003/04,R16,Arsenal
-2003/04,R16,2003
-2003/04,R16,Deportivo La Coruña
-2003/04,R16,Juventus
-2003/04,R16,2003
-2003/04,R16,Real Sociedad
-2003/04,R16,Olympique Lyon
-2003/04,R16,2003
-2003/04,R16,FC Porto
-2003/04,R16,Manchester United
-2003/04,R16,2003
-2003/04,R16,VfB Stuttgart
-2003/04,R16,Chelsea
-2003/04,R16,2003
-2003/04,GS,AC Milan
-2003/04,GS,Club Brugge
-2003/04,GS,2003
-2003/04,GS,Ajax
-2003/04,GS,Celta de Vigo
-2003/04,GS,2003
-2003/04,GS,Ajax
-2003/04,GS,Club Brugge
-2003/04,GS,2003
-2003/04,GS,Celta de Vigo
-2003/04,GS,AC Milan
-2003/04,GS,2003
-2003/04,GS,Club Brugge
-2003/04,GS,Celta de Vigo
-2003/04,GS,2003
-2003/04,GS,AC Milan
-2003/04,GS,Ajax
-2003/04,GS,2003
-2003/04,GS,Sparta Praha
-2003/04,GS,Besiktas
-2003/04,GS,2003
-2003/04,GS,Chelsea
-2003/04,GS,Lazio
-2003/04,GS,2003
-2003/04,GS,Chelsea
-2003/04,GS,Besiktas
-2003/04,GS,2003
-2003/04,GS,Lazio
-2003/04,GS,Sparta Praha
-2003/04,GS,2003
-2003/04,GS,Besiktas
-2003/04,GS,Lazio
-2003/04,GS,2003
-2003/04,GS,Sparta Praha
-2003/04,GS,Chelsea
-2003/04,GS,2003
-2003/04,GS,Real Madrid
-2003/04,GS,Partizan Belgrade
-2003/04,GS,2003
-2003/04,GS,Olympique Marseille
-2003/04,GS,FC Porto
-2003/04,GS,2003
-2003/04,GS,Olympique Marseille
-2003/04,GS,Partizan Belgrade
-2003/04,GS,2003
-2003/04,GS,FC Porto
-2003/04,GS,Real Madrid
-2003/04,GS,2003
-2003/04,GS,Partizan Belgrade
-2003/04,GS,FC Porto
-2003/04,GS,2003
-2003/04,GS,Real Madrid
-2003/04,GS,Olympique Marseille
-2003/04,GS,2003
-2003/04,GS,Glasgow Rangers
-2003/04,GS,Manchester United
-2003/04,GS,2003
-2003/04,GS,VfB Stuttgart
-2003/04,GS,Panathinaikos
-2003/04,GS,2003
-2003/04,GS,VfB Stuttgart
-2003/04,GS,Manchester United
-2003/04,GS,2003
-2003/04,GS,Panathinaikos
-2003/04,GS,Glasgow Rangers
-2003/04,GS,2003
-2003/04,GS,Manchester United
-2003/04,GS,Panathinaikos
-2003/04,GS,2003
-2003/04,GS,Glasgow Rangers
-2003/04,GS,VfB Stuttgart
-2003/04,GS,2003
-2003/04,GS,Juventus
-2003/04,GS,Real Sociedad
-2003/04,GS,2003
-2003/04,GS,Galatasaray
-2003/04,GS,Olympiakos Piraeus
-2003/04,GS,2003
-2003/04,GS,Galatasaray
-2003/04,GS,Real Sociedad
-2003/04,GS,2003
-2003/04,GS,Olympiakos Piraeus
-2003/04,GS,Juventus
-2003/04,GS,2003
-2003/04,GS,Real Sociedad
-2003/04,GS,Olympiakos Piraeus
-2003/04,GS,2003
-2003/04,GS,Juventus
-2003/04,GS,Galatasaray
-2003/04,GS,2003
-2003/04,GS,AEK Athens
-2003/04,GS,PSV Eindhoven
-2003/04,GS,2003
-2003/04,GS,Deportivo La Coruña
-2003/04,GS,AS Monaco
-2003/04,GS,2003
-2003/04,GS,Deportivo La Coruña
-2003/04,GS,PSV Eindhoven
-2003/04,GS,2003
-2003/04,GS,AS Monaco
-2003/04,GS,AEK Athens
-2003/04,GS,2003
-2003/04,GS,PSV Eindhoven
-2003/04,GS,AS Monaco
-2003/04,GS,2003
-2003/04,GS,AEK Athens
-2003/04,GS,Deportivo La Coruña
-2003/04,GS,2003
-2003/04,GS,Dinamo Kiev
-2003/04,GS,Arsenal
-2003/04,GS,2003
-2003/04,GS,Lokomotiv Moscow
-2003/04,GS,Internazionale
-2003/04,GS,2003
-2003/04,GS,Lokomotiv Moscow
-2003/04,GS,Arsenal
-2003/04,GS,2003
-2003/04,GS,Internazionale
-2003/04,GS,Dinamo Kiev
-2003/04,GS,2003
-2003/04,GS,Arsenal
-2003/04,GS,Internazionale
-2003/04,GS,2003
-2003/04,GS,Dinamo Kiev
-2003/04,GS,Lokomotiv Moscow
-2003/04,GS,2003
-2003/04,GS,Olympique Lyon
-2003/04,GS,Bayern München
-2003/04,GS,2003
-2003/04,GS,Anderlecht
-2003/04,GS,Celtic
-2003/04,GS,2003
-2003/04,GS,Anderlecht
-2003/04,GS,Bayern München
-2003/04,GS,2003
-2003/04,GS,Celtic
-2003/04,GS,Olympique Lyon
-2003/04,GS,2003
-2003/04,GS,Bayern München
-2003/04,GS,Celtic
-2003/04,GS,2003
-2003/04,GS,Olympique Lyon
-2003/04,GS,Anderlecht
-2003/04,GS,2003
-2004/05,F,Liverpool
-2004/05,F,AC Milan
-2004/05,F,2004
-2004/05,SF,Chelsea
-2004/05,SF,Liverpool
-2004/05,SF,2004
-2004/05,SF,AC Milan
-2004/05,SF,PSV Eindhoven
-2004/05,SF,2004
-2004/05,QF,Chelsea
-2004/05,QF,Bayern München
-2004/05,QF,2004
-2004/05,QF,AC Milan
-2004/05,QF,Internazionale
-2004/05,QF,2004
-2004/05,QF,Olympique Lyon
-2004/05,QF,PSV Eindhoven
-2004/05,QF,2004
-2004/05,QF,Liverpool
-2004/05,QF,Juventus
-2004/05,QF,2004
-2004/05,R16,Bayern München
-2004/05,R16,Arsenal
-2004/05,R16,2004
-2004/05,R16,Manchester United
-2004/05,R16,AC Milan
-2004/05,R16,2004
-2004/05,R16,PSV Eindhoven
-2004/05,R16,AS Monaco
-2004/05,R16,2004
-2004/05,R16,Liverpool
-2004/05,R16,Bayer Leverkusen
-2004/05,R16,2004
-2004/05,R16,Werder Bremen
-2004/05,R16,Olympique Lyon
-2004/05,R16,2004
-2004/05,R16,FC Barcelona
-2004/05,R16,Chelsea
-2004/05,R16,2004
-2004/05,R16,FC Porto
-2004/05,R16,Internazionale
-2004/05,R16,2004
-2004/05,R16,Real Madrid
-2004/05,R16,Juventus
-2004/05,R16,2004
-2004/05,GS,Paris Saint-Germain
-2004/05,GS,FC Porto
-2004/05,GS,2004
-2004/05,GS,Chelsea
-2004/05,GS,CSKA Moscow
-2004/05,GS,2004
-2004/05,GS,Chelsea
-2004/05,GS,FC Porto
-2004/05,GS,2004
-2004/05,GS,CSKA Moscow
-2004/05,GS,Paris Saint-Germain
-2004/05,GS,2004
-2004/05,GS,FC Porto
-2004/05,GS,CSKA Moscow
-2004/05,GS,2004
-2004/05,GS,Paris Saint-Germain
-2004/05,GS,Chelsea
-2004/05,GS,2004
-2004/05,GS,Valencia
-2004/05,GS,Internazionale
-2004/05,GS,2004
-2004/05,GS,Anderlecht
-2004/05,GS,Werder Bremen
-2004/05,GS,2004
-2004/05,GS,Anderlecht
-2004/05,GS,Internazionale
-2004/05,GS,2004
-2004/05,GS,Werder Bremen
-2004/05,GS,Valencia
-2004/05,GS,2004
-2004/05,GS,Internazionale
-2004/05,GS,Werder Bremen
-2004/05,GS,2004
-2004/05,GS,Valencia
-2004/05,GS,Anderlecht
-2004/05,GS,2004
-2004/05,GS,Shakhtar Donetsk
-2004/05,GS,Celtic
-2004/05,GS,2004
-2004/05,GS,AC Milan
-2004/05,GS,FC Barcelona
-2004/05,GS,2004
-2004/05,GS,AC Milan
-2004/05,GS,Celtic
-2004/05,GS,2004
-2004/05,GS,FC Barcelona
-2004/05,GS,Shakhtar Donetsk
-2004/05,GS,2004
-2004/05,GS,Celtic
-2004/05,GS,FC Barcelona
-2004/05,GS,2004
-2004/05,GS,Shakhtar Donetsk
-2004/05,GS,AC Milan
-2004/05,GS,2004
-2004/05,GS,Panathinaikos
-2004/05,GS,Arsenal
-2004/05,GS,2004
-2004/05,GS,Rosenborg BK
-2004/05,GS,PSV Eindhoven
-2004/05,GS,2004
-2004/05,GS,Rosenborg BK
-2004/05,GS,Arsenal
-2004/05,GS,2004
-2004/05,GS,PSV Eindhoven
-2004/05,GS,Panathinaikos
-2004/05,GS,2004
-2004/05,GS,Arsenal
-2004/05,GS,PSV Eindhoven
-2004/05,GS,2004
-2004/05,GS,Panathinaikos
-2004/05,GS,Rosenborg BK
-2004/05,GS,2004
-2004/05,GS,Fenerbahçe
-2004/05,GS,Olympique Lyon
-2004/05,GS,2004
-2004/05,GS,Sparta Praha
-2004/05,GS,Manchester United
-2004/05,GS,2004
-2004/05,GS,Sparta Praha
-2004/05,GS,Olympique Lyon
-2004/05,GS,2004
-2004/05,GS,Manchester United
-2004/05,GS,Fenerbahçe
-2004/05,GS,2004
-2004/05,GS,Olympique Lyon
-2004/05,GS,Manchester United
-2004/05,GS,2004
-2004/05,GS,Fenerbahçe
-2004/05,GS,Sparta Praha
-2004/05,GS,2004
-2004/05,GS,Ajax
-2004/05,GS,Maccabi Tel-Aviv
-2004/05,GS,2004
-2004/05,GS,Juventus
-2004/05,GS,Bayern München
-2004/05,GS,2004
-2004/05,GS,Juventus
-2004/05,GS,Maccabi Tel-Aviv
-2004/05,GS,2004
-2004/05,GS,Bayern München
-2004/05,GS,Ajax
-2004/05,GS,2004
-2004/05,GS,Maccabi Tel-Aviv
-2004/05,GS,Bayern München
-2004/05,GS,2004
-2004/05,GS,Ajax
-2004/05,GS,Juventus
-2004/05,GS,2004
-2004/05,GS,Bayer Leverkusen
-2004/05,GS,AS Roma
-2004/05,GS,2004
-2004/05,GS,Real Madrid
-2004/05,GS,Dinamo Kiev
-2004/05,GS,2004
-2004/05,GS,Real Madrid
-2004/05,GS,AS Roma
-2004/05,GS,2004
-2004/05,GS,Dinamo Kiev
-2004/05,GS,Bayer Leverkusen
-2004/05,GS,2004
-2004/05,GS,AS Roma
-2004/05,GS,Dinamo Kiev
-2004/05,GS,2004
-2004/05,GS,Bayer Leverkusen
-2004/05,GS,Real Madrid
-2004/05,GS,2004
-2004/05,GS,Liverpool
-2004/05,GS,Deportivo La Coruña
-2004/05,GS,2004
-2004/05,GS,AS Monaco
-2004/05,GS,Olympiakos Piraeus
-2004/05,GS,2004
-2004/05,GS,AS Monaco
-2004/05,GS,Deportivo La Coruña
-2004/05,GS,2004
-2004/05,GS,Olympiakos Piraeus
-2004/05,GS,Liverpool
-2004/05,GS,2004
-2004/05,GS,Deportivo La Coruña
-2004/05,GS,Olympiakos Piraeus
-2004/05,GS,2004
-2004/05,GS,Liverpool
-2004/05,GS,AS Monaco
-2004/05,GS,2004
-2005/06,F,FC Barcelona
-2005/06,F,Arsenal
-2005/06,F,2005
-2005/06,SF,AC Milan
-2005/06,SF,FC Barcelona
-2005/06,SF,2005
-2005/06,SF,Arsenal
-2005/06,SF,Villarreal
-2005/06,SF,2005
-2005/06,QF,Benfica
-2005/06,QF,FC Barcelona
-2005/06,QF,2005
-2005/06,QF,Internazionale
-2005/06,QF,Villarreal
-2005/06,QF,2005
-2005/06,QF,Olympique Lyon
-2005/06,QF,AC Milan
-2005/06,QF,2005
-2005/06,QF,Arsenal
-2005/06,QF,Juventus
-2005/06,QF,2005
-2005/06,R16,Glasgow Rangers
-2005/06,R16,Villarreal
-2005/06,R16,2005
-2005/06,R16,Benfica
-2005/06,R16,Liverpool
-2005/06,R16,2005
-2005/06,R16,Ajax
-2005/06,R16,Internazionale
-2005/06,R16,2005
-2005/06,R16,PSV Eindhoven
-2005/06,R16,Olympique Lyon
-2005/06,R16,2005
-2005/06,R16,Bayern München
-2005/06,R16,AC Milan
-2005/06,R16,2005
-2005/06,R16,Werder Bremen
-2005/06,R16,Juventus
-2005/06,R16,2005
-2005/06,R16,Real Madrid
-2005/06,R16,Arsenal
-2005/06,R16,2005
-2005/06,R16,Chelsea
-2005/06,R16,FC Barcelona
-2005/06,R16,2005
-2005/06,GS,Glasgow Rangers
-2005/06,GS,Petrzalka Bratislava
-2005/06,GS,2005
-2005/06,GS,FC Porto
-2005/06,GS,Internazionale
-2005/06,GS,2005
-2005/06,GS,FC Porto
-2005/06,GS,Petrzalka Bratislava
-2005/06,GS,2005
-2005/06,GS,Internazionale
-2005/06,GS,Glasgow Rangers
-2005/06,GS,2005
-2005/06,GS,Petrzalka Bratislava
-2005/06,GS,Internazionale
-2005/06,GS,2005
-2005/06,GS,Glasgow Rangers
-2005/06,GS,FC Porto
-2005/06,GS,2005
-2005/06,GS,Chelsea
-2005/06,GS,Real Betis
-2005/06,GS,2005
-2005/06,GS,Anderlecht
-2005/06,GS,Liverpool
-2005/06,GS,2005
-2005/06,GS,Anderlecht
-2005/06,GS,Real Betis
-2005/06,GS,2005
-2005/06,GS,Liverpool
-2005/06,GS,Chelsea
-2005/06,GS,2005
-2005/06,GS,Real Betis
-2005/06,GS,Liverpool
-2005/06,GS,2005
-2005/06,GS,Chelsea
-2005/06,GS,Anderlecht
-2005/06,GS,2005
-2005/06,GS,Olympique Lyon
-2005/06,GS,Olympiakos Piraeus
-2005/06,GS,2005
-2005/06,GS,Real Madrid
-2005/06,GS,Rosenborg BK
-2005/06,GS,2005
-2005/06,GS,Real Madrid
-2005/06,GS,Olympiakos Piraeus
-2005/06,GS,2005
-2005/06,GS,Rosenborg BK
-2005/06,GS,Olympique Lyon
-2005/06,GS,2005
-2005/06,GS,Olympiakos Piraeus
-2005/06,GS,Rosenborg BK
-2005/06,GS,2005
-2005/06,GS,Olympique Lyon
-2005/06,GS,Real Madrid
-2005/06,GS,2005
-2005/06,GS,AC Milan
-2005/06,GS,PSV Eindhoven
-2005/06,GS,2005
-2005/06,GS,Fenerbahçe
-2005/06,GS,Schalke 04
-2005/06,GS,2005
-2005/06,GS,Fenerbahçe
-2005/06,GS,PSV Eindhoven
-2005/06,GS,2005
-2005/06,GS,Schalke 04
-2005/06,GS,AC Milan
-2005/06,GS,2005
-2005/06,GS,PSV Eindhoven
-2005/06,GS,Schalke 04
-2005/06,GS,2005
-2005/06,GS,AC Milan
-2005/06,GS,Fenerbahçe
-2005/06,GS,2005
-2005/06,GS,Villarreal
-2005/06,GS,Benfica
-2005/06,GS,2005
-2005/06,GS,Manchester United
-2005/06,GS,Lille OSC
-2005/06,GS,2005
-2005/06,GS,Manchester United
-2005/06,GS,Benfica
-2005/06,GS,2005
-2005/06,GS,Lille OSC
-2005/06,GS,Villarreal
-2005/06,GS,2005
-2005/06,GS,Benfica
-2005/06,GS,Lille OSC
-2005/06,GS,2005
-2005/06,GS,Villarreal
-2005/06,GS,Manchester United
-2005/06,GS,2005
-2005/06,GS,Udinese
-2005/06,GS,Werder Bremen
-2005/06,GS,2005
-2005/06,GS,Panathinaikos
-2005/06,GS,FC Barcelona
-2005/06,GS,2005
-2005/06,GS,Panathinaikos
-2005/06,GS,Werder Bremen
-2005/06,GS,2005
-2005/06,GS,FC Barcelona
-2005/06,GS,Udinese
-2005/06,GS,2005
-2005/06,GS,Werder Bremen
-2005/06,GS,FC Barcelona
-2005/06,GS,2005
-2005/06,GS,Udinese
-2005/06,GS,Panathinaikos
-2005/06,GS,2005
-2005/06,GS,Sparta Praha
-2005/06,GS,Arsenal
-2005/06,GS,2005
-2005/06,GS,Ajax
-2005/06,GS,FC Thun
-2005/06,GS,2005
-2005/06,GS,Ajax
-2005/06,GS,Arsenal
-2005/06,GS,2005
-2005/06,GS,FC Thun
-2005/06,GS,Sparta Praha
-2005/06,GS,2005
-2005/06,GS,Arsenal
-2005/06,GS,FC Thun
-2005/06,GS,2005
-2005/06,GS,Sparta Praha
-2005/06,GS,Ajax
-2005/06,GS,2005
-2005/06,GS,Rapid Wien
-2005/06,GS,Club Brugge
-2005/06,GS,2005
-2005/06,GS,Bayern München
-2005/06,GS,Juventus
-2005/06,GS,2005
-2005/06,GS,Bayern München
-2005/06,GS,Club Brugge
-2005/06,GS,2005
-2005/06,GS,Juventus
-2005/06,GS,Rapid Wien
-2005/06,GS,2005
-2005/06,GS,Club Brugge
-2005/06,GS,Juventus
-2005/06,GS,2005
-2005/06,GS,Rapid Wien
-2005/06,GS,Bayern München
-2005/06,GS,2005
-2006/07,F,Liverpool
-2006/07,F,AC Milan
-2006/07,F,2006
-2006/07,SF,Manchester United
-2006/07,SF,AC Milan
-2006/07,SF,2006
-2006/07,SF,Chelsea
-2006/07,SF,Liverpool
-2006/07,SF,2006
-2006/07,QF,Chelsea
-2006/07,QF,Valencia
-2006/07,QF,2006
-2006/07,QF,AS Roma
-2006/07,QF,Manchester United
-2006/07,QF,2006
-2006/07,QF,PSV Eindhoven
-2006/07,QF,Liverpool
-2006/07,QF,2006
-2006/07,QF,AC Milan
-2006/07,QF,Bayern München
-2006/07,QF,2006
-2006/07,R16,Internazionale
-2006/07,R16,Valencia
-2006/07,R16,2006
-2006/07,R16,FC Porto
-2006/07,R16,Chelsea
-2006/07,R16,2006
-2006/07,R16,FC Barcelona
-2006/07,R16,Liverpool
-2006/07,R16,2006
-2006/07,R16,AS Roma
-2006/07,R16,Olympique Lyon
-2006/07,R16,2006
-2006/07,R16,Real Madrid
-2006/07,R16,Bayern München
-2006/07,R16,2006
-2006/07,R16,PSV Eindhoven
-2006/07,R16,Arsenal
-2006/07,R16,2006
-2006/07,R16,Lille OSC
-2006/07,R16,Manchester United
-2006/07,R16,2006
-2006/07,R16,Celtic
-2006/07,R16,AC Milan
-2006/07,R16,2006
-2006/07,GS,Anderlecht
-2006/07,GS,AC Milan
-2006/07,GS,2006
-2006/07,GS,Lille OSC
-2006/07,GS,AEK Athens
-2006/07,GS,2006
-2006/07,GS,Lille OSC
-2006/07,GS,AC Milan
-2006/07,GS,2006
-2006/07,GS,AEK Athens
-2006/07,GS,Anderlecht
-2006/07,GS,2006
-2006/07,GS,AC Milan
-2006/07,GS,AEK Athens
-2006/07,GS,2006
-2006/07,GS,Anderlecht
-2006/07,GS,Lille OSC
-2006/07,GS,2006
-2006/07,GS,FC Porto
-2006/07,GS,Hamburger SV
-2006/07,GS,2006
-2006/07,GS,CSKA Moscow
-2006/07,GS,Arsenal
-2006/07,GS,2006
-2006/07,GS,CSKA Moscow
-2006/07,GS,Hamburger SV
-2006/07,GS,2006
-2006/07,GS,Arsenal
-2006/07,GS,FC Porto
-2006/07,GS,2006
-2006/07,GS,Hamburger SV
-2006/07,GS,Arsenal
-2006/07,GS,2006
-2006/07,GS,FC Porto
-2006/07,GS,CSKA Moscow
-2006/07,GS,2006
-2006/07,GS,Manchester United
-2006/07,GS,FC København
-2006/07,GS,2006
-2006/07,GS,Celtic
-2006/07,GS,Benfica
-2006/07,GS,2006
-2006/07,GS,Celtic
-2006/07,GS,FC København
-2006/07,GS,2006
-2006/07,GS,Benfica
-2006/07,GS,Manchester United
-2006/07,GS,2006
-2006/07,GS,FC København
-2006/07,GS,Benfica
-2006/07,GS,2006
-2006/07,GS,Manchester United
-2006/07,GS,Celtic
-2006/07,GS,2006
-2006/07,GS,Dinamo Kiev
-2006/07,GS,Olympique Lyon
-2006/07,GS,2006
-2006/07,GS,Steaua Bucuresti
-2006/07,GS,Real Madrid
-2006/07,GS,2006
-2006/07,GS,Steaua Bucuresti
-2006/07,GS,Olympique Lyon
-2006/07,GS,2006
-2006/07,GS,Real Madrid
-2006/07,GS,Dinamo Kiev
-2006/07,GS,2006
-2006/07,GS,Olympique Lyon
-2006/07,GS,Real Madrid
-2006/07,GS,2006
-2006/07,GS,Dinamo Kiev
-2006/07,GS,Steaua Bucuresti
-2006/07,GS,2006
-2006/07,GS,Olympiakos Piraeus
-2006/07,GS,AS Roma
-2006/07,GS,2006
-2006/07,GS,Valencia
-2006/07,GS,Shakhtar Donetsk
-2006/07,GS,2006
-2006/07,GS,Valencia
-2006/07,GS,AS Roma
-2006/07,GS,2006
-2006/07,GS,Shakhtar Donetsk
-2006/07,GS,Olympiakos Piraeus
-2006/07,GS,2006
-2006/07,GS,AS Roma
-2006/07,GS,Shakhtar Donetsk
-2006/07,GS,2006
-2006/07,GS,Olympiakos Piraeus
-2006/07,GS,Valencia
-2006/07,GS,2006
-2006/07,GS,Galatasaray
-2006/07,GS,PSV Eindhoven
-2006/07,GS,2006
-2006/07,GS,Girondins Bordeaux
-2006/07,GS,Liverpool
-2006/07,GS,2006
-2006/07,GS,Girondins Bordeaux
-2006/07,GS,PSV Eindhoven
-2006/07,GS,2006
-2006/07,GS,Liverpool
-2006/07,GS,Galatasaray
-2006/07,GS,2006
-2006/07,GS,PSV Eindhoven
-2006/07,GS,Liverpool
-2006/07,GS,2006
-2006/07,GS,Galatasaray
-2006/07,GS,Girondins Bordeaux
-2006/07,GS,2006
-2006/07,GS,Sporting CP Lisbon
-2006/07,GS,Bayern München
-2006/07,GS,2006
-2006/07,GS,Internazionale
-2006/07,GS,Spartak Moscow
-2006/07,GS,2006
-2006/07,GS,Internazionale
-2006/07,GS,Bayern München
-2006/07,GS,2006
-2006/07,GS,Spartak Moscow
-2006/07,GS,Sporting CP Lisbon
-2006/07,GS,2006
-2006/07,GS,Bayern München
-2006/07,GS,Spartak Moscow
-2006/07,GS,2006
-2006/07,GS,Sporting CP Lisbon
-2006/07,GS,Internazionale
-2006/07,GS,2006
-2006/07,GS,Chelsea
-2006/07,GS,FC Barcelona
-2006/07,GS,2006
-2006/07,GS,Werder Bremen
-2006/07,GS,Levski Sofia
-2006/07,GS,2006
-2006/07,GS,Werder Bremen
-2006/07,GS,FC Barcelona
-2006/07,GS,2006
-2006/07,GS,Levski Sofia
-2006/07,GS,Chelsea
-2006/07,GS,2006
-2006/07,GS,FC Barcelona
-2006/07,GS,Levski Sofia
-2006/07,GS,2006
-2006/07,GS,Chelsea
-2006/07,GS,Werder Bremen
-2006/07,GS,2006
-2007/08,F,Manchester United
-2007/08,F,Chelsea
-2007/08,F,2007
-2007/08,SF,FC Barcelona
-2007/08,SF,Manchester United
-2007/08,SF,2007
-2007/08,SF,Liverpool
-2007/08,SF,Chelsea
-2007/08,SF,2007
-2007/08,QF,Fenerbahçe
-2007/08,QF,Chelsea
-2007/08,QF,2007
-2007/08,QF,Schalke 04
-2007/08,QF,FC Barcelona
-2007/08,QF,2007
-2007/08,QF,AS Roma
-2007/08,QF,Manchester United
-2007/08,QF,2007
-2007/08,QF,Arsenal
-2007/08,QF,Liverpool
-2007/08,QF,2007
-2007/08,R16,Fenerbahçe
-2007/08,R16,Sevilla
-2007/08,R16,2007
-2007/08,R16,Olympiakos Piraeus
-2007/08,R16,Chelsea
-2007/08,R16,2007
-2007/08,R16,Arsenal
-2007/08,R16,AC Milan
-2007/08,R16,2007
-2007/08,R16,AS Roma
-2007/08,R16,Real Madrid
-2007/08,R16,2007
-2007/08,R16,Liverpool
-2007/08,R16,Internazionale
-2007/08,R16,2007
-2007/08,R16,Schalke 04
-2007/08,R16,FC Porto
-2007/08,R16,2007
-2007/08,R16,Olympique Lyon
-2007/08,R16,Manchester United
-2007/08,R16,2007
-2007/08,R16,Celtic
-2007/08,R16,FC Barcelona
-2007/08,R16,2007
-2007/08,GS,Arsenal
-2007/08,GS,Slavia Praha
-2007/08,GS,2007
-2007/08,GS,Sevilla
-2007/08,GS,Steaua Bucuresti
-2007/08,GS,2007
-2007/08,GS,Sevilla
-2007/08,GS,Slavia Praha
-2007/08,GS,2007
-2007/08,GS,Steaua Bucuresti
-2007/08,GS,Arsenal
-2007/08,GS,2007
-2007/08,GS,Slavia Praha
-2007/08,GS,Steaua Bucuresti
-2007/08,GS,2007
-2007/08,GS,Arsenal
-2007/08,GS,Sevilla
-2007/08,GS,2007
-2007/08,GS,PSV Eindhoven
-2007/08,GS,Fenerbahçe
-2007/08,GS,2007
-2007/08,GS,CSKA Moscow
-2007/08,GS,Internazionale
-2007/08,GS,2007
-2007/08,GS,CSKA Moscow
-2007/08,GS,Fenerbahçe
-2007/08,GS,2007
-2007/08,GS,Internazionale
-2007/08,GS,PSV Eindhoven
-2007/08,GS,2007
-2007/08,GS,Fenerbahçe
-2007/08,GS,Internazionale
-2007/08,GS,2007
-2007/08,GS,PSV Eindhoven
-2007/08,GS,CSKA Moscow
-2007/08,GS,2007
-2007/08,GS,AS Roma
-2007/08,GS,Sporting CP Lisbon
-2007/08,GS,2007
-2007/08,GS,Dinamo Kiev
-2007/08,GS,Manchester United
-2007/08,GS,2007
-2007/08,GS,Dinamo Kiev
-2007/08,GS,Sporting CP Lisbon
-2007/08,GS,2007
-2007/08,GS,Manchester United
-2007/08,GS,AS Roma
-2007/08,GS,2007
-2007/08,GS,Sporting CP Lisbon
-2007/08,GS,Manchester United
-2007/08,GS,2007
-2007/08,GS,AS Roma
-2007/08,GS,Dinamo Kiev
-2007/08,GS,2007
-2007/08,GS,Glasgow Rangers
-2007/08,GS,FC Barcelona
-2007/08,GS,2007
-2007/08,GS,VfB Stuttgart
-2007/08,GS,Olympique Lyon
-2007/08,GS,2007
-2007/08,GS,VfB Stuttgart
-2007/08,GS,FC Barcelona
-2007/08,GS,2007
-2007/08,GS,Olympique Lyon
-2007/08,GS,Glasgow Rangers
-2007/08,GS,2007
-2007/08,GS,FC Barcelona
-2007/08,GS,Olympique Lyon
-2007/08,GS,2007
-2007/08,GS,Glasgow Rangers
-2007/08,GS,VfB Stuttgart
-2007/08,GS,2007
-2007/08,GS,AC Milan
-2007/08,GS,Shakhtar Donetsk
-2007/08,GS,2007
-2007/08,GS,Benfica
-2007/08,GS,Celtic
-2007/08,GS,2007
-2007/08,GS,Benfica
-2007/08,GS,Shakhtar Donetsk
-2007/08,GS,2007
-2007/08,GS,Celtic
-2007/08,GS,AC Milan
-2007/08,GS,2007
-2007/08,GS,Shakhtar Donetsk
-2007/08,GS,Celtic
-2007/08,GS,2007
-2007/08,GS,AC Milan
-2007/08,GS,Benfica
-2007/08,GS,2007
-2007/08,GS,Real Madrid
-2007/08,GS,Olympiakos Piraeus
-2007/08,GS,2007
-2007/08,GS,Werder Bremen
-2007/08,GS,Lazio
-2007/08,GS,2007
-2007/08,GS,Werder Bremen
-2007/08,GS,Olympiakos Piraeus
-2007/08,GS,2007
-2007/08,GS,Lazio
-2007/08,GS,Real Madrid
-2007/08,GS,2007
-2007/08,GS,Olympiakos Piraeus
-2007/08,GS,Lazio
-2007/08,GS,2007
-2007/08,GS,Real Madrid
-2007/08,GS,Werder Bremen
-2007/08,GS,2007
-2007/08,GS,Chelsea
-2007/08,GS,Schalke 04
-2007/08,GS,2007
-2007/08,GS,Rosenborg BK
-2007/08,GS,Valencia
-2007/08,GS,2007
-2007/08,GS,Rosenborg BK
-2007/08,GS,Schalke 04
-2007/08,GS,2007
-2007/08,GS,Valencia
-2007/08,GS,Chelsea
-2007/08,GS,2007
-2007/08,GS,Schalke 04
-2007/08,GS,Valencia
-2007/08,GS,2007
-2007/08,GS,Chelsea
-2007/08,GS,Rosenborg BK
-2007/08,GS,2007
-2007/08,GS,Olympique Marseille
-2007/08,GS,FC Porto
-2007/08,GS,2007
-2007/08,GS,Besiktas
-2007/08,GS,Liverpool
-2007/08,GS,2007
-2007/08,GS,Besiktas
-2007/08,GS,FC Porto
-2007/08,GS,2007
-2007/08,GS,Liverpool
-2007/08,GS,Olympique Marseille
-2007/08,GS,2007
-2007/08,GS,FC Porto
-2007/08,GS,Liverpool
-2007/08,GS,2007
-2007/08,GS,Olympique Marseille
-2007/08,GS,Besiktas
-2007/08,GS,2007
-2008/09,F,FC Barcelona
-2008/09,F,Manchester United
-2008/09,F,2008
-2008/09,SF,FC Barcelona
-2008/09,SF,Chelsea
-2008/09,SF,2008
-2008/09,SF,Manchester United
-2008/09,SF,Arsenal
-2008/09,SF,2008
-2008/09,QF,FC Barcelona
-2008/09,QF,Bayern München
-2008/09,QF,2008
-2008/09,QF,Liverpool
-2008/09,QF,Chelsea
-2008/09,QF,2008
-2008/09,QF,Manchester United
-2008/09,QF,FC Porto
-2008/09,QF,2008
-2008/09,QF,Villarreal
-2008/09,QF,Arsenal
-2008/09,QF,2008
-2008/09,R16,Sporting CP Lisbon
-2008/09,R16,Bayern München
-2008/09,R16,2008
-2008/09,R16,Villarreal
-2008/09,R16,Panathinaikos
-2008/09,R16,2008
-2008/09,R16,Chelsea
-2008/09,R16,Juventus
-2008/09,R16,2008
-2008/09,R16,Real Madrid
-2008/09,R16,Liverpool
-2008/09,R16,2008
-2008/09,R16,Internazionale
-2008/09,R16,Manchester United
-2008/09,R16,2008
-2008/09,R16,Arsenal
-2008/09,R16,AS Roma
-2008/09,R16,2008
-2008/09,R16,Olympique Lyon
-2008/09,R16,FC Barcelona
-2008/09,R16,2008
-2008/09,R16,Atlético Madrid
-2008/09,R16,FC Porto
-2008/09,R16,2008
-2008/09,GS,Juventus
-2008/09,GS,Real Madrid
-2008/09,GS,2008
-2008/09,GS,Zenit St. Petersburg
-2008/09,GS,BATE Borisov
-2008/09,GS,2008
-2008/09,GS,Zenit St. Petersburg
-2008/09,GS,Real Madrid
-2008/09,GS,2008
-2008/09,GS,BATE Borisov
-2008/09,GS,Juventus
-2008/09,GS,2008
-2008/09,GS,Real Madrid
-2008/09,GS,BATE Borisov
-2008/09,GS,2008
-2008/09,GS,Juventus
-2008/09,GS,Zenit St. Petersburg
-2008/09,GS,2008
-2008/09,GS,FC Porto
-2008/09,GS,Dinamo Kiev
-2008/09,GS,2008
-2008/09,GS,Fenerbahçe
-2008/09,GS,Arsenal
-2008/09,GS,2008
-2008/09,GS,Fenerbahçe
-2008/09,GS,Dinamo Kiev
-2008/09,GS,2008
-2008/09,GS,Arsenal
-2008/09,GS,FC Porto
-2008/09,GS,2008
-2008/09,GS,Dinamo Kiev
-2008/09,GS,Arsenal
-2008/09,GS,2008
-2008/09,GS,FC Porto
-2008/09,GS,Fenerbahçe
-2008/09,GS,2008
-2008/09,GS,Steaua Bucuresti
-2008/09,GS,Olympique Lyon
-2008/09,GS,2008
-2008/09,GS,Bayern München
-2008/09,GS,Fiorentina
-2008/09,GS,2008
-2008/09,GS,Bayern München
-2008/09,GS,Olympique Lyon
-2008/09,GS,2008
-2008/09,GS,Fiorentina
-2008/09,GS,Steaua Bucuresti
-2008/09,GS,2008
-2008/09,GS,Olympique Lyon
-2008/09,GS,Fiorentina
-2008/09,GS,2008
-2008/09,GS,Steaua Bucuresti
-2008/09,GS,Bayern München
-2008/09,GS,2008
-2008/09,GS,Manchester United
-2008/09,GS,Celtic
-2008/09,GS,2008
-2008/09,GS,Villarreal
-2008/09,GS,AaB Aalborg
-2008/09,GS,2008
-2008/09,GS,Villarreal
-2008/09,GS,Celtic
-2008/09,GS,2008
-2008/09,GS,AaB Aalborg
-2008/09,GS,Manchester United
-2008/09,GS,2008
-2008/09,GS,Celtic
-2008/09,GS,AaB Aalborg
-2008/09,GS,2008
-2008/09,GS,Manchester United
-2008/09,GS,Villarreal
-2008/09,GS,2008
-2008/09,GS,PSV Eindhoven
-2008/09,GS,Olympique Marseille
-2008/09,GS,2008
-2008/09,GS,Atlético Madrid
-2008/09,GS,Liverpool
-2008/09,GS,2008
-2008/09,GS,Atlético Madrid
-2008/09,GS,Olympique Marseille
-2008/09,GS,2008
-2008/09,GS,Liverpool
-2008/09,GS,PSV Eindhoven
-2008/09,GS,2008
-2008/09,GS,Olympique Marseille
-2008/09,GS,Liverpool
-2008/09,GS,2008
-2008/09,GS,PSV Eindhoven
-2008/09,GS,Atlético Madrid
-2008/09,GS,2008
-2008/09,GS,FC Basel
-2008/09,GS,FC Barcelona
-2008/09,GS,2008
-2008/09,GS,Shakhtar Donetsk
-2008/09,GS,Sporting CP Lisbon
-2008/09,GS,2008
-2008/09,GS,Shakhtar Donetsk
-2008/09,GS,FC Barcelona
-2008/09,GS,2008
-2008/09,GS,Sporting CP Lisbon
-2008/09,GS,FC Basel
-2008/09,GS,2008
-2008/09,GS,FC Barcelona
-2008/09,GS,Sporting CP Lisbon
-2008/09,GS,2008
-2008/09,GS,FC Basel
-2008/09,GS,Shakhtar Donetsk
-2008/09,GS,2008
-2008/09,GS,Panathinaikos
-2008/09,GS,Werder Bremen
-2008/09,GS,2008
-2008/09,GS,Internazionale
-2008/09,GS,Anorthosis Famagusta
-2008/09,GS,2008
-2008/09,GS,Internazionale
-2008/09,GS,Werder Bremen
-2008/09,GS,2008
-2008/09,GS,Anorthosis Famagusta
-2008/09,GS,Panathinaikos
-2008/09,GS,2008
-2008/09,GS,Werder Bremen
-2008/09,GS,Anorthosis Famagusta
-2008/09,GS,2008
-2008/09,GS,Panathinaikos
-2008/09,GS,Internazionale
-2008/09,GS,2008
-2008/09,GS,Chelsea
-2008/09,GS,AS Roma
-2008/09,GS,2008
-2008/09,GS,Girondins Bordeaux
-2008/09,GS,CFR Cluj
-2008/09,GS,2008
-2008/09,GS,Girondins Bordeaux
-2008/09,GS,AS Roma
-2008/09,GS,2008
-2008/09,GS,CFR Cluj
-2008/09,GS,Chelsea
-2008/09,GS,2008
-2008/09,GS,AS Roma
-2008/09,GS,CFR Cluj
-2008/09,GS,2008
-2008/09,GS,Chelsea
-2008/09,GS,Girondins Bordeaux
-2008/09,GS,2008
-2009/10,F,Internazionale
-2009/10,F,Bayern München
-2009/10,F,2009
-2009/10,SF,Internazionale
-2009/10,SF,FC Barcelona
-2009/10,SF,2009
-2009/10,SF,Bayern München
-2009/10,SF,Olympique Lyon
-2009/10,SF,2009
-2009/10,QF,Internazionale
-2009/10,QF,CSKA Moscow
-2009/10,QF,2009
-2009/10,QF,Arsenal
-2009/10,QF,FC Barcelona
-2009/10,QF,2009
-2009/10,QF,Bayern München
-2009/10,QF,Manchester United
-2009/10,QF,2009
-2009/10,QF,Olympique Lyon
-2009/10,QF,Girondins Bordeaux
-2009/10,QF,2009
-2009/10,R16,AC Milan
-2009/10,R16,Manchester United
-2009/10,R16,2009
-2009/10,R16,FC Porto
-2009/10,R16,Arsenal
-2009/10,R16,2009
-2009/10,R16,Olympique Lyon
-2009/10,R16,Real Madrid
-2009/10,R16,2009
-2009/10,R16,CSKA Moscow
-2009/10,R16,Sevilla
-2009/10,R16,2009
-2009/10,R16,Bayern München
-2009/10,R16,Fiorentina
-2009/10,R16,2009
-2009/10,R16,Internazionale
-2009/10,R16,Chelsea
-2009/10,R16,2009
-2009/10,R16,Olympiakos Piraeus
-2009/10,R16,Girondins Bordeaux
-2009/10,R16,2009
-2009/10,R16,VfB Stuttgart
-2009/10,R16,FC Barcelona
-2009/10,R16,2009
-2009/10,GS,Olympiakos Piraeus
-2009/10,GS,Standard Liège
-2009/10,GS,2009
-2009/10,GS,AZ Alkmaar
-2009/10,GS,Arsenal
-2009/10,GS,2009
-2009/10,GS,AZ Alkmaar
-2009/10,GS,Standard Liège
-2009/10,GS,2009
-2009/10,GS,Arsenal
-2009/10,GS,Olympiakos Piraeus
-2009/10,GS,2009
-2009/10,GS,Standard Liège
-2009/10,GS,Arsenal
-2009/10,GS,2009
-2009/10,GS,Olympiakos Piraeus
-2009/10,GS,AZ Alkmaar
-2009/10,GS,2009
-2009/10,GS,VfB Stuttgart
-2009/10,GS,Sevilla
-2009/10,GS,2009
-2009/10,GS,Glasgow Rangers
-2009/10,GS,Unirea Urziceni
-2009/10,GS,2009
-2009/10,GS,Glasgow Rangers
-2009/10,GS,Sevilla
-2009/10,GS,2009
-2009/10,GS,Unirea Urziceni
-2009/10,GS,VfB Stuttgart
-2009/10,GS,2009
-2009/10,GS,Sevilla
-2009/10,GS,Unirea Urziceni
-2009/10,GS,2009
-2009/10,GS,VfB Stuttgart
-2009/10,GS,Glasgow Rangers
-2009/10,GS,2009
-2009/10,GS,Internazionale
-2009/10,GS,Dinamo Kiev
-2009/10,GS,2009
-2009/10,GS,FC Barcelona
-2009/10,GS,Rubin Kazan
-2009/10,GS,2009
-2009/10,GS,FC Barcelona
-2009/10,GS,Dinamo Kiev
-2009/10,GS,2009
-2009/10,GS,Rubin Kazan
-2009/10,GS,Internazionale
-2009/10,GS,2009
-2009/10,GS,Dinamo Kiev
-2009/10,GS,Rubin Kazan
-2009/10,GS,2009
-2009/10,GS,Internazionale
-2009/10,GS,FC Barcelona
-2009/10,GS,2009
-2009/10,GS,Liverpool
-2009/10,GS,Olympique Lyon
-2009/10,GS,2009
-2009/10,GS,DVSC Debrecen
-2009/10,GS,Fiorentina
-2009/10,GS,2009
-2009/10,GS,DVSC Debrecen
-2009/10,GS,Olympique Lyon
-2009/10,GS,2009
-2009/10,GS,Fiorentina
-2009/10,GS,Liverpool
-2009/10,GS,2009
-2009/10,GS,Olympique Lyon
-2009/10,GS,Fiorentina
-2009/10,GS,2009
-2009/10,GS,Liverpool
-2009/10,GS,DVSC Debrecen
-2009/10,GS,2009
-2009/10,GS,Chelsea
-2009/10,GS,Atlético Madrid
-2009/10,GS,2009
-2009/10,GS,FC Porto
-2009/10,GS,APOEL Nicosia
-2009/10,GS,2009
-2009/10,GS,FC Porto
-2009/10,GS,Atlético Madrid
-2009/10,GS,2009
-2009/10,GS,APOEL Nicosia
-2009/10,GS,Chelsea
-2009/10,GS,2009
-2009/10,GS,Atlético Madrid
-2009/10,GS,APOEL Nicosia
-2009/10,GS,2009
-2009/10,GS,Chelsea
-2009/10,GS,FC Porto
-2009/10,GS,2009
-2009/10,GS,FC Zürich
-2009/10,GS,Olympique Marseille
-2009/10,GS,2009
-2009/10,GS,Real Madrid
-2009/10,GS,AC Milan
-2009/10,GS,2009
-2009/10,GS,Real Madrid
-2009/10,GS,Olympique Marseille
-2009/10,GS,2009
-2009/10,GS,AC Milan
-2009/10,GS,FC Zürich
-2009/10,GS,2009
-2009/10,GS,Olympique Marseille
-2009/10,GS,AC Milan
-2009/10,GS,2009
-2009/10,GS,FC Zürich
-2009/10,GS,Real Madrid
-2009/10,GS,2009
-2009/10,GS,VfL Wolfsburg
-2009/10,GS,Besiktas
-2009/10,GS,2009
-2009/10,GS,CSKA Moscow
-2009/10,GS,Manchester United
-2009/10,GS,2009
-2009/10,GS,CSKA Moscow
-2009/10,GS,Besiktas
-2009/10,GS,2009
-2009/10,GS,Manchester United
-2009/10,GS,VfL Wolfsburg
-2009/10,GS,2009
-2009/10,GS,Besiktas
-2009/10,GS,Manchester United
-2009/10,GS,2009
-2009/10,GS,VfL Wolfsburg
-2009/10,GS,CSKA Moscow
-2009/10,GS,2009
-2009/10,GS,Juventus
-2009/10,GS,Maccabi Haifa
-2009/10,GS,2009
-2009/10,GS,Girondins Bordeaux
-2009/10,GS,Bayern München
-2009/10,GS,2009
-2009/10,GS,Girondins Bordeaux
-2009/10,GS,Maccabi Haifa
-2009/10,GS,2009
-2009/10,GS,Bayern München
-2009/10,GS,Juventus
-2009/10,GS,2009
-2009/10,GS,Maccabi Haifa
-2009/10,GS,Bayern München
-2009/10,GS,2009
-2009/10,GS,Juventus
-2009/10,GS,Girondins Bordeaux
-2009/10,GS,2009
-2010/11,F,FC Barcelona
-2010/11,F,Manchester United
-2010/11,F,2010
-2010/11,SF,Real Madrid
-2010/11,SF,FC Barcelona
-2010/11,SF,2010
-2010/11,SF,Schalke 04
-2010/11,SF,Manchester United
-2010/11,SF,2010
-2010/11,QF,FC Barcelona
-2010/11,QF,Shakhtar Donetsk
-2010/11,QF,2010
-2010/11,QF,Chelsea
-2010/11,QF,Manchester United
-2010/11,QF,2010
-2010/11,QF,Internazionale
-2010/11,QF,Schalke 04
-2010/11,QF,2010
-2010/11,QF,Real Madrid
-2010/11,QF,Tottenham Hotspur
-2010/11,QF,2010
-2010/11,R16,FC København
-2010/11,R16,Chelsea
-2010/11,R16,2010
-2010/11,R16,Olympique Marseille
-2010/11,R16,Manchester United
-2010/11,R16,2010
-2010/11,R16,Arsenal
-2010/11,R16,FC Barcelona
-2010/11,R16,2010
-2010/11,R16,Olympique Lyon
-2010/11,R16,Real Madrid
-2010/11,R16,2010
-2010/11,R16,Internazionale
-2010/11,R16,Bayern München
-2010/11,R16,2010
-2010/11,R16,Valencia
-2010/11,R16,Schalke 04
-2010/11,R16,2010
-2010/11,R16,AC Milan
-2010/11,R16,Tottenham Hotspur
-2010/11,R16,2010
-2010/11,R16,AS Roma
-2010/11,R16,Shakhtar Donetsk
-2010/11,R16,2010
-2010/11,GS,Arsenal
-2010/11,GS,Shakhtar Donetsk
-2010/11,GS,2010
-2010/11,GS,Sporting Braga
-2010/11,GS,Partizan Belgrade
-2010/11,GS,2010
-2010/11,GS,Sporting Braga
-2010/11,GS,Shakhtar Donetsk
-2010/11,GS,2010
-2010/11,GS,Partizan Belgrade
-2010/11,GS,Arsenal
-2010/11,GS,2010
-2010/11,GS,Shakhtar Donetsk
-2010/11,GS,Partizan Belgrade
-2010/11,GS,2010
-2010/11,GS,Arsenal
-2010/11,GS,Sporting Braga
-2010/11,GS,2010
-2010/11,GS,Real Madrid
-2010/11,GS,AC Milan
-2010/11,GS,2010
-2010/11,GS,Ajax
-2010/11,GS,AJ Auxerre
-2010/11,GS,2010
-2010/11,GS,Ajax
-2010/11,GS,AC Milan
-2010/11,GS,2010
-2010/11,GS,AJ Auxerre
-2010/11,GS,Real Madrid
-2010/11,GS,2010
-2010/11,GS,AC Milan
-2010/11,GS,AJ Auxerre
-2010/11,GS,2010
-2010/11,GS,Real Madrid
-2010/11,GS,Ajax
-2010/11,GS,2010
-2010/11,GS,Olympique Marseille
-2010/11,GS,MSK Zilina
-2010/11,GS,2010
-2010/11,GS,Spartak Moscow
-2010/11,GS,Chelsea
-2010/11,GS,2010
-2010/11,GS,Spartak Moscow
-2010/11,GS,MSK Zilina
-2010/11,GS,2010
-2010/11,GS,Chelsea
-2010/11,GS,Olympique Marseille
-2010/11,GS,2010
-2010/11,GS,MSK Zilina
-2010/11,GS,Chelsea
-2010/11,GS,2010
-2010/11,GS,Olympique Marseille
-2010/11,GS,Spartak Moscow
-2010/11,GS,2010
-2010/11,GS,Bayern München
-2010/11,GS,CFR Cluj
-2010/11,GS,2010
-2010/11,GS,AS Roma
-2010/11,GS,FC Basel
-2010/11,GS,2010
-2010/11,GS,AS Roma
-2010/11,GS,CFR Cluj
-2010/11,GS,2010
-2010/11,GS,FC Basel
-2010/11,GS,Bayern München
-2010/11,GS,2010
-2010/11,GS,CFR Cluj
-2010/11,GS,FC Basel
-2010/11,GS,2010
-2010/11,GS,Bayern München
-2010/11,GS,AS Roma
-2010/11,GS,2010
-2010/11,GS,FC Barcelona
-2010/11,GS,FC København
-2010/11,GS,2010
-2010/11,GS,Panathinaikos
-2010/11,GS,Rubin Kazan
-2010/11,GS,2010
-2010/11,GS,Panathinaikos
-2010/11,GS,FC København
-2010/11,GS,2010
-2010/11,GS,Rubin Kazan
-2010/11,GS,FC Barcelona
-2010/11,GS,2010
-2010/11,GS,FC København
-2010/11,GS,Rubin Kazan
-2010/11,GS,2010
-2010/11,GS,FC Barcelona
-2010/11,GS,Panathinaikos
-2010/11,GS,2010
-2010/11,GS,Manchester United
-2010/11,GS,Bursaspor
-2010/11,GS,2010
-2010/11,GS,Glasgow Rangers
-2010/11,GS,Valencia
-2010/11,GS,2010
-2010/11,GS,Glasgow Rangers
-2010/11,GS,Bursaspor
-2010/11,GS,2010
-2010/11,GS,Valencia
-2010/11,GS,Manchester United
-2010/11,GS,2010
-2010/11,GS,Bursaspor
-2010/11,GS,Valencia
-2010/11,GS,2010
-2010/11,GS,Manchester United
-2010/11,GS,Glasgow Rangers
-2010/11,GS,2010
-2010/11,GS,Olympique Lyon
-2010/11,GS,Benfica
-2010/11,GS,2010
-2010/11,GS,Schalke 04
-2010/11,GS,Hapoel Tel-Aviv
-2010/11,GS,2010
-2010/11,GS,Schalke 04
-2010/11,GS,Benfica
-2010/11,GS,2010
-2010/11,GS,Hapoel Tel-Aviv
-2010/11,GS,Olympique Lyon
-2010/11,GS,2010
-2010/11,GS,Benfica
-2010/11,GS,Hapoel Tel-Aviv
-2010/11,GS,2010
-2010/11,GS,Olympique Lyon
-2010/11,GS,Schalke 04
-2010/11,GS,2010
-2010/11,GS,FC Twente Enschede
-2010/11,GS,Werder Bremen
-2010/11,GS,2010
-2010/11,GS,Internazionale
-2010/11,GS,Tottenham Hotspur
-2010/11,GS,2010
-2010/11,GS,Internazionale
-2010/11,GS,Werder Bremen
-2010/11,GS,2010
-2010/11,GS,Tottenham Hotspur
-2010/11,GS,FC Twente Enschede
-2010/11,GS,2010
-2010/11,GS,Werder Bremen
-2010/11,GS,Tottenham Hotspur
-2010/11,GS,2010
-2010/11,GS,FC Twente Enschede
-2010/11,GS,Internazionale
-2010/11,GS,2010
-2011/12,F,Bayern München
-2011/12,F,Chelsea
-2011/12,F,2011
-2011/12,SF,Chelsea
-2011/12,SF,FC Barcelona
-2011/12,SF,2011
-2011/12,SF,Bayern München
-2011/12,SF,Real Madrid
-2011/12,SF,2011
-2011/12,QF,AC Milan
-2011/12,QF,FC Barcelona
-2011/12,QF,2011
-2011/12,QF,Benfica
-2011/12,QF,Chelsea
-2011/12,QF,2011
-2011/12,QF,Olympique Marseille
-2011/12,QF,Bayern München
-2011/12,QF,2011
-2011/12,QF,APOEL Nicosia
-2011/12,QF,Real Madrid
-2011/12,QF,2011
-2011/12,R16,Olympique Marseille
-2011/12,R16,Internazionale
-2011/12,R16,2011
-2011/12,R16,Zenit St. Petersburg
-2011/12,R16,Benfica
-2011/12,R16,2011
-2011/12,R16,CSKA Moscow
-2011/12,R16,Real Madrid
-2011/12,R16,2011
-2011/12,R16,Bayer Leverkusen
-2011/12,R16,FC Barcelona
-2011/12,R16,2011
-2011/12,R16,FC Basel
-2011/12,R16,Bayern München
-2011/12,R16,2011
-2011/12,R16,AC Milan
-2011/12,R16,Arsenal
-2011/12,R16,2011
-2011/12,R16,Napoli
-2011/12,R16,Chelsea
-2011/12,R16,2011
-2011/12,R16,Olympique Lyon
-2011/12,R16,APOEL Nicosia
-2011/12,R16,2011
-2011/12,GS,FC Barcelona
-2011/12,GS,Viktoria Plzen
-2011/12,GS,2011
-2011/12,GS,AC Milan
-2011/12,GS,BATE Borisov
-2011/12,GS,2011
-2011/12,GS,AC Milan
-2011/12,GS,Viktoria Plzen
-2011/12,GS,2011
-2011/12,GS,BATE Borisov
-2011/12,GS,FC Barcelona
-2011/12,GS,2011
-2011/12,GS,Viktoria Plzen
-2011/12,GS,BATE Borisov
-2011/12,GS,2011
-2011/12,GS,FC Barcelona
-2011/12,GS,AC Milan
-2011/12,GS,2011
-2011/12,GS,FC Porto
-2011/12,GS,APOEL Nicosia
-2011/12,GS,2011
-2011/12,GS,Shakhtar Donetsk
-2011/12,GS,Zenit St. Petersburg
-2011/12,GS,2011
-2011/12,GS,Shakhtar Donetsk
-2011/12,GS,APOEL Nicosia
-2011/12,GS,2011
-2011/12,GS,Zenit St. Petersburg
-2011/12,GS,FC Porto
-2011/12,GS,2011
-2011/12,GS,APOEL Nicosia
-2011/12,GS,Zenit St. Petersburg
-2011/12,GS,2011
-2011/12,GS,FC Porto
-2011/12,GS,Shakhtar Donetsk
-2011/12,GS,2011
-2011/12,GS,Olympiakos Piraeus
-2011/12,GS,Borussia Dortmund
-2011/12,GS,2011
-2011/12,GS,Olympique Marseille
-2011/12,GS,Arsenal
-2011/12,GS,2011
-2011/12,GS,Olympique Marseille
-2011/12,GS,Borussia Dortmund
-2011/12,GS,2011
-2011/12,GS,Arsenal
-2011/12,GS,Olympiakos Piraeus
-2011/12,GS,2011
-2011/12,GS,Borussia Dortmund
-2011/12,GS,Arsenal
-2011/12,GS,2011
-2011/12,GS,Olympiakos Piraeus
-2011/12,GS,Olympique Marseille
-2011/12,GS,2011
-2011/12,GS,Chelsea
-2011/12,GS,Racing Genk
-2011/12,GS,2011
-2011/12,GS,Bayer Leverkusen
-2011/12,GS,Valencia
-2011/12,GS,2011
-2011/12,GS,Bayer Leverkusen
-2011/12,GS,Racing Genk
-2011/12,GS,2011
-2011/12,GS,Valencia
-2011/12,GS,Chelsea
-2011/12,GS,2011
-2011/12,GS,Racing Genk
-2011/12,GS,Valencia
-2011/12,GS,2011
-2011/12,GS,Chelsea
-2011/12,GS,Bayer Leverkusen
-2011/12,GS,2011
-2011/12,GS,Dinamo Zagreb
-2011/12,GS,Ajax
-2011/12,GS,2011
-2011/12,GS,Real Madrid
-2011/12,GS,Olympique Lyon
-2011/12,GS,2011
-2011/12,GS,Real Madrid
-2011/12,GS,Ajax
-2011/12,GS,2011
-2011/12,GS,Olympique Lyon
-2011/12,GS,Dinamo Zagreb
-2011/12,GS,2011
-2011/12,GS,Ajax
-2011/12,GS,Olympique Lyon
-2011/12,GS,2011
-2011/12,GS,Dinamo Zagreb
-2011/12,GS,Real Madrid
-2011/12,GS,2011
-2011/12,GS,FC Basel
-2011/12,GS,Benfica
-2011/12,GS,2011
-2011/12,GS,Otelul Galati
-2011/12,GS,Manchester United
-2011/12,GS,2011
-2011/12,GS,Otelul Galati
-2011/12,GS,Benfica
-2011/12,GS,2011
-2011/12,GS,Manchester United
-2011/12,GS,FC Basel
-2011/12,GS,2011
-2011/12,GS,Benfica
-2011/12,GS,Manchester United
-2011/12,GS,2011
-2011/12,GS,FC Basel
-2011/12,GS,Otelul Galati
-2011/12,GS,2011
-2011/12,GS,Lille OSC
-2011/12,GS,Internazionale
-2011/12,GS,2011
-2011/12,GS,CSKA Moscow
-2011/12,GS,Trabzonspor
-2011/12,GS,2011
-2011/12,GS,CSKA Moscow
-2011/12,GS,Internazionale
-2011/12,GS,2011
-2011/12,GS,Trabzonspor
-2011/12,GS,Lille OSC
-2011/12,GS,2011
-2011/12,GS,Internazionale
-2011/12,GS,Trabzonspor
-2011/12,GS,2011
-2011/12,GS,Lille OSC
-2011/12,GS,CSKA Moscow
-2011/12,GS,2011
-2011/12,GS,Manchester City
-2011/12,GS,Villarreal
-2011/12,GS,2011
-2011/12,GS,Napoli
-2011/12,GS,Bayern München
-2011/12,GS,2011
-2011/12,GS,Napoli
-2011/12,GS,Villarreal
-2011/12,GS,2011
-2011/12,GS,Bayern München
-2011/12,GS,Manchester City
-2011/12,GS,2011
-2011/12,GS,Villarreal
-2011/12,GS,Bayern München
-2011/12,GS,2011
-2011/12,GS,Manchester City
-2011/12,GS,Napoli
-2011/12,GS,2011
-2012/13,F,Borussia Dortmund
-2012/13,F,Bayern München
-2012/13,F,2012
-2012/13,SF,Borussia Dortmund
-2012/13,SF,Real Madrid
-2012/13,SF,2012
-2012/13,SF,Bayern München
-2012/13,SF,FC Barcelona
-2012/13,SF,2012
-2012/13,QF,Bayern München
-2012/13,QF,Juventus
-2012/13,QF,2012
-2012/13,QF,Paris Saint-Germain
-2012/13,QF,FC Barcelona
-2012/13,QF,2012
-2012/13,QF,Real Madrid
-2012/13,QF,Galatasaray
-2012/13,QF,2012
-2012/13,QF,Málaga CF
-2012/13,QF,Borussia Dortmund
-2012/13,QF,2012
-2012/13,R16,FC Porto
-2012/13,R16,Málaga CF
-2012/13,R16,2012
-2012/13,R16,Valencia
-2012/13,R16,Paris Saint-Germain
-2012/13,R16,2012
-2012/13,R16,Real Madrid
-2012/13,R16,Manchester United
-2012/13,R16,2012
-2012/13,R16,AC Milan
-2012/13,R16,FC Barcelona
-2012/13,R16,2012
-2012/13,R16,Shakhtar Donetsk
-2012/13,R16,Borussia Dortmund
-2012/13,R16,2012
-2012/13,R16,Arsenal
-2012/13,R16,Bayern München
-2012/13,R16,2012
-2012/13,R16,Celtic
-2012/13,R16,Juventus
-2012/13,R16,2012
-2012/13,R16,Galatasaray
-2012/13,R16,Schalke 04
-2012/13,R16,2012
-2012/13,GS,Manchester United
-2012/13,GS,Sporting Braga
-2012/13,GS,2012
-2012/13,GS,Galatasaray
-2012/13,GS,CFR Cluj
-2012/13,GS,2012
-2012/13,GS,Galatasaray
-2012/13,GS,Sporting Braga
-2012/13,GS,2012
-2012/13,GS,CFR Cluj
-2012/13,GS,Manchester United
-2012/13,GS,2012
-2012/13,GS,Sporting Braga
-2012/13,GS,CFR Cluj
-2012/13,GS,2012
-2012/13,GS,Manchester United
-2012/13,GS,Galatasaray
-2012/13,GS,2012
-2012/13,GS,FC Barcelona
-2012/13,GS,Celtic
-2012/13,GS,2012
-2012/13,GS,Spartak Moscow
-2012/13,GS,Benfica
-2012/13,GS,2012
-2012/13,GS,Spartak Moscow
-2012/13,GS,Celtic
-2012/13,GS,2012
-2012/13,GS,Benfica
-2012/13,GS,FC Barcelona
-2012/13,GS,2012
-2012/13,GS,Celtic
-2012/13,GS,Benfica
-2012/13,GS,2012
-2012/13,GS,FC Barcelona
-2012/13,GS,Spartak Moscow
-2012/13,GS,2012
-2012/13,GS,Lille OSC
-2012/13,GS,Bayern München
-2012/13,GS,2012
-2012/13,GS,BATE Borisov
-2012/13,GS,Valencia
-2012/13,GS,2012
-2012/13,GS,BATE Borisov
-2012/13,GS,Bayern München
-2012/13,GS,2012
-2012/13,GS,Valencia
-2012/13,GS,Lille OSC
-2012/13,GS,2012
-2012/13,GS,Bayern München
-2012/13,GS,Valencia
-2012/13,GS,2012
-2012/13,GS,Lille OSC
-2012/13,GS,BATE Borisov
-2012/13,GS,2012
-2012/13,GS,Shakhtar Donetsk
-2012/13,GS,Chelsea
-2012/13,GS,2012
-2012/13,GS,FC Nordsjælland
-2012/13,GS,Juventus
-2012/13,GS,2012
-2012/13,GS,FC Nordsjælland
-2012/13,GS,Chelsea
-2012/13,GS,2012
-2012/13,GS,Juventus
-2012/13,GS,Shakhtar Donetsk
-2012/13,GS,2012
-2012/13,GS,Chelsea
-2012/13,GS,Juventus
-2012/13,GS,2012
-2012/13,GS,Shakhtar Donetsk
-2012/13,GS,FC Nordsjælland
-2012/13,GS,2012
-2012/13,GS,Borussia Dortmund
-2012/13,GS,Real Madrid
-2012/13,GS,2012
-2012/13,GS,Ajax
-2012/13,GS,Manchester City
-2012/13,GS,2012
-2012/13,GS,Ajax
-2012/13,GS,Real Madrid
-2012/13,GS,2012
-2012/13,GS,Manchester City
-2012/13,GS,Borussia Dortmund
-2012/13,GS,2012
-2012/13,GS,Real Madrid
-2012/13,GS,Manchester City
-2012/13,GS,2012
-2012/13,GS,Borussia Dortmund
-2012/13,GS,Ajax
-2012/13,GS,2012
-2012/13,GS,Málaga CF
-2012/13,GS,AC Milan
-2012/13,GS,2012
-2012/13,GS,Zenit St. Petersburg
-2012/13,GS,Anderlecht
-2012/13,GS,2012
-2012/13,GS,Zenit St. Petersburg
-2012/13,GS,AC Milan
-2012/13,GS,2012
-2012/13,GS,Anderlecht
-2012/13,GS,Málaga CF
-2012/13,GS,2012
-2012/13,GS,AC Milan
-2012/13,GS,Anderlecht
-2012/13,GS,2012
-2012/13,GS,Málaga CF
-2012/13,GS,Zenit St. Petersburg
-2012/13,GS,2012
-2012/13,GS,Montpellier
-2012/13,GS,Olympiakos Piraeus
-2012/13,GS,2012
-2012/13,GS,Arsenal
-2012/13,GS,Schalke 04
-2012/13,GS,2012
-2012/13,GS,Arsenal
-2012/13,GS,Olympiakos Piraeus
-2012/13,GS,2012
-2012/13,GS,Schalke 04
-2012/13,GS,Montpellier
-2012/13,GS,2012
-2012/13,GS,Olympiakos Piraeus
-2012/13,GS,Schalke 04
-2012/13,GS,2012
-2012/13,GS,Montpellier
-2012/13,GS,Arsenal
-2012/13,GS,2012
-2012/13,GS,Dinamo Zagreb
-2012/13,GS,Paris Saint-Germain
-2012/13,GS,2012
-2012/13,GS,FC Porto
-2012/13,GS,Dinamo Kiev
-2012/13,GS,2012
-2012/13,GS,FC Porto
-2012/13,GS,Paris Saint-Germain
-2012/13,GS,2012
-2012/13,GS,Dinamo Kiev
-2012/13,GS,Dinamo Zagreb
-2012/13,GS,2012
-2012/13,GS,Paris Saint-Germain
-2012/13,GS,Dinamo Kiev
-2012/13,GS,2012
-2012/13,GS,Dinamo Zagreb
-2012/13,GS,FC Porto
-2012/13,GS,2012
-2013/14,F,Real Madrid
-2013/14,F,Atlético Madrid
-2013/14,F,2013
-2013/14,SF,Atlético Madrid
-2013/14,SF,Chelsea
-2013/14,SF,2013
-2013/14,SF,Real Madrid
-2013/14,SF,Bayern München
-2013/14,SF,2013
-2013/14,QF,Paris Saint-Germain
-2013/14,QF,Chelsea
-2013/14,QF,2013
-2013/14,QF,Real Madrid
-2013/14,QF,Borussia Dortmund
-2013/14,QF,2013
-2013/14,QF,Manchester United
-2013/14,QF,Bayern München
-2013/14,QF,2013
-2013/14,QF,FC Barcelona
-2013/14,QF,Atlético Madrid
-2013/14,QF,2013
-2013/14,R16,Schalke 04
-2013/14,R16,Real Madrid
-2013/14,R16,2013
-2013/14,R16,Galatasaray
-2013/14,R16,Chelsea
-2013/14,R16,2013
-2013/14,R16,Zenit St. Petersburg
-2013/14,R16,Borussia Dortmund
-2013/14,R16,2013
-2013/14,R16,Olympiakos Piraeus
-2013/14,R16,Manchester United
-2013/14,R16,2013
-2013/14,R16,Arsenal
-2013/14,R16,Bayern München
-2013/14,R16,2013
-2013/14,R16,AC Milan
-2013/14,R16,Atlético Madrid
-2013/14,R16,2013
-2013/14,R16,Bayer Leverkusen
-2013/14,R16,Paris Saint-Germain
-2013/14,R16,2013
-2013/14,R16,Manchester City
-2013/14,R16,FC Barcelona
-2013/14,R16,2013
-2013/14,GS,AC Milan
-2013/14,GS,FC Barcelona
-2013/14,GS,2013
-2013/14,GS,Celtic
-2013/14,GS,Ajax
-2013/14,GS,2013
-2013/14,GS,Celtic
-2013/14,GS,FC Barcelona
-2013/14,GS,2013
-2013/14,GS,Ajax
-2013/14,GS,AC Milan
-2013/14,GS,2013
-2013/14,GS,FC Barcelona
-2013/14,GS,Ajax
-2013/14,GS,2013
-2013/14,GS,AC Milan
-2013/14,GS,Celtic
-2013/14,GS,2013
-2013/14,GS,Austria Wien
-2013/14,GS,Atlético Madrid
-2013/14,GS,2013
-2013/14,GS,FC Porto
-2013/14,GS,Zenit St. Petersburg
-2013/14,GS,2013
-2013/14,GS,FC Porto
-2013/14,GS,Atlético Madrid
-2013/14,GS,2013
-2013/14,GS,Zenit St. Petersburg
-2013/14,GS,Austria Wien
-2013/14,GS,2013
-2013/14,GS,Atlético Madrid
-2013/14,GS,Zenit St. Petersburg
-2013/14,GS,2013
-2013/14,GS,Austria Wien
-2013/14,GS,FC Porto
-2013/14,GS,2013
-2013/14,GS,Olympique Marseille
-2013/14,GS,Napoli
-2013/14,GS,2013
-2013/14,GS,Arsenal
-2013/14,GS,Borussia Dortmund
-2013/14,GS,2013
-2013/14,GS,Arsenal
-2013/14,GS,Napoli
-2013/14,GS,2013
-2013/14,GS,Borussia Dortmund
-2013/14,GS,Olympique Marseille
-2013/14,GS,2013
-2013/14,GS,Napoli
-2013/14,GS,Borussia Dortmund
-2013/14,GS,2013
-2013/14,GS,Olympique Marseille
-2013/14,GS,Arsenal
-2013/14,GS,2013
-2013/14,GS,Schalke 04
-2013/14,GS,Chelsea
-2013/14,GS,2013
-2013/14,GS,Steaua Bucuresti
-2013/14,GS,FC Basel
-2013/14,GS,2013
-2013/14,GS,Steaua Bucuresti
-2013/14,GS,Chelsea
-2013/14,GS,2013
-2013/14,GS,FC Basel
-2013/14,GS,Schalke 04
-2013/14,GS,2013
-2013/14,GS,Chelsea
-2013/14,GS,FC Basel
-2013/14,GS,2013
-2013/14,GS,Schalke 04
-2013/14,GS,Steaua Bucuresti
-2013/14,GS,2013
-2013/14,GS,Bayern München
-2013/14,GS,Viktoria Plzen
-2013/14,GS,2013
-2013/14,GS,CSKA Moscow
-2013/14,GS,Manchester City
-2013/14,GS,2013
-2013/14,GS,CSKA Moscow
-2013/14,GS,Viktoria Plzen
-2013/14,GS,2013
-2013/14,GS,Manchester City
-2013/14,GS,Bayern München
-2013/14,GS,2013
-2013/14,GS,Viktoria Plzen
-2013/14,GS,Manchester City
-2013/14,GS,2013
-2013/14,GS,Bayern München
-2013/14,GS,CSKA Moscow
-2013/14,GS,2013
-2013/14,GS,Benfica
-2013/14,GS,Olympiakos Piraeus
-2013/14,GS,2013
-2013/14,GS,Anderlecht
-2013/14,GS,Paris Saint-Germain
-2013/14,GS,2013
-2013/14,GS,Anderlecht
-2013/14,GS,Olympiakos Piraeus
-2013/14,GS,2013
-2013/14,GS,Paris Saint-Germain
-2013/14,GS,Benfica
-2013/14,GS,2013
-2013/14,GS,Olympiakos Piraeus
-2013/14,GS,Paris Saint-Germain
-2013/14,GS,2013
-2013/14,GS,Benfica
-2013/14,GS,Anderlecht
-2013/14,GS,2013
-2013/14,GS,Galatasaray
-2013/14,GS,FC København
-2013/14,GS,2013
-2013/14,GS,Real Madrid
-2013/14,GS,Juventus
-2013/14,GS,2013
-2013/14,GS,Real Madrid
-2013/14,GS,FC København
-2013/14,GS,2013
-2013/14,GS,Juventus
-2013/14,GS,Galatasaray
-2013/14,GS,2013
-2013/14,GS,FC København
-2013/14,GS,Juventus
-2013/14,GS,2013
-2013/14,GS,Galatasaray
-2013/14,GS,Real Madrid
-2013/14,GS,2013
-2013/14,GS,Manchester United
-2013/14,GS,Real Sociedad
-2013/14,GS,2013
-2013/14,GS,Bayer Leverkusen
-2013/14,GS,Shakhtar Donetsk
-2013/14,GS,2013
-2013/14,GS,Bayer Leverkusen
-2013/14,GS,Real Sociedad
-2013/14,GS,2013
-2013/14,GS,Shakhtar Donetsk
-2013/14,GS,Manchester United
-2013/14,GS,2013
-2013/14,GS,Real Sociedad
-2013/14,GS,Shakhtar Donetsk
-2013/14,GS,2013
-2013/14,GS,Manchester United
-2013/14,GS,Bayer Leverkusen
-2013/14,GS,2013
-2014/15,F,Juventus
-2014/15,F,FC Barcelona
-2014/15,F,2014
-2014/15,SF,FC Barcelona
-2014/15,SF,Bayern München
-2014/15,SF,2014
-2014/15,SF,Juventus
-2014/15,SF,Real Madrid
-2014/15,SF,2014
-2014/15,QF,Juventus
-2014/15,QF,AS Monaco
-2014/15,QF,2014
-2014/15,QF,FC Porto
-2014/15,QF,Bayern München
-2014/15,QF,2014
-2014/15,QF,Atlético Madrid
-2014/15,QF,Real Madrid
-2014/15,QF,2014
-2014/15,QF,Paris Saint-Germain
-2014/15,QF,FC Barcelona
-2014/15,QF,2014
-2014/15,R16,Arsenal
-2014/15,R16,AS Monaco
-2014/15,R16,2014
-2014/15,R16,Bayer Leverkusen
-2014/15,R16,Atlético Madrid
-2014/15,R16,2014
-2014/15,R16,Juventus
-2014/15,R16,Borussia Dortmund
-2014/15,R16,2014
-2014/15,R16,Manchester City
-2014/15,R16,FC Barcelona
-2014/15,R16,2014
-2014/15,R16,FC Basel
-2014/15,R16,FC Porto
-2014/15,R16,2014
-2014/15,R16,Schalke 04
-2014/15,R16,Real Madrid
-2014/15,R16,2014
-2014/15,R16,Shakhtar Donetsk
-2014/15,R16,Bayern München
-2014/15,R16,2014
-2014/15,R16,Paris Saint-Germain
-2014/15,R16,Chelsea
-2014/15,R16,2014
-2014/15,GS,FC Porto
-2014/15,GS,Athletic Bilbao
-2014/15,GS,2014
-2014/15,GS,BATE Borisov
-2014/15,GS,Shakhtar Donetsk
-2014/15,GS,2014
-2014/15,GS,BATE Borisov
-2014/15,GS,Athletic Bilbao
-2014/15,GS,2014
-2014/15,GS,Shakhtar Donetsk
-2014/15,GS,FC Porto
-2014/15,GS,2014
-2014/15,GS,Athletic Bilbao
-2014/15,GS,Shakhtar Donetsk
-2014/15,GS,2014
-2014/15,GS,FC Porto
-2014/15,GS,BATE Borisov
-2014/15,GS,2014
-2014/15,GS,Chelsea
-2014/15,GS,NK Maribor
-2014/15,GS,2014
-2014/15,GS,Schalke 04
-2014/15,GS,Sporting CP Lisbon
-2014/15,GS,2014
-2014/15,GS,Schalke 04
-2014/15,GS,NK Maribor
-2014/15,GS,2014
-2014/15,GS,Sporting CP Lisbon
-2014/15,GS,Chelsea
-2014/15,GS,2014
-2014/15,GS,NK Maribor
-2014/15,GS,Sporting CP Lisbon
-2014/15,GS,2014
-2014/15,GS,Chelsea
-2014/15,GS,Schalke 04
-2014/15,GS,2014
-2014/15,GS,FC Barcelona
-2014/15,GS,Ajax
-2014/15,GS,2014
-2014/15,GS,APOEL Nicosia
-2014/15,GS,Paris Saint-Germain
-2014/15,GS,2014
-2014/15,GS,APOEL Nicosia
-2014/15,GS,Ajax
-2014/15,GS,2014
-2014/15,GS,Paris Saint-Germain
-2014/15,GS,FC Barcelona
-2014/15,GS,2014
-2014/15,GS,Ajax
-2014/15,GS,Paris Saint-Germain
-2014/15,GS,2014
-2014/15,GS,FC Barcelona
-2014/15,GS,APOEL Nicosia
-2014/15,GS,2014
-2014/15,GS,AS Roma
-2014/15,GS,Bayern München
-2014/15,GS,2014
-2014/15,GS,CSKA Moscow
-2014/15,GS,Manchester City
-2014/15,GS,2014
-2014/15,GS,CSKA Moscow
-2014/15,GS,Bayern München
-2014/15,GS,2014
-2014/15,GS,Manchester City
-2014/15,GS,AS Roma
-2014/15,GS,2014
-2014/15,GS,Bayern München
-2014/15,GS,Manchester City
-2014/15,GS,2014
-2014/15,GS,AS Roma
-2014/15,GS,CSKA Moscow
-2014/15,GS,2014
-2014/15,GS,Galatasaray
-2014/15,GS,Borussia Dortmund
-2014/15,GS,2014
-2014/15,GS,Anderlecht
-2014/15,GS,Arsenal
-2014/15,GS,2014
-2014/15,GS,Anderlecht
-2014/15,GS,Borussia Dortmund
-2014/15,GS,2014
-2014/15,GS,Arsenal
-2014/15,GS,Galatasaray
-2014/15,GS,2014
-2014/15,GS,Borussia Dortmund
-2014/15,GS,Arsenal
-2014/15,GS,2014
-2014/15,GS,Galatasaray
-2014/15,GS,Anderlecht
-2014/15,GS,2014
-2014/15,GS,AS Monaco
-2014/15,GS,Benfica
-2014/15,GS,2014
-2014/15,GS,Bayer Leverkusen
-2014/15,GS,Zenit St. Petersburg
-2014/15,GS,2014
-2014/15,GS,Bayer Leverkusen
-2014/15,GS,Benfica
-2014/15,GS,2014
-2014/15,GS,Zenit St. Petersburg
-2014/15,GS,AS Monaco
-2014/15,GS,2014
-2014/15,GS,Benfica
-2014/15,GS,Zenit St. Petersburg
-2014/15,GS,2014
-2014/15,GS,AS Monaco
-2014/15,GS,Bayer Leverkusen
-2014/15,GS,2014
-2014/15,GS,Liverpool
-2014/15,GS,Real Madrid
-2014/15,GS,2014
-2014/15,GS,Ludogorets Razgrad
-2014/15,GS,FC Basel
-2014/15,GS,2014
-2014/15,GS,Ludogorets Razgrad
-2014/15,GS,Real Madrid
-2014/15,GS,2014
-2014/15,GS,FC Basel
-2014/15,GS,Liverpool
-2014/15,GS,2014
-2014/15,GS,Real Madrid
-2014/15,GS,FC Basel
-2014/15,GS,2014
-2014/15,GS,Liverpool
-2014/15,GS,Ludogorets Razgrad
-2014/15,GS,2014
-2014/15,GS,Olympiakos Piraeus
-2014/15,GS,Juventus
-2014/15,GS,2014
-2014/15,GS,Atlético Madrid
-2014/15,GS,Malmö FF
-2014/15,GS,2014
-2014/15,GS,Atlético Madrid
-2014/15,GS,Juventus
-2014/15,GS,2014
-2014/15,GS,Malmö FF
-2014/15,GS,Olympiakos Piraeus
-2014/15,GS,2014
-2014/15,GS,Juventus
-2014/15,GS,Malmö FF
-2014/15,GS,2014
-2014/15,GS,Olympiakos Piraeus
-2014/15,GS,Atlético Madrid
-2014/15,GS,2014
-2015/16,F,Real Madrid
-2015/16,F,Atlético Madrid
-2015/16,F,2015
-2015/16,SF,Atlético Madrid
-2015/16,SF,Bayern München
-2015/16,SF,2015
-2015/16,SF,Manchester City
-2015/16,SF,Real Madrid
-2015/16,SF,2015
-2015/16,QF,Paris Saint-Germain
-2015/16,QF,Manchester City
-2015/16,QF,2015
-2015/16,QF,FC Barcelona
-2015/16,QF,Atlético Madrid
-2015/16,QF,2015
-2015/16,QF,Bayern München
-2015/16,QF,Benfica
-2015/16,QF,2015
-2015/16,QF,VfL Wolfsburg
-2015/16,QF,Real Madrid
-2015/16,QF,2015
-2015/16,R16,Dinamo Kiev
-2015/16,R16,Manchester City
-2015/16,R16,2015
-2015/16,R16,Benfica
-2015/16,R16,Zenit St. Petersburg
-2015/16,R16,2015
-2015/16,R16,PSV Eindhoven
-2015/16,R16,Atlético Madrid
-2015/16,R16,2015
-2015/16,R16,Juventus
-2015/16,R16,Bayern München
-2015/16,R16,2015
-2015/16,R16,Arsenal
-2015/16,R16,FC Barcelona
-2015/16,R16,2015
-2015/16,R16,Paris Saint-Germain
-2015/16,R16,Chelsea
-2015/16,R16,2015
-2015/16,R16,AS Roma
-2015/16,R16,Real Madrid
-2015/16,R16,2015
-2015/16,R16,AA Gent
-2015/16,R16,VfL Wolfsburg
-2015/16,R16,2015
-2015/16,GS,Valencia
-2015/16,GS,AA Gent
-2015/16,GS,2015
-2015/16,GS,Zenit St. Petersburg
-2015/16,GS,Olympique Lyon
-2015/16,GS,2015
-2015/16,GS,Zenit St. Petersburg
-2015/16,GS,AA Gent
-2015/16,GS,2015
-2015/16,GS,Olympique Lyon
-2015/16,GS,Valencia
-2015/16,GS,2015
-2015/16,GS,AA Gent
-2015/16,GS,Olympique Lyon
-2015/16,GS,2015
-2015/16,GS,Valencia
-2015/16,GS,Zenit St. Petersburg
-2015/16,GS,2015
-2015/16,GS,Dinamo Kiev
-2015/16,GS,Chelsea
-2015/16,GS,2015
-2015/16,GS,FC Porto
-2015/16,GS,Maccabi Tel-Aviv
-2015/16,GS,2015
-2015/16,GS,FC Porto
-2015/16,GS,Chelsea
-2015/16,GS,2015
-2015/16,GS,Maccabi Tel-Aviv
-2015/16,GS,Dinamo Kiev
-2015/16,GS,2015
-2015/16,GS,Chelsea
-2015/16,GS,Maccabi Tel-Aviv
-2015/16,GS,2015
-2015/16,GS,Dinamo Kiev
-2015/16,GS,FC Porto
-2015/16,GS,2015
-2015/16,GS,Dinamo Zagreb
-2015/16,GS,Olympiakos Piraeus
-2015/16,GS,2015
-2015/16,GS,Arsenal
-2015/16,GS,Bayern München
-2015/16,GS,2015
-2015/16,GS,Arsenal
-2015/16,GS,Olympiakos Piraeus
-2015/16,GS,2015
-2015/16,GS,Bayern München
-2015/16,GS,Dinamo Zagreb
-2015/16,GS,2015
-2015/16,GS,Olympiakos Piraeus
-2015/16,GS,Bayern München
-2015/16,GS,2015
-2015/16,GS,Dinamo Zagreb
-2015/16,GS,Arsenal
-2015/16,GS,2015
-2015/16,GS,Bayer Leverkusen
-2015/16,GS,AS Roma
-2015/16,GS,2015
-2015/16,GS,BATE Borisov
-2015/16,GS,FC Barcelona
-2015/16,GS,2015
-2015/16,GS,BATE Borisov
-2015/16,GS,AS Roma
-2015/16,GS,2015
-2015/16,GS,FC Barcelona
-2015/16,GS,Bayer Leverkusen
-2015/16,GS,2015
-2015/16,GS,AS Roma
-2015/16,GS,FC Barcelona
-2015/16,GS,2015
-2015/16,GS,Bayer Leverkusen
-2015/16,GS,BATE Borisov
-2015/16,GS,2015
-2015/16,GS,Manchester City
-2015/16,GS,Sevilla
-2015/16,GS,2015
-2015/16,GS,Juventus
-2015/16,GS,Borussia Mönchengladbach
-2015/16,GS,2015
-2015/16,GS,Juventus
-2015/16,GS,Sevilla
-2015/16,GS,2015
-2015/16,GS,Borussia Mönchengladbach
-2015/16,GS,Manchester City
-2015/16,GS,2015
-2015/16,GS,Sevilla
-2015/16,GS,Borussia Mönchengladbach
-2015/16,GS,2015
-2015/16,GS,Manchester City
-2015/16,GS,Juventus
-2015/16,GS,2015
-2015/16,GS,Galatasaray
-2015/16,GS,Benfica
-2015/16,GS,2015
-2015/16,GS,Atlético Madrid
-2015/16,GS,FK Astana
-2015/16,GS,2015
-2015/16,GS,Atlético Madrid
-2015/16,GS,Benfica
-2015/16,GS,2015
-2015/16,GS,FK Astana
-2015/16,GS,Galatasaray
-2015/16,GS,2015
-2015/16,GS,Benfica
-2015/16,GS,FK Astana
-2015/16,GS,2015
-2015/16,GS,Galatasaray
-2015/16,GS,Atlético Madrid
-2015/16,GS,2015
-2015/16,GS,VfL Wolfsburg
-2015/16,GS,PSV Eindhoven
-2015/16,GS,2015
-2015/16,GS,CSKA Moscow
-2015/16,GS,Manchester United
-2015/16,GS,2015
-2015/16,GS,CSKA Moscow
-2015/16,GS,PSV Eindhoven
-2015/16,GS,2015
-2015/16,GS,Manchester United
-2015/16,GS,VfL Wolfsburg
-2015/16,GS,2015
-2015/16,GS,PSV Eindhoven
-2015/16,GS,Manchester United
-2015/16,GS,2015
-2015/16,GS,VfL Wolfsburg
-2015/16,GS,CSKA Moscow
-2015/16,GS,2015
-2015/16,GS,Paris Saint-Germain
-2015/16,GS,Real Madrid
-2015/16,GS,2015
-2015/16,GS,Malmö FF
-2015/16,GS,Shakhtar Donetsk
-2015/16,GS,2015
-2015/16,GS,Malmö FF
-2015/16,GS,Real Madrid
-2015/16,GS,2015
-2015/16,GS,Shakhtar Donetsk
-2015/16,GS,Paris Saint-Germain
-2015/16,GS,2015
-2015/16,GS,Real Madrid
-2015/16,GS,Shakhtar Donetsk
-2015/16,GS,2015
-2015/16,GS,Paris Saint-Germain
-2015/16,GS,Malmö FF
-2015/16,GS,2015
-2016/17,F,Juventus
-2016/17,F,Real Madrid
-2016/17,F,2016
-2016/17,SF,AS Monaco
-2016/17,SF,Juventus
-2016/17,SF,2016
-2016/17,SF,Real Madrid
-2016/17,SF,Atlético Madrid
-2016/17,SF,2016
-2016/17,QF,Juventus
-2016/17,QF,FC Barcelona
-2016/17,QF,2016
-2016/17,QF,Bayern München
-2016/17,QF,Real Madrid
-2016/17,QF,2016
-2016/17,QF,Borussia Dortmund
-2016/17,QF,AS Monaco
-2016/17,QF,2016
-2016/17,QF,Atlético Madrid
-2016/17,QF,Leicester City
-2016/17,QF,2016
-2016/17,R16,Sevilla
-2016/17,R16,Leicester City
-2016/17,R16,2016
-2016/17,R16,Paris Saint-Germain
-2016/17,R16,FC Barcelona
-2016/17,R16,2016
-2016/17,R16,Bayer Leverkusen
-2016/17,R16,Atlético Madrid
-2016/17,R16,2016
-2016/17,R16,FC Porto
-2016/17,R16,Juventus
-2016/17,R16,2016
-2016/17,R16,Bayern München
-2016/17,R16,Arsenal
-2016/17,R16,2016
-2016/17,R16,Benfica
-2016/17,R16,Borussia Dortmund
-2016/17,R16,2016
-2016/17,R16,Real Madrid
-2016/17,R16,Napoli
-2016/17,R16,2016
-2016/17,R16,Manchester City
-2016/17,R16,AS Monaco
-2016/17,R16,2016
-2016/17,GS,Olympique Lyon
-2016/17,GS,Juventus
-2016/17,GS,2016
-2016/17,GS,Dinamo Zagreb
-2016/17,GS,Sevilla
-2016/17,GS,2016
-2016/17,GS,Dinamo Zagreb
-2016/17,GS,Juventus
-2016/17,GS,2016
-2016/17,GS,Sevilla
-2016/17,GS,Olympique Lyon
-2016/17,GS,2016
-2016/17,GS,Juventus
-2016/17,GS,Sevilla
-2016/17,GS,2016
-2016/17,GS,Olympique Lyon
-2016/17,GS,Dinamo Zagreb
-2016/17,GS,2016
-2016/17,GS,Club Brugge
-2016/17,GS,FC Porto
-2016/17,GS,2016
-2016/17,GS,Leicester City
-2016/17,GS,FC København
-2016/17,GS,2016
-2016/17,GS,Leicester City
-2016/17,GS,FC Porto
-2016/17,GS,2016
-2016/17,GS,FC København
-2016/17,GS,Club Brugge
-2016/17,GS,2016
-2016/17,GS,FC Porto
-2016/17,GS,FC København
-2016/17,GS,2016
-2016/17,GS,Club Brugge
-2016/17,GS,Leicester City
-2016/17,GS,2016
-2016/17,GS,Real Madrid
-2016/17,GS,Legia Warsaw
-2016/17,GS,2016
-2016/17,GS,Sporting CP Lisbon
-2016/17,GS,Borussia Dortmund
-2016/17,GS,2016
-2016/17,GS,Sporting CP Lisbon
-2016/17,GS,Legia Warsaw
-2016/17,GS,2016
-2016/17,GS,Borussia Dortmund
-2016/17,GS,Real Madrid
-2016/17,GS,2016
-2016/17,GS,Legia Warsaw
-2016/17,GS,Borussia Dortmund
-2016/17,GS,2016
-2016/17,GS,Real Madrid
-2016/17,GS,Sporting CP Lisbon
-2016/17,GS,2016
-2016/17,GS,Bayer Leverkusen
-2016/17,GS,Tottenham Hotspur
-2016/17,GS,2016
-2016/17,GS,CSKA Moscow
-2016/17,GS,AS Monaco
-2016/17,GS,2016
-2016/17,GS,CSKA Moscow
-2016/17,GS,Tottenham Hotspur
-2016/17,GS,2016
-2016/17,GS,AS Monaco
-2016/17,GS,Bayer Leverkusen
-2016/17,GS,2016
-2016/17,GS,Tottenham Hotspur
-2016/17,GS,AS Monaco
-2016/17,GS,2016
-2016/17,GS,Bayer Leverkusen
-2016/17,GS,CSKA Moscow
-2016/17,GS,2016
-2016/17,GS,Bayern München
-2016/17,GS,PSV Eindhoven
-2016/17,GS,2016
-2016/17,GS,FK Rostov
-2016/17,GS,Atlético Madrid
-2016/17,GS,2016
-2016/17,GS,FK Rostov
-2016/17,GS,PSV Eindhoven
-2016/17,GS,2016
-2016/17,GS,Atlético Madrid
-2016/17,GS,Bayern München
-2016/17,GS,2016
-2016/17,GS,PSV Eindhoven
-2016/17,GS,Atlético Madrid
-2016/17,GS,2016
-2016/17,GS,Bayern München
-2016/17,GS,FK Rostov
-2016/17,GS,2016
-2016/17,GS,FC Barcelona
-2016/17,GS,Manchester City
-2016/17,GS,2016
-2016/17,GS,Celtic
-2016/17,GS,Borussia Mönchengladbach
-2016/17,GS,2016
-2016/17,GS,Celtic
-2016/17,GS,Manchester City
-2016/17,GS,2016
-2016/17,GS,Borussia Mönchengladbach
-2016/17,GS,FC Barcelona
-2016/17,GS,2016
-2016/17,GS,Manchester City
-2016/17,GS,Borussia Mönchengladbach
-2016/17,GS,2016
-2016/17,GS,FC Barcelona
-2016/17,GS,Celtic
-2016/17,GS,2016
-2016/17,GS,Dinamo Kiev
-2016/17,GS,Benfica
-2016/17,GS,2016
-2016/17,GS,Napoli
-2016/17,GS,Besiktas
-2016/17,GS,2016
-2016/17,GS,Napoli
-2016/17,GS,Benfica
-2016/17,GS,2016
-2016/17,GS,Besiktas
-2016/17,GS,Dinamo Kiev
-2016/17,GS,2016
-2016/17,GS,Benfica
-2016/17,GS,Besiktas
-2016/17,GS,2016
-2016/17,GS,Dinamo Kiev
-2016/17,GS,Napoli
-2016/17,GS,2016
-2016/17,GS,Paris Saint-Germain
-2016/17,GS,FC Basel
-2016/17,GS,2016
-2016/17,GS,Arsenal
-2016/17,GS,Ludogorets Razgrad
-2016/17,GS,2016
-2016/17,GS,Arsenal
-2016/17,GS,FC Basel
-2016/17,GS,2016
-2016/17,GS,Ludogorets Razgrad
-2016/17,GS,Paris Saint-Germain
-2016/17,GS,2016
-2016/17,GS,FC Basel
-2016/17,GS,Ludogorets Razgrad
-2016/17,GS,2016
-2016/17,GS,Paris Saint-Germain
-2016/17,GS,Arsenal
-2016/17,GS,2016
-2017/18,F,Real Madrid
-2017/18,F,Liverpool
-2017/18,F,2017
-2017/18,SF,Liverpool
-2017/18,SF,AS Roma
-2017/18,SF,2017
-2017/18,SF,Bayern München
-2017/18,SF,Real Madrid
-2017/18,SF,2017
-2017/18,QF,Liverpool
-2017/18,QF,Manchester City
-2017/18,QF,2017
-2017/18,QF,Juventus
-2017/18,QF,Real Madrid
-2017/18,QF,2017
-2017/18,QF,Sevilla
-2017/18,QF,Bayern München
-2017/18,QF,2017
-2017/18,QF,FC Barcelona
-2017/18,QF,AS Roma
-2017/18,QF,2017
-2017/18,R16,Bayern München
-2017/18,R16,Besiktas
-2017/18,R16,2017
-2017/18,R16,Chelsea
-2017/18,R16,FC Barcelona
-2017/18,R16,2017
-2017/18,R16,Shakhtar Donetsk
-2017/18,R16,AS Roma
-2017/18,R16,2017
-2017/18,R16,Real Madrid
-2017/18,R16,Paris Saint-Germain
-2017/18,R16,2017
-2017/18,R16,Sevilla
-2017/18,R16,Manchester United
-2017/18,R16,2017
-2017/18,R16,FC Porto
-2017/18,R16,Liverpool
-2017/18,R16,2017
-2017/18,R16,FC Basel
-2017/18,R16,Manchester City
-2017/18,R16,2017
-2017/18,R16,Juventus
-2017/18,R16,Tottenham Hotspur
-2017/18,R16,2017
-2017/18,GS,Real Madrid
-2017/18,GS,Tottenham Hotspur
-2017/18,GS,2017
-2017/18,GS,APOEL Nicosia
-2017/18,GS,Borussia Dortmund
-2017/18,GS,2017
-2017/18,GS,APOEL Nicosia
-2017/18,GS,Tottenham Hotspur
-2017/18,GS,2017
-2017/18,GS,Borussia Dortmund
-2017/18,GS,Real Madrid
-2017/18,GS,2017
-2017/18,GS,Tottenham Hotspur
-2017/18,GS,Borussia Dortmund
-2017/18,GS,2017
-2017/18,GS,Real Madrid
-2017/18,GS,APOEL Nicosia
-2017/18,GS,2017
-2017/18,GS,RB Leipzig
-2017/18,GS,FC Porto
-2017/18,GS,2017
-2017/18,GS,AS Monaco
-2017/18,GS,Besiktas
-2017/18,GS,2017
-2017/18,GS,AS Monaco
-2017/18,GS,FC Porto
-2017/18,GS,2017
-2017/18,GS,Besiktas
-2017/18,GS,RB Leipzig
-2017/18,GS,2017
-2017/18,GS,FC Porto
-2017/18,GS,Besiktas
-2017/18,GS,2017
-2017/18,GS,RB Leipzig
-2017/18,GS,AS Monaco
-2017/18,GS,2017
-2017/18,GS,Feyenoord
-2017/18,GS,Shakhtar Donetsk
-2017/18,GS,2017
-2017/18,GS,Manchester City
-2017/18,GS,Napoli
-2017/18,GS,2017
-2017/18,GS,Manchester City
-2017/18,GS,Shakhtar Donetsk
-2017/18,GS,2017
-2017/18,GS,Napoli
-2017/18,GS,Feyenoord
-2017/18,GS,2017
-2017/18,GS,Shakhtar Donetsk
-2017/18,GS,Napoli
-2017/18,GS,2017
-2017/18,GS,Feyenoord
-2017/18,GS,Manchester City
-2017/18,GS,2017
-2017/18,GS,NK Maribor
-2017/18,GS,Liverpool
-2017/18,GS,2017
-2017/18,GS,Spartak Moscow
-2017/18,GS,Sevilla
-2017/18,GS,2017
-2017/18,GS,Spartak Moscow
-2017/18,GS,Liverpool
-2017/18,GS,2017
-2017/18,GS,Sevilla
-2017/18,GS,NK Maribor
-2017/18,GS,2017
-2017/18,GS,Liverpool
-2017/18,GS,Sevilla
-2017/18,GS,2017
-2017/18,GS,NK Maribor
-2017/18,GS,Spartak Moscow
-2017/18,GS,2017
-2017/18,GS,FC Barcelona
-2017/18,GS,Olympiakos Piraeus
-2017/18,GS,2017
-2017/18,GS,Juventus
-2017/18,GS,Sporting CP Lisbon
-2017/18,GS,2017
-2017/18,GS,Juventus
-2017/18,GS,Olympiakos Piraeus
-2017/18,GS,2017
-2017/18,GS,Sporting CP Lisbon
-2017/18,GS,FC Barcelona
-2017/18,GS,2017
-2017/18,GS,Olympiakos Piraeus
-2017/18,GS,Sporting CP Lisbon
-2017/18,GS,2017
-2017/18,GS,FC Barcelona
-2017/18,GS,Juventus
-2017/18,GS,2017
-2017/18,GS,Chelsea
-2017/18,GS,AS Roma
-2017/18,GS,2017
-2017/18,GS,Qarabag FK
-2017/18,GS,Atlético Madrid
-2017/18,GS,2017
-2017/18,GS,Qarabag FK
-2017/18,GS,AS Roma
-2017/18,GS,2017
-2017/18,GS,Atlético Madrid
-2017/18,GS,Chelsea
-2017/18,GS,2017
-2017/18,GS,AS Roma
-2017/18,GS,Atlético Madrid
-2017/18,GS,2017
-2017/18,GS,Chelsea
-2017/18,GS,Qarabag FK
-2017/18,GS,2017
-2017/18,GS,Bayern München
-2017/18,GS,Celtic
-2017/18,GS,2017
-2017/18,GS,Anderlecht
-2017/18,GS,Paris Saint-Germain
-2017/18,GS,2017
-2017/18,GS,Anderlecht
-2017/18,GS,Celtic
-2017/18,GS,2017
-2017/18,GS,Paris Saint-Germain
-2017/18,GS,Bayern München
-2017/18,GS,2017
-2017/18,GS,Celtic
-2017/18,GS,Paris Saint-Germain
-2017/18,GS,2017
-2017/18,GS,Bayern München
-2017/18,GS,Anderlecht
-2017/18,GS,2017
-2017/18,GS,Benfica
-2017/18,GS,Manchester United
-2017/18,GS,2017
-2017/18,GS,CSKA Moscow
-2017/18,GS,FC Basel
-2017/18,GS,2017
-2017/18,GS,CSKA Moscow
-2017/18,GS,Manchester United
-2017/18,GS,2017
-2017/18,GS,FC Basel
-2017/18,GS,Benfica
-2017/18,GS,2017
-2017/18,GS,Manchester United
-2017/18,GS,FC Basel
-2017/18,GS,2017
-2017/18,GS,Benfica
-2017/18,GS,CSKA Moscow
-2017/18,GS,2017
-2018/19,F,Tottenham Hotspur
-2018/19,F,Liverpool
-2018/19,F,2018
-2018/19,SF,FC Barcelona
-2018/19,SF,Liverpool
-2018/19,SF,2018
-2018/19,SF,Tottenham Hotspur
-2018/19,SF,Ajax
-2018/19,SF,2018
-2018/19,QF,Manchester United
-2018/19,QF,FC Barcelona
-2018/19,QF,2018
-2018/19,QF,Tottenham Hotspur
-2018/19,QF,Manchester City
-2018/19,QF,2018
-2018/19,QF,Liverpool
-2018/19,QF,FC Porto
-2018/19,QF,2018
-2018/19,QF,Ajax
-2018/19,QF,Juventus
-2018/19,QF,2018
-2018/19,R16,Liverpool
-2018/19,R16,Bayern München
-2018/19,R16,2018
-2018/19,R16,Ajax
-2018/19,R16,Real Madrid
-2018/19,R16,2018
-2018/19,R16,AS Roma
-2018/19,R16,FC Porto
-2018/19,R16,2018
-2018/19,R16,Olympique Lyon
-2018/19,R16,FC Barcelona
-2018/19,R16,2018
-2018/19,R16,Tottenham Hotspur
-2018/19,R16,Borussia Dortmund
-2018/19,R16,2018
-2018/19,R16,Manchester United
-2018/19,R16,Paris Saint-Germain
-2018/19,R16,2018
-2018/19,R16,Atlético Madrid
-2018/19,R16,Juventus
-2018/19,R16,2018
-2018/19,R16,Schalke 04
-2018/19,R16,Manchester City
-2018/19,R16,2018
-2018/19,GS,Young Boys
-2018/19,GS,Valencia
-2018/19,GS,2018
-2018/19,GS,Manchester United
-2018/19,GS,Juventus
-2018/19,GS,2018
-2018/19,GS,Manchester United
-2018/19,GS,Valencia
-2018/19,GS,2018
-2018/19,GS,Juventus
-2018/19,GS,Young Boys
-2018/19,GS,2018
-2018/19,GS,Valencia
-2018/19,GS,Juventus
-2018/19,GS,2018
-2018/19,GS,Young Boys
-2018/19,GS,Manchester United
-2018/19,GS,2018
-2018/19,GS,Real Madrid
-2018/19,GS,Viktoria Plzen
-2018/19,GS,2018
-2018/19,GS,AS Roma
-2018/19,GS,CSKA Moscow
-2018/19,GS,2018
-2018/19,GS,AS Roma
-2018/19,GS,Viktoria Plzen
-2018/19,GS,2018
-2018/19,GS,CSKA Moscow
-2018/19,GS,Real Madrid
-2018/19,GS,2018
-2018/19,GS,Viktoria Plzen
-2018/19,GS,CSKA Moscow
-2018/19,GS,2018
-2018/19,GS,Real Madrid
-2018/19,GS,AS Roma
-2018/19,GS,2018
-2018/19,GS,Shakhtar Donetsk
-2018/19,GS,Manchester City
-2018/19,GS,2018
-2018/19,GS,1899 Hoffenheim
-2018/19,GS,Olympique Lyon
-2018/19,GS,2018
-2018/19,GS,1899 Hoffenheim
-2018/19,GS,Manchester City
-2018/19,GS,2018
-2018/19,GS,Olympique Lyon
-2018/19,GS,Shakhtar Donetsk
-2018/19,GS,2018
-2018/19,GS,Manchester City
-2018/19,GS,Olympique Lyon
-2018/19,GS,2018
-2018/19,GS,Shakhtar Donetsk
-2018/19,GS,1899 Hoffenheim
-2018/19,GS,2018
-2018/19,GS,Ajax
-2018/19,GS,Benfica
-2018/19,GS,2018
-2018/19,GS,AEK Athens
-2018/19,GS,Bayern München
-2018/19,GS,2018
-2018/19,GS,AEK Athens
-2018/19,GS,Benfica
-2018/19,GS,2018
-2018/19,GS,Bayern München
-2018/19,GS,Ajax
-2018/19,GS,2018
-2018/19,GS,Benfica
-2018/19,GS,Bayern München
-2018/19,GS,2018
-2018/19,GS,Ajax
-2018/19,GS,AEK Athens
-2018/19,GS,2018
-2018/19,GS,Galatasaray
-2018/19,GS,Schalke 04
-2018/19,GS,2018
-2018/19,GS,Lokomotiv Moscow
-2018/19,GS,FC Porto
-2018/19,GS,2018
-2018/19,GS,Lokomotiv Moscow
-2018/19,GS,Schalke 04
-2018/19,GS,2018
-2018/19,GS,FC Porto
-2018/19,GS,Galatasaray
-2018/19,GS,2018
-2018/19,GS,Schalke 04
-2018/19,GS,FC Porto
-2018/19,GS,2018
-2018/19,GS,Galatasaray
-2018/19,GS,Lokomotiv Moscow
-2018/19,GS,2018
-2018/19,GS,Liverpool
-2018/19,GS,Red Star Belgrade
-2018/19,GS,2018
-2018/19,GS,Paris Saint-Germain
-2018/19,GS,Napoli
-2018/19,GS,2018
-2018/19,GS,Paris Saint-Germain
-2018/19,GS,Red Star Belgrade
-2018/19,GS,2018
-2018/19,GS,Napoli
-2018/19,GS,Liverpool
-2018/19,GS,2018
-2018/19,GS,Red Star Belgrade
-2018/19,GS,Napoli
-2018/19,GS,2018
-2018/19,GS,Liverpool
-2018/19,GS,Paris Saint-Germain
-2018/19,GS,2018
-2018/19,GS,FC Barcelona
-2018/19,GS,Internazionale
-2018/19,GS,2018
-2018/19,GS,PSV Eindhoven
-2018/19,GS,Tottenham Hotspur
-2018/19,GS,2018
-2018/19,GS,PSV Eindhoven
-2018/19,GS,Internazionale
-2018/19,GS,2018
-2018/19,GS,Tottenham Hotspur
-2018/19,GS,FC Barcelona
-2018/19,GS,2018
-2018/19,GS,Internazionale
-2018/19,GS,Tottenham Hotspur
-2018/19,GS,2018
-2018/19,GS,FC Barcelona
-2018/19,GS,PSV Eindhoven
-2018/19,GS,2018
-2018/19,GS,Club Brugge
-2018/19,GS,AS Monaco
-2018/19,GS,2018
-2018/19,GS,Borussia Dortmund
-2018/19,GS,Atlético Madrid
-2018/19,GS,2018
-2018/19,GS,Borussia Dortmund
-2018/19,GS,AS Monaco
-2018/19,GS,2018
-2018/19,GS,Atlético Madrid
-2018/19,GS,Club Brugge
-2018/19,GS,2018
-2018/19,GS,AS Monaco
-2018/19,GS,Atlético Madrid
-2018/19,GS,2018
-2018/19,GS,Club Brugge
-2018/19,GS,Borussia Dortmund
-2018/19,GS,2018
-2019/20,F,Paris Saint-Germain
-2019/20,F,Bayern München
-2019/20,F,2019
-2019/20,SF,Olympique Lyon
-2019/20,SF,Bayern München
-2019/20,SF,2019
-2019/20,SF,RB Leipzig
-2019/20,SF,Paris Saint-Germain
-2019/20,SF,2019
-2019/20,QF,Manchester City
-2019/20,QF,Olympique Lyon
-2019/20,QF,2019
-2019/20,QF,FC Barcelona
-2019/20,QF,Bayern München
-2019/20,QF,2019
-2019/20,QF,RB Leipzig
-2019/20,QF,Atlético Madrid
-2019/20,QF,2019
-2019/20,QF,Atalanta
-2019/20,QF,Paris Saint-Germain
-2019/20,QF,2019
-2019/20,R16,Napoli
-2019/20,R16,FC Barcelona
-2019/20,R16,2019
-2019/20,R16,Tottenham Hotspur
-2019/20,R16,RB Leipzig
-2019/20,R16,2019
-2019/20,R16,Olympique Lyon
-2019/20,R16,Juventus
-2019/20,R16,2019
-2019/20,R16,Chelsea
-2019/20,R16,Bayern München
-2019/20,R16,2019
-2019/20,R16,Atlético Madrid
-2019/20,R16,Liverpool
-2019/20,R16,2019
-2019/20,R16,Atalanta
-2019/20,R16,Valencia
-2019/20,R16,2019
-2019/20,R16,Real Madrid
-2019/20,R16,Manchester City
-2019/20,R16,2019
-2019/20,R16,Borussia Dortmund
-2019/20,R16,Paris Saint-Germain
-2019/20,R16,2019
-2019/20,GS,Ajax
-2019/20,GS,Chelsea
-2019/20,GS,2019
-2019/20,GS,Lille OSC
-2019/20,GS,Valencia
-2019/20,GS,2019
-2019/20,GS,Lille OSC
-2019/20,GS,Chelsea
-2019/20,GS,2019
-2019/20,GS,Valencia
-2019/20,GS,Ajax
-2019/20,GS,2019
-2019/20,GS,Chelsea
-2019/20,GS,Valencia
-2019/20,GS,2019
-2019/20,GS,Ajax
-2019/20,GS,Lille OSC
-2019/20,GS,2019
-2019/20,GS,Benfica
-2019/20,GS,Olympique Lyon
-2019/20,GS,2019
-2019/20,GS,RB Leipzig
-2019/20,GS,Zenit St. Petersburg
-2019/20,GS,2019
-2019/20,GS,RB Leipzig
-2019/20,GS,Olympique Lyon
-2019/20,GS,2019
-2019/20,GS,Zenit St. Petersburg
-2019/20,GS,Benfica
-2019/20,GS,2019
-2019/20,GS,Olympique Lyon
-2019/20,GS,Zenit St. Petersburg
-2019/20,GS,2019
-2019/20,GS,Benfica
-2019/20,GS,RB Leipzig
-2019/20,GS,2019
-2019/20,GS,Internazionale
-2019/20,GS,Borussia Dortmund
-2019/20,GS,2019
-2019/20,GS,Slavia Praha
-2019/20,GS,FC Barcelona
-2019/20,GS,2019
-2019/20,GS,Slavia Praha
-2019/20,GS,Borussia Dortmund
-2019/20,GS,2019
-2019/20,GS,FC Barcelona
-2019/20,GS,Internazionale
-2019/20,GS,2019
-2019/20,GS,Borussia Dortmund
-2019/20,GS,FC Barcelona
-2019/20,GS,2019
-2019/20,GS,Internazionale
-2019/20,GS,Slavia Praha
-2019/20,GS,2019
-2019/20,GS,FC Salzburg
-2019/20,GS,Napoli
-2019/20,GS,2019
-2019/20,GS,Racing Genk
-2019/20,GS,Liverpool
-2019/20,GS,2019
-2019/20,GS,Racing Genk
-2019/20,GS,Napoli
-2019/20,GS,2019
-2019/20,GS,Liverpool
-2019/20,GS,FC Salzburg
-2019/20,GS,2019
-2019/20,GS,Napoli
-2019/20,GS,Liverpool
-2019/20,GS,2019
-2019/20,GS,FC Salzburg
-2019/20,GS,Racing Genk
-2019/20,GS,2019
-2019/20,GS,Atlético Madrid
-2019/20,GS,Bayer Leverkusen
-2019/20,GS,2019
-2019/20,GS,Juventus
-2019/20,GS,Lokomotiv Moscow
-2019/20,GS,2019
-2019/20,GS,Juventus
-2019/20,GS,Bayer Leverkusen
-2019/20,GS,2019
-2019/20,GS,Lokomotiv Moscow
-2019/20,GS,Atlético Madrid
-2019/20,GS,2019
-2019/20,GS,Bayer Leverkusen
-2019/20,GS,Lokomotiv Moscow
-2019/20,GS,2019
-2019/20,GS,Atlético Madrid
-2019/20,GS,Juventus
-2019/20,GS,2019
-2019/20,GS,Shakhtar Donetsk
-2019/20,GS,Dinamo Zagreb
-2019/20,GS,2019
-2019/20,GS,Manchester City
-2019/20,GS,Atalanta
-2019/20,GS,2019
-2019/20,GS,Manchester City
-2019/20,GS,Dinamo Zagreb
-2019/20,GS,2019
-2019/20,GS,Atalanta
-2019/20,GS,Shakhtar Donetsk
-2019/20,GS,2019
-2019/20,GS,Dinamo Zagreb
-2019/20,GS,Atalanta
-2019/20,GS,2019
-2019/20,GS,Shakhtar Donetsk
-2019/20,GS,Manchester City
-2019/20,GS,2019
-2019/20,GS,Olympiakos Piraeus
-2019/20,GS,Bayern München
-2019/20,GS,2019
-2019/20,GS,Tottenham Hotspur
-2019/20,GS,Red Star Belgrade
-2019/20,GS,2019
-2019/20,GS,Tottenham Hotspur
-2019/20,GS,Bayern München
-2019/20,GS,2019
-2019/20,GS,Red Star Belgrade
-2019/20,GS,Olympiakos Piraeus
-2019/20,GS,2019
-2019/20,GS,Bayern München
-2019/20,GS,Red Star Belgrade
-2019/20,GS,2019
-2019/20,GS,Olympiakos Piraeus
-2019/20,GS,Tottenham Hotspur
-2019/20,GS,2019
-2019/20,GS,Club Brugge
-2019/20,GS,Paris Saint-Germain
-2019/20,GS,2019
-2019/20,GS,Galatasaray
-2019/20,GS,Real Madrid
-2019/20,GS,2019
-2019/20,GS,Galatasaray
-2019/20,GS,Paris Saint-Germain
-2019/20,GS,2019
-2019/20,GS,Real Madrid
-2019/20,GS,Club Brugge
-2019/20,GS,2019
-2019/20,GS,Paris Saint-Germain
-2019/20,GS,Real Madrid
-2019/20,GS,2019
-2019/20,GS,Club Brugge
-2019/20,GS,Galatasaray
-2019/20,GS,2019
-2020/21,F,Manchester City
-2020/21,F,Chelsea
-2020/21,F,2020
-2020/21,SF,Real Madrid
-2020/21,SF,Chelsea
-2020/21,SF,2020
-2020/21,SF,Paris Saint-Germain
-2020/21,SF,Manchester City
-2020/21,SF,2020
-2020/21,QF,Real Madrid
-2020/21,QF,Liverpool
-2020/21,QF,2020
-2020/21,QF,Bayern München
-2020/21,QF,Paris Saint-Germain
-2020/21,QF,2020
-2020/21,QF,FC Porto
-2020/21,QF,Chelsea
-2020/21,QF,2020
-2020/21,QF,Manchester City
-2020/21,QF,Borussia Dortmund
-2020/21,QF,2020
-2020/21,R16,Atalanta
-2020/21,R16,Real Madrid
-2020/21,R16,2020
-2020/21,R16,Sevilla
-2020/21,R16,Borussia Dortmund
-2020/21,R16,2020
-2020/21,R16,FC Barcelona
-2020/21,R16,Paris Saint-Germain
-2020/21,R16,2020
-2020/21,R16,FC Porto
-2020/21,R16,Juventus
-2020/21,R16,2020
-2020/21,R16,RB Leipzig
-2020/21,R16,Liverpool
-2020/21,R16,2020
-2020/21,R16,Atlético Madrid
-2020/21,R16,Chelsea
-2020/21,R16,2020
-2020/21,R16,Lazio
-2020/21,R16,Bayern München
-2020/21,R16,2020
-2020/21,R16,Borussia Mönchengladbach
-2020/21,R16,Manchester City
-2020/21,R16,2020
-2020/21,GS,RB Leipzig
-2020/21,GS,Paris Saint-Germain
-2020/21,GS,2020
-2020/21,GS,Istanbul Basaksehir
-2020/21,GS,Manchester United
-2020/21,GS,2020
-2020/21,GS,Istanbul Basaksehir
-2020/21,GS,Paris Saint-Germain
-2020/21,GS,2020
-2020/21,GS,Manchester United
-2020/21,GS,RB Leipzig
-2020/21,GS,2020
-2020/21,GS,Paris Saint-Germain
-2020/21,GS,Manchester United
-2020/21,GS,2020
-2020/21,GS,RB Leipzig
-2020/21,GS,Istanbul Basaksehir
-2020/21,GS,2020
-2020/21,GS,FC Barcelona
-2020/21,GS,Dinamo Kiev
-2020/21,GS,2020
-2020/21,GS,Ferencváros
-2020/21,GS,Juventus
-2020/21,GS,2020
-2020/21,GS,Ferencváros
-2020/21,GS,Dinamo Kiev
-2020/21,GS,2020
-2020/21,GS,Juventus
-2020/21,GS,FC Barcelona
-2020/21,GS,2020
-2020/21,GS,Dinamo Kiev
-2020/21,GS,Juventus
-2020/21,GS,2020
-2020/21,GS,FC Barcelona
-2020/21,GS,Ferencváros
-2020/21,GS,2020
-2020/21,GS,Zenit St. Petersburg
-2020/21,GS,Lazio
-2020/21,GS,2020
-2020/21,GS,Club Brugge
-2020/21,GS,Borussia Dortmund
-2020/21,GS,2020
-2020/21,GS,Club Brugge
-2020/21,GS,Lazio
-2020/21,GS,2020
-2020/21,GS,Borussia Dortmund
-2020/21,GS,Zenit St. Petersburg
-2020/21,GS,2020
-2020/21,GS,Lazio
-2020/21,GS,Borussia Dortmund
-2020/21,GS,2020
-2020/21,GS,Zenit St. Petersburg
-2020/21,GS,Club Brugge
-2020/21,GS,2020
-2020/21,GS,Chelsea
-2020/21,GS,Stade Rennais
-2020/21,GS,2020
-2020/21,GS,Sevilla
-2020/21,GS,FK Krasnodar
-2020/21,GS,2020
-2020/21,GS,Sevilla
-2020/21,GS,Stade Rennais
-2020/21,GS,2020
-2020/21,GS,FK Krasnodar
-2020/21,GS,Chelsea
-2020/21,GS,2020
-2020/21,GS,Stade Rennais
-2020/21,GS,FK Krasnodar
-2020/21,GS,2020
-2020/21,GS,Chelsea
-2020/21,GS,Sevilla
-2020/21,GS,2020
-2020/21,GS,FC Midtjylland
-2020/21,GS,Ajax
-2020/21,GS,2020
-2020/21,GS,Atalanta
-2020/21,GS,Liverpool
-2020/21,GS,2020
-2020/21,GS,Atalanta
-2020/21,GS,Ajax
-2020/21,GS,2020
-2020/21,GS,Liverpool
-2020/21,GS,FC Midtjylland
-2020/21,GS,2020
-2020/21,GS,Ajax
-2020/21,GS,Liverpool
-2020/21,GS,2020
-2020/21,GS,FC Midtjylland
-2020/21,GS,Atalanta
-2020/21,GS,2020
-2020/21,GS,Manchester City
-2020/21,GS,Olympiakos Piraeus
-2020/21,GS,2020
-2020/21,GS,FC Porto
-2020/21,GS,Olympique Marseille
-2020/21,GS,2020
-2020/21,GS,FC Porto
-2020/21,GS,Olympiakos Piraeus
-2020/21,GS,2020
-2020/21,GS,Olympique Marseille
-2020/21,GS,Manchester City
-2020/21,GS,2020
-2020/21,GS,Olympiakos Piraeus
-2020/21,GS,Olympique Marseille
-2020/21,GS,2020
-2020/21,GS,Manchester City
-2020/21,GS,FC Porto
-2020/21,GS,2020
-2020/21,GS,Real Madrid
-2020/21,GS,Internazionale
-2020/21,GS,2020
-2020/21,GS,Shakhtar Donetsk
-2020/21,GS,Borussia Mönchengladbach
-2020/21,GS,2020
-2020/21,GS,Shakhtar Donetsk
-2020/21,GS,Internazionale
-2020/21,GS,2020
-2020/21,GS,Borussia Mönchengladbach
-2020/21,GS,Real Madrid
-2020/21,GS,2020
-2020/21,GS,Internazionale
-2020/21,GS,Borussia Mönchengladbach
-2020/21,GS,2020
-2020/21,GS,Real Madrid
-2020/21,GS,Shakhtar Donetsk
-2020/21,GS,2020
-2020/21,GS,FC Salzburg
-2020/21,GS,Bayern München
-2020/21,GS,2020
-2020/21,GS,Lokomotiv Moscow
-2020/21,GS,Atlético Madrid
-2020/21,GS,2020
-2020/21,GS,Lokomotiv Moscow
-2020/21,GS,Bayern München
-2020/21,GS,2020
-2020/21,GS,Atlético Madrid
-2020/21,GS,FC Salzburg
-2020/21,GS,2020
-2020/21,GS,Bayern München
-2020/21,GS,Atlético Madrid
-2020/21,GS,2020
-2020/21,GS,FC Salzburg
-2020/21,GS,Lokomotiv Moscow
-2020/21,GS,2020
-2021/22,F,Liverpool
-2021/22,F,Real Madrid
-2021/22,F,2021
-2021/22,SF,Liverpool
-2021/22,SF,Villarreal
-2021/22,SF,2021
-2021/22,SF,Manchester City
-2021/22,SF,Real Madrid
-2021/22,SF,2021
-2021/22,QF,Benfica
-2021/22,QF,Liverpool
-2021/22,QF,2021
-2021/22,QF,Villarreal
-2021/22,QF,Bayern München
-2021/22,QF,2021
-2021/22,QF,Manchester City
-2021/22,QF,Atlético Madrid
-2021/22,QF,2021
-2021/22,QF,Chelsea
-2021/22,QF,Real Madrid
-2021/22,QF,2021
-2021/22,R16,Atlético Madrid
-2021/22,R16,Manchester United
-2021/22,R16,2021
-2021/22,R16,Benfica
-2021/22,R16,Ajax
-2021/22,R16,2021
-2021/22,R16,Villarreal
-2021/22,R16,Juventus
-2021/22,R16,2021
-2021/22,R16,Chelsea
-2021/22,R16,Lille OSC
-2021/22,R16,2021
-2021/22,R16,Internazionale
-2021/22,R16,Liverpool
-2021/22,R16,2021
-2021/22,R16,FC Salzburg
-2021/22,R16,Bayern München
-2021/22,R16,2021
-2021/22,R16,Paris Saint-Germain
-2021/22,R16,Real Madrid
-2021/22,R16,2021
-2021/22,R16,Sporting CP Lisbon
-2021/22,R16,Manchester City
-2021/22,R16,2021
-2021/22,GS,Chelsea
-2021/22,GS,Malmö FF
-2021/22,GS,2021
-2021/22,GS,Zenit St. Petersburg
-2021/22,GS,Juventus
-2021/22,GS,2021
-2021/22,GS,Juventus
-2021/22,GS,Chelsea
-2021/22,GS,2021
-2021/22,GS,Zenit St. Petersburg
-2021/22,GS,Malmö FF
-2021/22,GS,2021
-2021/22,GS,Malmö FF
-2021/22,GS,Juventus
-2021/22,GS,2021
-2021/22,GS,Chelsea
-2021/22,GS,Zenit St. Petersburg
-2021/22,GS,2021
-2021/22,GS,Lille OSC
-2021/22,GS,Sevilla
-2021/22,GS,2021
-2021/22,GS,FC Salzburg
-2021/22,GS,VfL Wolfsburg
-2021/22,GS,2021
-2021/22,GS,VfL Wolfsburg
-2021/22,GS,Sevilla
-2021/22,GS,2021
-2021/22,GS,FC Salzburg
-2021/22,GS,Lille OSC
-2021/22,GS,2021
-2021/22,GS,Lille OSC
-2021/22,GS,VfL Wolfsburg
-2021/22,GS,2021
-2021/22,GS,Sevilla
-2021/22,GS,FC Salzburg
-2021/22,GS,2021
-2021/22,GS,Young Boys
-2021/22,GS,Villarreal
-2021/22,GS,2021
-2021/22,GS,Manchester United
-2021/22,GS,Atalanta
-2021/22,GS,2021
-2021/22,GS,Atalanta
-2021/22,GS,Young Boys
-2021/22,GS,2021
-2021/22,GS,Manchester United
-2021/22,GS,Villarreal
-2021/22,GS,2021
-2021/22,GS,Villarreal
-2021/22,GS,Atalanta
-2021/22,GS,2021
-2021/22,GS,Young Boys
-2021/22,GS,Manchester United
-2021/22,GS,2021
-2021/22,GS,FC Barcelona
-2021/22,GS,Dinamo Kiev
-2021/22,GS,2021
-2021/22,GS,Benfica
-2021/22,GS,Bayern München
-2021/22,GS,2021
-2021/22,GS,Bayern München
-2021/22,GS,Dinamo Kiev
-2021/22,GS,2021
-2021/22,GS,Benfica
-2021/22,GS,FC Barcelona
-2021/22,GS,2021
-2021/22,GS,FC Barcelona
-2021/22,GS,Bayern München
-2021/22,GS,2021
-2021/22,GS,Dinamo Kiev
-2021/22,GS,Benfica
-2021/22,GS,2021
-2021/22,GS,Internazionale
-2021/22,GS,Sheriff Tiraspol
-2021/22,GS,2021
-2021/22,GS,Shakhtar Donetsk
-2021/22,GS,Real Madrid
-2021/22,GS,2021
-2021/22,GS,Real Madrid
-2021/22,GS,Sheriff Tiraspol
-2021/22,GS,2021
-2021/22,GS,Shakhtar Donetsk
-2021/22,GS,Internazionale
-2021/22,GS,2021
-2021/22,GS,Internazionale
-2021/22,GS,Real Madrid
-2021/22,GS,2021
-2021/22,GS,Sheriff Tiraspol
-2021/22,GS,Shakhtar Donetsk
-2021/22,GS,2021
-2021/22,GS,Besiktas
-2021/22,GS,Sporting CP Lisbon
-2021/22,GS,2021
-2021/22,GS,Ajax
-2021/22,GS,Borussia Dortmund
-2021/22,GS,2021
-2021/22,GS,Borussia Dortmund
-2021/22,GS,Sporting CP Lisbon
-2021/22,GS,2021
-2021/22,GS,Ajax
-2021/22,GS,Besiktas
-2021/22,GS,2021
-2021/22,GS,Besiktas
-2021/22,GS,Borussia Dortmund
-2021/22,GS,2021
-2021/22,GS,Sporting CP Lisbon
-2021/22,GS,Ajax
-2021/22,GS,2021
-2021/22,GS,Atlético Madrid
-2021/22,GS,Liverpool
-2021/22,GS,2021
-2021/22,GS,FC Porto
-2021/22,GS,AC Milan
-2021/22,GS,2021
-2021/22,GS,AC Milan
-2021/22,GS,Atlético Madrid
-2021/22,GS,2021
-2021/22,GS,FC Porto
-2021/22,GS,Liverpool
-2021/22,GS,2021
-2021/22,GS,Liverpool
-2021/22,GS,AC Milan
-2021/22,GS,2021
-2021/22,GS,Atlético Madrid
-2021/22,GS,FC Porto
-2021/22,GS,2021
-2021/22,GS,Club Brugge
-2021/22,GS,Manchester City
-2021/22,GS,2021
-2021/22,GS,Paris Saint-Germain
-2021/22,GS,RB Leipzig
-2021/22,GS,2021
-2021/22,GS,RB Leipzig
-2021/22,GS,Club Brugge
-2021/22,GS,2021
-2021/22,GS,Paris Saint-Germain
-2021/22,GS,Manchester City
-2021/22,GS,2021
-2021/22,GS,Manchester City
-2021/22,GS,RB Leipzig
-2021/22,GS,2021
-2021/22,GS,Club Brugge
-2021/22,GS,Paris Saint-Germain
-2021/22,GS,2021
-2022/23,SF,Real Madrid
-2022/23,SF,Manchester City
-2022/23,SF,2022
-2022/23,SF,AC Milan
-2022/23,SF,Internazionale
-2022/23,SF,2022
-2022/23,QF,AC Milan
-2022/23,QF,Napoli
-2022/23,QF,2022
-2022/23,QF,Manchester City
-2022/23,QF,Bayern München
-2022/23,QF,2022
-2022/23,QF,Benfica
-2022/23,QF,Internazionale
-2022/23,QF,2022
-2022/23,QF,Real Madrid
-2022/23,QF,Chelsea
-2022/23,QF,2022
-2022/23,R16,Paris Saint-Germain
-2022/23,R16,Bayern München
-2022/23,R16,2022
-2022/23,R16,Internazionale
-2022/23,R16,FC Porto
-2022/23,R16,2022
-2022/23,R16,Borussia Dortmund
-2022/23,R16,Chelsea
-2022/23,R16,2022
-2022/23,R16,Eintracht Frankfurt
-2022/23,R16,Napoli
-2022/23,R16,2022
-2022/23,R16,AC Milan
-2022/23,R16,Tottenham Hotspur
-2022/23,R16,2022
-2022/23,R16,Liverpool
-2022/23,R16,Real Madrid
-2022/23,R16,2022
-2022/23,R16,Club Brugge
-2022/23,R16,Benfica
-2022/23,R16,2022
-2022/23,R16,RB Leipzig
-2022/23,R16,Manchester City
-2022/23,R16,2022
-2022/23,GS,Benfica
-2022/23,GS,Paris Saint-Germain
-2022/23,GS,2022
-2022/23,GS,Juventus
-2022/23,GS,Maccabi Haifa
-2022/23,GS,2022
-2022/23,GS,Maccabi Haifa
-2022/23,GS,Paris Saint-Germain
-2022/23,GS,2022
-2022/23,GS,Juventus
-2022/23,GS,Benfica
-2022/23,GS,2022
-2022/23,GS,Benfica
-2022/23,GS,Maccabi Haifa
-2022/23,GS,2022
-2022/23,GS,Paris Saint-Germain
-2022/23,GS,Juventus
-2022/23,GS,2022
-2022/23,GS,Sevilla
-2022/23,GS,Borussia Dortmund
-2022/23,GS,2022
-2022/23,GS,Manchester City
-2022/23,GS,FC København
-2022/23,GS,2022
-2022/23,GS,Manchester City
-2022/23,GS,Borussia Dortmund
-2022/23,GS,2022
-2022/23,GS,FC København
-2022/23,GS,Sevilla
-2022/23,GS,2022
-2022/23,GS,Sevilla
-2022/23,GS,Manchester City
-2022/23,GS,2022
-2022/23,GS,Borussia Dortmund
-2022/23,GS,FC København
-2022/23,GS,2022
-2022/23,GS,RB Leipzig
-2022/23,GS,Celtic
-2022/23,GS,2022
-2022/23,GS,Real Madrid
-2022/23,GS,Shakhtar Donetsk
-2022/23,GS,2022
-2022/23,GS,Shakhtar Donetsk
-2022/23,GS,Celtic
-2022/23,GS,2022
-2022/23,GS,Real Madrid
-2022/23,GS,RB Leipzig
-2022/23,GS,2022
-2022/23,GS,RB Leipzig
-2022/23,GS,Shakhtar Donetsk
-2022/23,GS,2022
-2022/23,GS,Celtic
-2022/23,GS,Real Madrid
-2022/23,GS,2022
-2022/23,GS,FC Salzburg
-2022/23,GS,Dinamo Zagreb
-2022/23,GS,2022
-2022/23,GS,Chelsea
-2022/23,GS,AC Milan
-2022/23,GS,2022
-2022/23,GS,AC Milan
-2022/23,GS,Dinamo Zagreb
-2022/23,GS,2022
-2022/23,GS,Chelsea
-2022/23,GS,FC Salzburg
-2022/23,GS,2022
-2022/23,GS,FC Salzburg
-2022/23,GS,AC Milan
-2022/23,GS,2022
-2022/23,GS,Dinamo Zagreb
-2022/23,GS,Chelsea
-2022/23,GS,2022
-2022/23,GS,Eintracht Frankfurt
-2022/23,GS,Tottenham Hotspur
-2022/23,GS,2022
-2022/23,GS,Olympique Marseille
-2022/23,GS,Sporting CP Lisbon
-2022/23,GS,2022
-2022/23,GS,Olympique Marseille
-2022/23,GS,Eintracht Frankfurt
-2022/23,GS,2022
-2022/23,GS,Sporting CP Lisbon
-2022/23,GS,Tottenham Hotspur
-2022/23,GS,2022
-2022/23,GS,Tottenham Hotspur
-2022/23,GS,Olympique Marseille
-2022/23,GS,2022
-2022/23,GS,Eintracht Frankfurt
-2022/23,GS,Sporting CP Lisbon
-2022/23,GS,2022
-2022/23,GS,Internazionale
-2022/23,GS,FC Barcelona
-2022/23,GS,2022
-2022/23,GS,Bayern München
-2022/23,GS,Viktoria Plzen
-2022/23,GS,2022
-2022/23,GS,Bayern München
-2022/23,GS,FC Barcelona
-2022/23,GS,2022
-2022/23,GS,Viktoria Plzen
-2022/23,GS,Internazionale
-2022/23,GS,2022
-2022/23,GS,Internazionale
-2022/23,GS,Bayern München
-2022/23,GS,2022
-2022/23,GS,FC Barcelona
-2022/23,GS,Viktoria Plzen
-2022/23,GS,2022
-2022/23,GS,Club Brugge
-2022/23,GS,Atlético Madrid
-2022/23,GS,2022
-2022/23,GS,FC Porto
-2022/23,GS,Bayer Leverkusen
-2022/23,GS,2022
-2022/23,GS,Bayer Leverkusen
-2022/23,GS,Atlético Madrid
-2022/23,GS,2022
-2022/23,GS,FC Porto
-2022/23,GS,Club Brugge
-2022/23,GS,2022
-2022/23,GS,Club Brugge
-2022/23,GS,Bayer Leverkusen
-2022/23,GS,2022
-2022/23,GS,Atlético Madrid
-2022/23,GS,FC Porto
-2022/23,GS,2022
-2022/23,GS,Ajax
-2022/23,GS,Napoli
-2022/23,GS,2022
-2022/23,GS,Liverpool
-2022/23,GS,Glasgow Rangers
-2022/23,GS,2022
-2022/23,GS,Liverpool
-2022/23,GS,Ajax
-2022/23,GS,2022
-2022/23,GS,Glasgow Rangers
-2022/23,GS,Napoli
-2022/23,GS,2022
-2022/23,GS,Napoli
-2022/23,GS,Liverpool
-2022/23,GS,2022
-2022/23,GS,Ajax
-2022/23,GS,Glasgow Rangers
-2022/23,GS,2022
+year,season,round,team
+2003,2003/04,F,AS Monaco
+2003,2003/04,F,FC Porto
+2003,2003/04,SF,FC Porto
+2003,2003/04,SF,Deportivo La Coruña
+2003,2003/04,SF,AS Monaco
+2003,2003/04,SF,Chelsea
+2003,2003/04,QF,Chelsea
+2003,2003/04,QF,Arsenal
+2003,2003/04,QF,Real Madrid
+2003,2003/04,QF,AS Monaco
+2003,2003/04,QF,AC Milan
+2003,2003/04,QF,Deportivo La Coruña
+2003,2003/04,QF,FC Porto
+2003,2003/04,QF,Olympique Lyon
+2003,2003/04,R16,Lokomotiv Moscow
+2003,2003/04,R16,AS Monaco
+2003,2003/04,R16,Sparta Praha
+2003,2003/04,R16,AC Milan
+2003,2003/04,R16,Bayern München
+2003,2003/04,R16,Real Madrid
+2003,2003/04,R16,Celta de Vigo
+2003,2003/04,R16,Arsenal
+2003,2003/04,R16,Deportivo La Coruña
+2003,2003/04,R16,Juventus
+2003,2003/04,R16,Real Sociedad
+2003,2003/04,R16,Olympique Lyon
+2003,2003/04,R16,FC Porto
+2003,2003/04,R16,Manchester United
+2003,2003/04,R16,VfB Stuttgart
+2003,2003/04,R16,Chelsea
+2003,2003/04,GS,AC Milan
+2003,2003/04,GS,Club Brugge
+2003,2003/04,GS,Ajax
+2003,2003/04,GS,Celta de Vigo
+2003,2003/04,GS,Ajax
+2003,2003/04,GS,Club Brugge
+2003,2003/04,GS,Celta de Vigo
+2003,2003/04,GS,AC Milan
+2003,2003/04,GS,Club Brugge
+2003,2003/04,GS,Celta de Vigo
+2003,2003/04,GS,AC Milan
+2003,2003/04,GS,Ajax
+2003,2003/04,GS,Sparta Praha
+2003,2003/04,GS,Besiktas
+2003,2003/04,GS,Chelsea
+2003,2003/04,GS,Lazio
+2003,2003/04,GS,Chelsea
+2003,2003/04,GS,Besiktas
+2003,2003/04,GS,Lazio
+2003,2003/04,GS,Sparta Praha
+2003,2003/04,GS,Besiktas
+2003,2003/04,GS,Lazio
+2003,2003/04,GS,Sparta Praha
+2003,2003/04,GS,Chelsea
+2003,2003/04,GS,Real Madrid
+2003,2003/04,GS,Partizan Belgrade
+2003,2003/04,GS,Olympique Marseille
+2003,2003/04,GS,FC Porto
+2003,2003/04,GS,Olympique Marseille
+2003,2003/04,GS,Partizan Belgrade
+2003,2003/04,GS,FC Porto
+2003,2003/04,GS,Real Madrid
+2003,2003/04,GS,Partizan Belgrade
+2003,2003/04,GS,FC Porto
+2003,2003/04,GS,Real Madrid
+2003,2003/04,GS,Olympique Marseille
+2003,2003/04,GS,Glasgow Rangers
+2003,2003/04,GS,Manchester United
+2003,2003/04,GS,VfB Stuttgart
+2003,2003/04,GS,Panathinaikos
+2003,2003/04,GS,VfB Stuttgart
+2003,2003/04,GS,Manchester United
+2003,2003/04,GS,Panathinaikos
+2003,2003/04,GS,Glasgow Rangers
+2003,2003/04,GS,Manchester United
+2003,2003/04,GS,Panathinaikos
+2003,2003/04,GS,Glasgow Rangers
+2003,2003/04,GS,VfB Stuttgart
+2003,2003/04,GS,Juventus
+2003,2003/04,GS,Real Sociedad
+2003,2003/04,GS,Galatasaray
+2003,2003/04,GS,Olympiakos Piraeus
+2003,2003/04,GS,Galatasaray
+2003,2003/04,GS,Real Sociedad
+2003,2003/04,GS,Olympiakos Piraeus
+2003,2003/04,GS,Juventus
+2003,2003/04,GS,Real Sociedad
+2003,2003/04,GS,Olympiakos Piraeus
+2003,2003/04,GS,Juventus
+2003,2003/04,GS,Galatasaray
+2003,2003/04,GS,AEK Athens
+2003,2003/04,GS,PSV Eindhoven
+2003,2003/04,GS,Deportivo La Coruña
+2003,2003/04,GS,AS Monaco
+2003,2003/04,GS,Deportivo La Coruña
+2003,2003/04,GS,PSV Eindhoven
+2003,2003/04,GS,AS Monaco
+2003,2003/04,GS,AEK Athens
+2003,2003/04,GS,PSV Eindhoven
+2003,2003/04,GS,AS Monaco
+2003,2003/04,GS,AEK Athens
+2003,2003/04,GS,Deportivo La Coruña
+2003,2003/04,GS,Dinamo Kiev
+2003,2003/04,GS,Arsenal
+2003,2003/04,GS,Lokomotiv Moscow
+2003,2003/04,GS,Internazionale
+2003,2003/04,GS,Lokomotiv Moscow
+2003,2003/04,GS,Arsenal
+2003,2003/04,GS,Internazionale
+2003,2003/04,GS,Dinamo Kiev
+2003,2003/04,GS,Arsenal
+2003,2003/04,GS,Internazionale
+2003,2003/04,GS,Dinamo Kiev
+2003,2003/04,GS,Lokomotiv Moscow
+2003,2003/04,GS,Olympique Lyon
+2003,2003/04,GS,Bayern München
+2003,2003/04,GS,Anderlecht
+2003,2003/04,GS,Celtic
+2003,2003/04,GS,Anderlecht
+2003,2003/04,GS,Bayern München
+2003,2003/04,GS,Celtic
+2003,2003/04,GS,Olympique Lyon
+2003,2003/04,GS,Bayern München
+2003,2003/04,GS,Celtic
+2003,2003/04,GS,Olympique Lyon
+2003,2003/04,GS,Anderlecht
+2004,2004/05,F,Liverpool
+2004,2004/05,F,AC Milan
+2004,2004/05,SF,Chelsea
+2004,2004/05,SF,Liverpool
+2004,2004/05,SF,AC Milan
+2004,2004/05,SF,PSV Eindhoven
+2004,2004/05,QF,Chelsea
+2004,2004/05,QF,Bayern München
+2004,2004/05,QF,AC Milan
+2004,2004/05,QF,Internazionale
+2004,2004/05,QF,Olympique Lyon
+2004,2004/05,QF,PSV Eindhoven
+2004,2004/05,QF,Liverpool
+2004,2004/05,QF,Juventus
+2004,2004/05,R16,Bayern München
+2004,2004/05,R16,Arsenal
+2004,2004/05,R16,Manchester United
+2004,2004/05,R16,AC Milan
+2004,2004/05,R16,PSV Eindhoven
+2004,2004/05,R16,AS Monaco
+2004,2004/05,R16,Liverpool
+2004,2004/05,R16,Bayer Leverkusen
+2004,2004/05,R16,Werder Bremen
+2004,2004/05,R16,Olympique Lyon
+2004,2004/05,R16,FC Barcelona
+2004,2004/05,R16,Chelsea
+2004,2004/05,R16,FC Porto
+2004,2004/05,R16,Internazionale
+2004,2004/05,R16,Real Madrid
+2004,2004/05,R16,Juventus
+2004,2004/05,GS,Paris Saint-Germain
+2004,2004/05,GS,FC Porto
+2004,2004/05,GS,Chelsea
+2004,2004/05,GS,CSKA Moscow
+2004,2004/05,GS,Chelsea
+2004,2004/05,GS,FC Porto
+2004,2004/05,GS,CSKA Moscow
+2004,2004/05,GS,Paris Saint-Germain
+2004,2004/05,GS,FC Porto
+2004,2004/05,GS,CSKA Moscow
+2004,2004/05,GS,Paris Saint-Germain
+2004,2004/05,GS,Chelsea
+2004,2004/05,GS,Valencia
+2004,2004/05,GS,Internazionale
+2004,2004/05,GS,Anderlecht
+2004,2004/05,GS,Werder Bremen
+2004,2004/05,GS,Anderlecht
+2004,2004/05,GS,Internazionale
+2004,2004/05,GS,Werder Bremen
+2004,2004/05,GS,Valencia
+2004,2004/05,GS,Internazionale
+2004,2004/05,GS,Werder Bremen
+2004,2004/05,GS,Valencia
+2004,2004/05,GS,Anderlecht
+2004,2004/05,GS,Shakhtar Donetsk
+2004,2004/05,GS,Celtic
+2004,2004/05,GS,AC Milan
+2004,2004/05,GS,FC Barcelona
+2004,2004/05,GS,AC Milan
+2004,2004/05,GS,Celtic
+2004,2004/05,GS,FC Barcelona
+2004,2004/05,GS,Shakhtar Donetsk
+2004,2004/05,GS,Celtic
+2004,2004/05,GS,FC Barcelona
+2004,2004/05,GS,Shakhtar Donetsk
+2004,2004/05,GS,AC Milan
+2004,2004/05,GS,Panathinaikos
+2004,2004/05,GS,Arsenal
+2004,2004/05,GS,Rosenborg BK
+2004,2004/05,GS,PSV Eindhoven
+2004,2004/05,GS,Rosenborg BK
+2004,2004/05,GS,Arsenal
+2004,2004/05,GS,PSV Eindhoven
+2004,2004/05,GS,Panathinaikos
+2004,2004/05,GS,Arsenal
+2004,2004/05,GS,PSV Eindhoven
+2004,2004/05,GS,Panathinaikos
+2004,2004/05,GS,Rosenborg BK
+2004,2004/05,GS,Fenerbahçe
+2004,2004/05,GS,Olympique Lyon
+2004,2004/05,GS,Sparta Praha
+2004,2004/05,GS,Manchester United
+2004,2004/05,GS,Sparta Praha
+2004,2004/05,GS,Olympique Lyon
+2004,2004/05,GS,Manchester United
+2004,2004/05,GS,Fenerbahçe
+2004,2004/05,GS,Olympique Lyon
+2004,2004/05,GS,Manchester United
+2004,2004/05,GS,Fenerbahçe
+2004,2004/05,GS,Sparta Praha
+2004,2004/05,GS,Ajax
+2004,2004/05,GS,Maccabi Tel-Aviv
+2004,2004/05,GS,Juventus
+2004,2004/05,GS,Bayern München
+2004,2004/05,GS,Juventus
+2004,2004/05,GS,Maccabi Tel-Aviv
+2004,2004/05,GS,Bayern München
+2004,2004/05,GS,Ajax
+2004,2004/05,GS,Maccabi Tel-Aviv
+2004,2004/05,GS,Bayern München
+2004,2004/05,GS,Ajax
+2004,2004/05,GS,Juventus
+2004,2004/05,GS,Bayer Leverkusen
+2004,2004/05,GS,AS Roma
+2004,2004/05,GS,Real Madrid
+2004,2004/05,GS,Dinamo Kiev
+2004,2004/05,GS,Real Madrid
+2004,2004/05,GS,AS Roma
+2004,2004/05,GS,Dinamo Kiev
+2004,2004/05,GS,Bayer Leverkusen
+2004,2004/05,GS,AS Roma
+2004,2004/05,GS,Dinamo Kiev
+2004,2004/05,GS,Bayer Leverkusen
+2004,2004/05,GS,Real Madrid
+2004,2004/05,GS,Liverpool
+2004,2004/05,GS,Deportivo La Coruña
+2004,2004/05,GS,AS Monaco
+2004,2004/05,GS,Olympiakos Piraeus
+2004,2004/05,GS,AS Monaco
+2004,2004/05,GS,Deportivo La Coruña
+2004,2004/05,GS,Olympiakos Piraeus
+2004,2004/05,GS,Liverpool
+2004,2004/05,GS,Deportivo La Coruña
+2004,2004/05,GS,Olympiakos Piraeus
+2004,2004/05,GS,Liverpool
+2004,2004/05,GS,AS Monaco
+2005,2005/06,F,FC Barcelona
+2005,2005/06,F,Arsenal
+2005,2005/06,SF,AC Milan
+2005,2005/06,SF,FC Barcelona
+2005,2005/06,SF,Arsenal
+2005,2005/06,SF,Villarreal
+2005,2005/06,QF,Benfica
+2005,2005/06,QF,FC Barcelona
+2005,2005/06,QF,Internazionale
+2005,2005/06,QF,Villarreal
+2005,2005/06,QF,Olympique Lyon
+2005,2005/06,QF,AC Milan
+2005,2005/06,QF,Arsenal
+2005,2005/06,QF,Juventus
+2005,2005/06,R16,Glasgow Rangers
+2005,2005/06,R16,Villarreal
+2005,2005/06,R16,Benfica
+2005,2005/06,R16,Liverpool
+2005,2005/06,R16,Ajax
+2005,2005/06,R16,Internazionale
+2005,2005/06,R16,PSV Eindhoven
+2005,2005/06,R16,Olympique Lyon
+2005,2005/06,R16,Bayern München
+2005,2005/06,R16,AC Milan
+2005,2005/06,R16,Werder Bremen
+2005,2005/06,R16,Juventus
+2005,2005/06,R16,Real Madrid
+2005,2005/06,R16,Arsenal
+2005,2005/06,R16,Chelsea
+2005,2005/06,R16,FC Barcelona
+2005,2005/06,GS,Glasgow Rangers
+2005,2005/06,GS,Petrzalka Bratislava
+2005,2005/06,GS,FC Porto
+2005,2005/06,GS,Internazionale
+2005,2005/06,GS,FC Porto
+2005,2005/06,GS,Petrzalka Bratislava
+2005,2005/06,GS,Internazionale
+2005,2005/06,GS,Glasgow Rangers
+2005,2005/06,GS,Petrzalka Bratislava
+2005,2005/06,GS,Internazionale
+2005,2005/06,GS,Glasgow Rangers
+2005,2005/06,GS,FC Porto
+2005,2005/06,GS,Chelsea
+2005,2005/06,GS,Real Betis
+2005,2005/06,GS,Anderlecht
+2005,2005/06,GS,Liverpool
+2005,2005/06,GS,Anderlecht
+2005,2005/06,GS,Real Betis
+2005,2005/06,GS,Liverpool
+2005,2005/06,GS,Chelsea
+2005,2005/06,GS,Real Betis
+2005,2005/06,GS,Liverpool
+2005,2005/06,GS,Chelsea
+2005,2005/06,GS,Anderlecht
+2005,2005/06,GS,Olympique Lyon
+2005,2005/06,GS,Olympiakos Piraeus
+2005,2005/06,GS,Real Madrid
+2005,2005/06,GS,Rosenborg BK
+2005,2005/06,GS,Real Madrid
+2005,2005/06,GS,Olympiakos Piraeus
+2005,2005/06,GS,Rosenborg BK
+2005,2005/06,GS,Olympique Lyon
+2005,2005/06,GS,Olympiakos Piraeus
+2005,2005/06,GS,Rosenborg BK
+2005,2005/06,GS,Olympique Lyon
+2005,2005/06,GS,Real Madrid
+2005,2005/06,GS,AC Milan
+2005,2005/06,GS,PSV Eindhoven
+2005,2005/06,GS,Fenerbahçe
+2005,2005/06,GS,Schalke 04
+2005,2005/06,GS,Fenerbahçe
+2005,2005/06,GS,PSV Eindhoven
+2005,2005/06,GS,Schalke 04
+2005,2005/06,GS,AC Milan
+2005,2005/06,GS,PSV Eindhoven
+2005,2005/06,GS,Schalke 04
+2005,2005/06,GS,AC Milan
+2005,2005/06,GS,Fenerbahçe
+2005,2005/06,GS,Villarreal
+2005,2005/06,GS,Benfica
+2005,2005/06,GS,Manchester United
+2005,2005/06,GS,Lille OSC
+2005,2005/06,GS,Manchester United
+2005,2005/06,GS,Benfica
+2005,2005/06,GS,Lille OSC
+2005,2005/06,GS,Villarreal
+2005,2005/06,GS,Benfica
+2005,2005/06,GS,Lille OSC
+2005,2005/06,GS,Villarreal
+2005,2005/06,GS,Manchester United
+2005,2005/06,GS,Udinese
+2005,2005/06,GS,Werder Bremen
+2005,2005/06,GS,Panathinaikos
+2005,2005/06,GS,FC Barcelona
+2005,2005/06,GS,Panathinaikos
+2005,2005/06,GS,Werder Bremen
+2005,2005/06,GS,FC Barcelona
+2005,2005/06,GS,Udinese
+2005,2005/06,GS,Werder Bremen
+2005,2005/06,GS,FC Barcelona
+2005,2005/06,GS,Udinese
+2005,2005/06,GS,Panathinaikos
+2005,2005/06,GS,Sparta Praha
+2005,2005/06,GS,Arsenal
+2005,2005/06,GS,Ajax
+2005,2005/06,GS,FC Thun
+2005,2005/06,GS,Ajax
+2005,2005/06,GS,Arsenal
+2005,2005/06,GS,FC Thun
+2005,2005/06,GS,Sparta Praha
+2005,2005/06,GS,Arsenal
+2005,2005/06,GS,FC Thun
+2005,2005/06,GS,Sparta Praha
+2005,2005/06,GS,Ajax
+2005,2005/06,GS,Rapid Wien
+2005,2005/06,GS,Club Brugge
+2005,2005/06,GS,Bayern München
+2005,2005/06,GS,Juventus
+2005,2005/06,GS,Bayern München
+2005,2005/06,GS,Club Brugge
+2005,2005/06,GS,Juventus
+2005,2005/06,GS,Rapid Wien
+2005,2005/06,GS,Club Brugge
+2005,2005/06,GS,Juventus
+2005,2005/06,GS,Rapid Wien
+2005,2005/06,GS,Bayern München
+2006,2006/07,F,Liverpool
+2006,2006/07,F,AC Milan
+2006,2006/07,SF,Manchester United
+2006,2006/07,SF,AC Milan
+2006,2006/07,SF,Chelsea
+2006,2006/07,SF,Liverpool
+2006,2006/07,QF,Chelsea
+2006,2006/07,QF,Valencia
+2006,2006/07,QF,AS Roma
+2006,2006/07,QF,Manchester United
+2006,2006/07,QF,PSV Eindhoven
+2006,2006/07,QF,Liverpool
+2006,2006/07,QF,AC Milan
+2006,2006/07,QF,Bayern München
+2006,2006/07,R16,Internazionale
+2006,2006/07,R16,Valencia
+2006,2006/07,R16,FC Porto
+2006,2006/07,R16,Chelsea
+2006,2006/07,R16,FC Barcelona
+2006,2006/07,R16,Liverpool
+2006,2006/07,R16,AS Roma
+2006,2006/07,R16,Olympique Lyon
+2006,2006/07,R16,Real Madrid
+2006,2006/07,R16,Bayern München
+2006,2006/07,R16,PSV Eindhoven
+2006,2006/07,R16,Arsenal
+2006,2006/07,R16,Lille OSC
+2006,2006/07,R16,Manchester United
+2006,2006/07,R16,Celtic
+2006,2006/07,R16,AC Milan
+2006,2006/07,GS,Anderlecht
+2006,2006/07,GS,AC Milan
+2006,2006/07,GS,Lille OSC
+2006,2006/07,GS,AEK Athens
+2006,2006/07,GS,Lille OSC
+2006,2006/07,GS,AC Milan
+2006,2006/07,GS,AEK Athens
+2006,2006/07,GS,Anderlecht
+2006,2006/07,GS,AC Milan
+2006,2006/07,GS,AEK Athens
+2006,2006/07,GS,Anderlecht
+2006,2006/07,GS,Lille OSC
+2006,2006/07,GS,FC Porto
+2006,2006/07,GS,Hamburger SV
+2006,2006/07,GS,CSKA Moscow
+2006,2006/07,GS,Arsenal
+2006,2006/07,GS,CSKA Moscow
+2006,2006/07,GS,Hamburger SV
+2006,2006/07,GS,Arsenal
+2006,2006/07,GS,FC Porto
+2006,2006/07,GS,Hamburger SV
+2006,2006/07,GS,Arsenal
+2006,2006/07,GS,FC Porto
+2006,2006/07,GS,CSKA Moscow
+2006,2006/07,GS,Manchester United
+2006,2006/07,GS,FC København
+2006,2006/07,GS,Celtic
+2006,2006/07,GS,Benfica
+2006,2006/07,GS,Celtic
+2006,2006/07,GS,FC København
+2006,2006/07,GS,Benfica
+2006,2006/07,GS,Manchester United
+2006,2006/07,GS,FC København
+2006,2006/07,GS,Benfica
+2006,2006/07,GS,Manchester United
+2006,2006/07,GS,Celtic
+2006,2006/07,GS,Dinamo Kiev
+2006,2006/07,GS,Olympique Lyon
+2006,2006/07,GS,Steaua Bucuresti
+2006,2006/07,GS,Real Madrid
+2006,2006/07,GS,Steaua Bucuresti
+2006,2006/07,GS,Olympique Lyon
+2006,2006/07,GS,Real Madrid
+2006,2006/07,GS,Dinamo Kiev
+2006,2006/07,GS,Olympique Lyon
+2006,2006/07,GS,Real Madrid
+2006,2006/07,GS,Dinamo Kiev
+2006,2006/07,GS,Steaua Bucuresti
+2006,2006/07,GS,Olympiakos Piraeus
+2006,2006/07,GS,AS Roma
+2006,2006/07,GS,Valencia
+2006,2006/07,GS,Shakhtar Donetsk
+2006,2006/07,GS,Valencia
+2006,2006/07,GS,AS Roma
+2006,2006/07,GS,Shakhtar Donetsk
+2006,2006/07,GS,Olympiakos Piraeus
+2006,2006/07,GS,AS Roma
+2006,2006/07,GS,Shakhtar Donetsk
+2006,2006/07,GS,Olympiakos Piraeus
+2006,2006/07,GS,Valencia
+2006,2006/07,GS,Galatasaray
+2006,2006/07,GS,PSV Eindhoven
+2006,2006/07,GS,Girondins Bordeaux
+2006,2006/07,GS,Liverpool
+2006,2006/07,GS,Girondins Bordeaux
+2006,2006/07,GS,PSV Eindhoven
+2006,2006/07,GS,Liverpool
+2006,2006/07,GS,Galatasaray
+2006,2006/07,GS,PSV Eindhoven
+2006,2006/07,GS,Liverpool
+2006,2006/07,GS,Galatasaray
+2006,2006/07,GS,Girondins Bordeaux
+2006,2006/07,GS,Sporting CP Lisbon
+2006,2006/07,GS,Bayern München
+2006,2006/07,GS,Internazionale
+2006,2006/07,GS,Spartak Moscow
+2006,2006/07,GS,Internazionale
+2006,2006/07,GS,Bayern München
+2006,2006/07,GS,Spartak Moscow
+2006,2006/07,GS,Sporting CP Lisbon
+2006,2006/07,GS,Bayern München
+2006,2006/07,GS,Spartak Moscow
+2006,2006/07,GS,Sporting CP Lisbon
+2006,2006/07,GS,Internazionale
+2006,2006/07,GS,Chelsea
+2006,2006/07,GS,FC Barcelona
+2006,2006/07,GS,Werder Bremen
+2006,2006/07,GS,Levski Sofia
+2006,2006/07,GS,Werder Bremen
+2006,2006/07,GS,FC Barcelona
+2006,2006/07,GS,Levski Sofia
+2006,2006/07,GS,Chelsea
+2006,2006/07,GS,FC Barcelona
+2006,2006/07,GS,Levski Sofia
+2006,2006/07,GS,Chelsea
+2006,2006/07,GS,Werder Bremen
+2007,2007/08,F,Manchester United
+2007,2007/08,F,Chelsea
+2007,2007/08,SF,FC Barcelona
+2007,2007/08,SF,Manchester United
+2007,2007/08,SF,Liverpool
+2007,2007/08,SF,Chelsea
+2007,2007/08,QF,Fenerbahçe
+2007,2007/08,QF,Chelsea
+2007,2007/08,QF,Schalke 04
+2007,2007/08,QF,FC Barcelona
+2007,2007/08,QF,AS Roma
+2007,2007/08,QF,Manchester United
+2007,2007/08,QF,Arsenal
+2007,2007/08,QF,Liverpool
+2007,2007/08,R16,Fenerbahçe
+2007,2007/08,R16,Sevilla
+2007,2007/08,R16,Olympiakos Piraeus
+2007,2007/08,R16,Chelsea
+2007,2007/08,R16,Arsenal
+2007,2007/08,R16,AC Milan
+2007,2007/08,R16,AS Roma
+2007,2007/08,R16,Real Madrid
+2007,2007/08,R16,Liverpool
+2007,2007/08,R16,Internazionale
+2007,2007/08,R16,Schalke 04
+2007,2007/08,R16,FC Porto
+2007,2007/08,R16,Olympique Lyon
+2007,2007/08,R16,Manchester United
+2007,2007/08,R16,Celtic
+2007,2007/08,R16,FC Barcelona
+2007,2007/08,GS,Arsenal
+2007,2007/08,GS,Slavia Praha
+2007,2007/08,GS,Sevilla
+2007,2007/08,GS,Steaua Bucuresti
+2007,2007/08,GS,Sevilla
+2007,2007/08,GS,Slavia Praha
+2007,2007/08,GS,Steaua Bucuresti
+2007,2007/08,GS,Arsenal
+2007,2007/08,GS,Slavia Praha
+2007,2007/08,GS,Steaua Bucuresti
+2007,2007/08,GS,Arsenal
+2007,2007/08,GS,Sevilla
+2007,2007/08,GS,PSV Eindhoven
+2007,2007/08,GS,Fenerbahçe
+2007,2007/08,GS,CSKA Moscow
+2007,2007/08,GS,Internazionale
+2007,2007/08,GS,CSKA Moscow
+2007,2007/08,GS,Fenerbahçe
+2007,2007/08,GS,Internazionale
+2007,2007/08,GS,PSV Eindhoven
+2007,2007/08,GS,Fenerbahçe
+2007,2007/08,GS,Internazionale
+2007,2007/08,GS,PSV Eindhoven
+2007,2007/08,GS,CSKA Moscow
+2007,2007/08,GS,AS Roma
+2007,2007/08,GS,Sporting CP Lisbon
+2007,2007/08,GS,Dinamo Kiev
+2007,2007/08,GS,Manchester United
+2007,2007/08,GS,Dinamo Kiev
+2007,2007/08,GS,Sporting CP Lisbon
+2007,2007/08,GS,Manchester United
+2007,2007/08,GS,AS Roma
+2007,2007/08,GS,Sporting CP Lisbon
+2007,2007/08,GS,Manchester United
+2007,2007/08,GS,AS Roma
+2007,2007/08,GS,Dinamo Kiev
+2007,2007/08,GS,Glasgow Rangers
+2007,2007/08,GS,FC Barcelona
+2007,2007/08,GS,VfB Stuttgart
+2007,2007/08,GS,Olympique Lyon
+2007,2007/08,GS,VfB Stuttgart
+2007,2007/08,GS,FC Barcelona
+2007,2007/08,GS,Olympique Lyon
+2007,2007/08,GS,Glasgow Rangers
+2007,2007/08,GS,FC Barcelona
+2007,2007/08,GS,Olympique Lyon
+2007,2007/08,GS,Glasgow Rangers
+2007,2007/08,GS,VfB Stuttgart
+2007,2007/08,GS,AC Milan
+2007,2007/08,GS,Shakhtar Donetsk
+2007,2007/08,GS,Benfica
+2007,2007/08,GS,Celtic
+2007,2007/08,GS,Benfica
+2007,2007/08,GS,Shakhtar Donetsk
+2007,2007/08,GS,Celtic
+2007,2007/08,GS,AC Milan
+2007,2007/08,GS,Shakhtar Donetsk
+2007,2007/08,GS,Celtic
+2007,2007/08,GS,AC Milan
+2007,2007/08,GS,Benfica
+2007,2007/08,GS,Real Madrid
+2007,2007/08,GS,Olympiakos Piraeus
+2007,2007/08,GS,Werder Bremen
+2007,2007/08,GS,Lazio
+2007,2007/08,GS,Werder Bremen
+2007,2007/08,GS,Olympiakos Piraeus
+2007,2007/08,GS,Lazio
+2007,2007/08,GS,Real Madrid
+2007,2007/08,GS,Olympiakos Piraeus
+2007,2007/08,GS,Lazio
+2007,2007/08,GS,Real Madrid
+2007,2007/08,GS,Werder Bremen
+2007,2007/08,GS,Chelsea
+2007,2007/08,GS,Schalke 04
+2007,2007/08,GS,Rosenborg BK
+2007,2007/08,GS,Valencia
+2007,2007/08,GS,Rosenborg BK
+2007,2007/08,GS,Schalke 04
+2007,2007/08,GS,Valencia
+2007,2007/08,GS,Chelsea
+2007,2007/08,GS,Schalke 04
+2007,2007/08,GS,Valencia
+2007,2007/08,GS,Chelsea
+2007,2007/08,GS,Rosenborg BK
+2007,2007/08,GS,Olympique Marseille
+2007,2007/08,GS,FC Porto
+2007,2007/08,GS,Besiktas
+2007,2007/08,GS,Liverpool
+2007,2007/08,GS,Besiktas
+2007,2007/08,GS,FC Porto
+2007,2007/08,GS,Liverpool
+2007,2007/08,GS,Olympique Marseille
+2007,2007/08,GS,FC Porto
+2007,2007/08,GS,Liverpool
+2007,2007/08,GS,Olympique Marseille
+2007,2007/08,GS,Besiktas
+2008,2008/09,F,FC Barcelona
+2008,2008/09,F,Manchester United
+2008,2008/09,SF,FC Barcelona
+2008,2008/09,SF,Chelsea
+2008,2008/09,SF,Manchester United
+2008,2008/09,SF,Arsenal
+2008,2008/09,QF,FC Barcelona
+2008,2008/09,QF,Bayern München
+2008,2008/09,QF,Liverpool
+2008,2008/09,QF,Chelsea
+2008,2008/09,QF,Manchester United
+2008,2008/09,QF,FC Porto
+2008,2008/09,QF,Villarreal
+2008,2008/09,QF,Arsenal
+2008,2008/09,R16,Sporting CP Lisbon
+2008,2008/09,R16,Bayern München
+2008,2008/09,R16,Villarreal
+2008,2008/09,R16,Panathinaikos
+2008,2008/09,R16,Chelsea
+2008,2008/09,R16,Juventus
+2008,2008/09,R16,Real Madrid
+2008,2008/09,R16,Liverpool
+2008,2008/09,R16,Internazionale
+2008,2008/09,R16,Manchester United
+2008,2008/09,R16,Arsenal
+2008,2008/09,R16,AS Roma
+2008,2008/09,R16,Olympique Lyon
+2008,2008/09,R16,FC Barcelona
+2008,2008/09,R16,Atlético Madrid
+2008,2008/09,R16,FC Porto
+2008,2008/09,GS,Juventus
+2008,2008/09,GS,Real Madrid
+2008,2008/09,GS,Zenit St. Petersburg
+2008,2008/09,GS,BATE Borisov
+2008,2008/09,GS,Zenit St. Petersburg
+2008,2008/09,GS,Real Madrid
+2008,2008/09,GS,BATE Borisov
+2008,2008/09,GS,Juventus
+2008,2008/09,GS,Real Madrid
+2008,2008/09,GS,BATE Borisov
+2008,2008/09,GS,Juventus
+2008,2008/09,GS,Zenit St. Petersburg
+2008,2008/09,GS,FC Porto
+2008,2008/09,GS,Dinamo Kiev
+2008,2008/09,GS,Fenerbahçe
+2008,2008/09,GS,Arsenal
+2008,2008/09,GS,Fenerbahçe
+2008,2008/09,GS,Dinamo Kiev
+2008,2008/09,GS,Arsenal
+2008,2008/09,GS,FC Porto
+2008,2008/09,GS,Dinamo Kiev
+2008,2008/09,GS,Arsenal
+2008,2008/09,GS,FC Porto
+2008,2008/09,GS,Fenerbahçe
+2008,2008/09,GS,Steaua Bucuresti
+2008,2008/09,GS,Olympique Lyon
+2008,2008/09,GS,Bayern München
+2008,2008/09,GS,Fiorentina
+2008,2008/09,GS,Bayern München
+2008,2008/09,GS,Olympique Lyon
+2008,2008/09,GS,Fiorentina
+2008,2008/09,GS,Steaua Bucuresti
+2008,2008/09,GS,Olympique Lyon
+2008,2008/09,GS,Fiorentina
+2008,2008/09,GS,Steaua Bucuresti
+2008,2008/09,GS,Bayern München
+2008,2008/09,GS,Manchester United
+2008,2008/09,GS,Celtic
+2008,2008/09,GS,Villarreal
+2008,2008/09,GS,AaB Aalborg
+2008,2008/09,GS,Villarreal
+2008,2008/09,GS,Celtic
+2008,2008/09,GS,AaB Aalborg
+2008,2008/09,GS,Manchester United
+2008,2008/09,GS,Celtic
+2008,2008/09,GS,AaB Aalborg
+2008,2008/09,GS,Manchester United
+2008,2008/09,GS,Villarreal
+2008,2008/09,GS,PSV Eindhoven
+2008,2008/09,GS,Olympique Marseille
+2008,2008/09,GS,Atlético Madrid
+2008,2008/09,GS,Liverpool
+2008,2008/09,GS,Atlético Madrid
+2008,2008/09,GS,Olympique Marseille
+2008,2008/09,GS,Liverpool
+2008,2008/09,GS,PSV Eindhoven
+2008,2008/09,GS,Olympique Marseille
+2008,2008/09,GS,Liverpool
+2008,2008/09,GS,PSV Eindhoven
+2008,2008/09,GS,Atlético Madrid
+2008,2008/09,GS,FC Basel
+2008,2008/09,GS,FC Barcelona
+2008,2008/09,GS,Shakhtar Donetsk
+2008,2008/09,GS,Sporting CP Lisbon
+2008,2008/09,GS,Shakhtar Donetsk
+2008,2008/09,GS,FC Barcelona
+2008,2008/09,GS,Sporting CP Lisbon
+2008,2008/09,GS,FC Basel
+2008,2008/09,GS,FC Barcelona
+2008,2008/09,GS,Sporting CP Lisbon
+2008,2008/09,GS,FC Basel
+2008,2008/09,GS,Shakhtar Donetsk
+2008,2008/09,GS,Panathinaikos
+2008,2008/09,GS,Werder Bremen
+2008,2008/09,GS,Internazionale
+2008,2008/09,GS,Anorthosis Famagusta
+2008,2008/09,GS,Internazionale
+2008,2008/09,GS,Werder Bremen
+2008,2008/09,GS,Anorthosis Famagusta
+2008,2008/09,GS,Panathinaikos
+2008,2008/09,GS,Werder Bremen
+2008,2008/09,GS,Anorthosis Famagusta
+2008,2008/09,GS,Panathinaikos
+2008,2008/09,GS,Internazionale
+2008,2008/09,GS,Chelsea
+2008,2008/09,GS,AS Roma
+2008,2008/09,GS,Girondins Bordeaux
+2008,2008/09,GS,CFR Cluj
+2008,2008/09,GS,Girondins Bordeaux
+2008,2008/09,GS,AS Roma
+2008,2008/09,GS,CFR Cluj
+2008,2008/09,GS,Chelsea
+2008,2008/09,GS,AS Roma
+2008,2008/09,GS,CFR Cluj
+2008,2008/09,GS,Chelsea
+2008,2008/09,GS,Girondins Bordeaux
+2009,2009/10,F,Internazionale
+2009,2009/10,F,Bayern München
+2009,2009/10,SF,Internazionale
+2009,2009/10,SF,FC Barcelona
+2009,2009/10,SF,Bayern München
+2009,2009/10,SF,Olympique Lyon
+2009,2009/10,QF,Internazionale
+2009,2009/10,QF,CSKA Moscow
+2009,2009/10,QF,Arsenal
+2009,2009/10,QF,FC Barcelona
+2009,2009/10,QF,Bayern München
+2009,2009/10,QF,Manchester United
+2009,2009/10,QF,Olympique Lyon
+2009,2009/10,QF,Girondins Bordeaux
+2009,2009/10,R16,AC Milan
+2009,2009/10,R16,Manchester United
+2009,2009/10,R16,FC Porto
+2009,2009/10,R16,Arsenal
+2009,2009/10,R16,Olympique Lyon
+2009,2009/10,R16,Real Madrid
+2009,2009/10,R16,CSKA Moscow
+2009,2009/10,R16,Sevilla
+2009,2009/10,R16,Bayern München
+2009,2009/10,R16,Fiorentina
+2009,2009/10,R16,Internazionale
+2009,2009/10,R16,Chelsea
+2009,2009/10,R16,Olympiakos Piraeus
+2009,2009/10,R16,Girondins Bordeaux
+2009,2009/10,R16,VfB Stuttgart
+2009,2009/10,R16,FC Barcelona
+2009,2009/10,GS,Olympiakos Piraeus
+2009,2009/10,GS,Standard Liège
+2009,2009/10,GS,AZ Alkmaar
+2009,2009/10,GS,Arsenal
+2009,2009/10,GS,AZ Alkmaar
+2009,2009/10,GS,Standard Liège
+2009,2009/10,GS,Arsenal
+2009,2009/10,GS,Olympiakos Piraeus
+2009,2009/10,GS,Standard Liège
+2009,2009/10,GS,Arsenal
+2009,2009/10,GS,Olympiakos Piraeus
+2009,2009/10,GS,AZ Alkmaar
+2009,2009/10,GS,VfB Stuttgart
+2009,2009/10,GS,Sevilla
+2009,2009/10,GS,Glasgow Rangers
+2009,2009/10,GS,Unirea Urziceni
+2009,2009/10,GS,Glasgow Rangers
+2009,2009/10,GS,Sevilla
+2009,2009/10,GS,Unirea Urziceni
+2009,2009/10,GS,VfB Stuttgart
+2009,2009/10,GS,Sevilla
+2009,2009/10,GS,Unirea Urziceni
+2009,2009/10,GS,VfB Stuttgart
+2009,2009/10,GS,Glasgow Rangers
+2009,2009/10,GS,Internazionale
+2009,2009/10,GS,Dinamo Kiev
+2009,2009/10,GS,FC Barcelona
+2009,2009/10,GS,Rubin Kazan
+2009,2009/10,GS,FC Barcelona
+2009,2009/10,GS,Dinamo Kiev
+2009,2009/10,GS,Rubin Kazan
+2009,2009/10,GS,Internazionale
+2009,2009/10,GS,Dinamo Kiev
+2009,2009/10,GS,Rubin Kazan
+2009,2009/10,GS,Internazionale
+2009,2009/10,GS,FC Barcelona
+2009,2009/10,GS,Liverpool
+2009,2009/10,GS,Olympique Lyon
+2009,2009/10,GS,DVSC Debrecen
+2009,2009/10,GS,Fiorentina
+2009,2009/10,GS,DVSC Debrecen
+2009,2009/10,GS,Olympique Lyon
+2009,2009/10,GS,Fiorentina
+2009,2009/10,GS,Liverpool
+2009,2009/10,GS,Olympique Lyon
+2009,2009/10,GS,Fiorentina
+2009,2009/10,GS,Liverpool
+2009,2009/10,GS,DVSC Debrecen
+2009,2009/10,GS,Chelsea
+2009,2009/10,GS,Atlético Madrid
+2009,2009/10,GS,FC Porto
+2009,2009/10,GS,APOEL Nicosia
+2009,2009/10,GS,FC Porto
+2009,2009/10,GS,Atlético Madrid
+2009,2009/10,GS,APOEL Nicosia
+2009,2009/10,GS,Chelsea
+2009,2009/10,GS,Atlético Madrid
+2009,2009/10,GS,APOEL Nicosia
+2009,2009/10,GS,Chelsea
+2009,2009/10,GS,FC Porto
+2009,2009/10,GS,FC Zürich
+2009,2009/10,GS,Olympique Marseille
+2009,2009/10,GS,Real Madrid
+2009,2009/10,GS,AC Milan
+2009,2009/10,GS,Real Madrid
+2009,2009/10,GS,Olympique Marseille
+2009,2009/10,GS,AC Milan
+2009,2009/10,GS,FC Zürich
+2009,2009/10,GS,Olympique Marseille
+2009,2009/10,GS,AC Milan
+2009,2009/10,GS,FC Zürich
+2009,2009/10,GS,Real Madrid
+2009,2009/10,GS,VfL Wolfsburg
+2009,2009/10,GS,Besiktas
+2009,2009/10,GS,CSKA Moscow
+2009,2009/10,GS,Manchester United
+2009,2009/10,GS,CSKA Moscow
+2009,2009/10,GS,Besiktas
+2009,2009/10,GS,Manchester United
+2009,2009/10,GS,VfL Wolfsburg
+2009,2009/10,GS,Besiktas
+2009,2009/10,GS,Manchester United
+2009,2009/10,GS,VfL Wolfsburg
+2009,2009/10,GS,CSKA Moscow
+2009,2009/10,GS,Juventus
+2009,2009/10,GS,Maccabi Haifa
+2009,2009/10,GS,Girondins Bordeaux
+2009,2009/10,GS,Bayern München
+2009,2009/10,GS,Girondins Bordeaux
+2009,2009/10,GS,Maccabi Haifa
+2009,2009/10,GS,Bayern München
+2009,2009/10,GS,Juventus
+2009,2009/10,GS,Maccabi Haifa
+2009,2009/10,GS,Bayern München
+2009,2009/10,GS,Juventus
+2009,2009/10,GS,Girondins Bordeaux
+2010,2010/11,F,FC Barcelona
+2010,2010/11,F,Manchester United
+2010,2010/11,SF,Real Madrid
+2010,2010/11,SF,FC Barcelona
+2010,2010/11,SF,Schalke 04
+2010,2010/11,SF,Manchester United
+2010,2010/11,QF,FC Barcelona
+2010,2010/11,QF,Shakhtar Donetsk
+2010,2010/11,QF,Chelsea
+2010,2010/11,QF,Manchester United
+2010,2010/11,QF,Internazionale
+2010,2010/11,QF,Schalke 04
+2010,2010/11,QF,Real Madrid
+2010,2010/11,QF,Tottenham Hotspur
+2010,2010/11,R16,FC København
+2010,2010/11,R16,Chelsea
+2010,2010/11,R16,Olympique Marseille
+2010,2010/11,R16,Manchester United
+2010,2010/11,R16,Arsenal
+2010,2010/11,R16,FC Barcelona
+2010,2010/11,R16,Olympique Lyon
+2010,2010/11,R16,Real Madrid
+2010,2010/11,R16,Internazionale
+2010,2010/11,R16,Bayern München
+2010,2010/11,R16,Valencia
+2010,2010/11,R16,Schalke 04
+2010,2010/11,R16,AC Milan
+2010,2010/11,R16,Tottenham Hotspur
+2010,2010/11,R16,AS Roma
+2010,2010/11,R16,Shakhtar Donetsk
+2010,2010/11,GS,Arsenal
+2010,2010/11,GS,Shakhtar Donetsk
+2010,2010/11,GS,Sporting Braga
+2010,2010/11,GS,Partizan Belgrade
+2010,2010/11,GS,Sporting Braga
+2010,2010/11,GS,Shakhtar Donetsk
+2010,2010/11,GS,Partizan Belgrade
+2010,2010/11,GS,Arsenal
+2010,2010/11,GS,Shakhtar Donetsk
+2010,2010/11,GS,Partizan Belgrade
+2010,2010/11,GS,Arsenal
+2010,2010/11,GS,Sporting Braga
+2010,2010/11,GS,Real Madrid
+2010,2010/11,GS,AC Milan
+2010,2010/11,GS,Ajax
+2010,2010/11,GS,AJ Auxerre
+2010,2010/11,GS,Ajax
+2010,2010/11,GS,AC Milan
+2010,2010/11,GS,AJ Auxerre
+2010,2010/11,GS,Real Madrid
+2010,2010/11,GS,AC Milan
+2010,2010/11,GS,AJ Auxerre
+2010,2010/11,GS,Real Madrid
+2010,2010/11,GS,Ajax
+2010,2010/11,GS,Olympique Marseille
+2010,2010/11,GS,MSK Zilina
+2010,2010/11,GS,Spartak Moscow
+2010,2010/11,GS,Chelsea
+2010,2010/11,GS,Spartak Moscow
+2010,2010/11,GS,MSK Zilina
+2010,2010/11,GS,Chelsea
+2010,2010/11,GS,Olympique Marseille
+2010,2010/11,GS,MSK Zilina
+2010,2010/11,GS,Chelsea
+2010,2010/11,GS,Olympique Marseille
+2010,2010/11,GS,Spartak Moscow
+2010,2010/11,GS,Bayern München
+2010,2010/11,GS,CFR Cluj
+2010,2010/11,GS,AS Roma
+2010,2010/11,GS,FC Basel
+2010,2010/11,GS,AS Roma
+2010,2010/11,GS,CFR Cluj
+2010,2010/11,GS,FC Basel
+2010,2010/11,GS,Bayern München
+2010,2010/11,GS,CFR Cluj
+2010,2010/11,GS,FC Basel
+2010,2010/11,GS,Bayern München
+2010,2010/11,GS,AS Roma
+2010,2010/11,GS,FC Barcelona
+2010,2010/11,GS,FC København
+2010,2010/11,GS,Panathinaikos
+2010,2010/11,GS,Rubin Kazan
+2010,2010/11,GS,Panathinaikos
+2010,2010/11,GS,FC København
+2010,2010/11,GS,Rubin Kazan
+2010,2010/11,GS,FC Barcelona
+2010,2010/11,GS,FC København
+2010,2010/11,GS,Rubin Kazan
+2010,2010/11,GS,FC Barcelona
+2010,2010/11,GS,Panathinaikos
+2010,2010/11,GS,Manchester United
+2010,2010/11,GS,Bursaspor
+2010,2010/11,GS,Glasgow Rangers
+2010,2010/11,GS,Valencia
+2010,2010/11,GS,Glasgow Rangers
+2010,2010/11,GS,Bursaspor
+2010,2010/11,GS,Valencia
+2010,2010/11,GS,Manchester United
+2010,2010/11,GS,Bursaspor
+2010,2010/11,GS,Valencia
+2010,2010/11,GS,Manchester United
+2010,2010/11,GS,Glasgow Rangers
+2010,2010/11,GS,Olympique Lyon
+2010,2010/11,GS,Benfica
+2010,2010/11,GS,Schalke 04
+2010,2010/11,GS,Hapoel Tel-Aviv
+2010,2010/11,GS,Schalke 04
+2010,2010/11,GS,Benfica
+2010,2010/11,GS,Hapoel Tel-Aviv
+2010,2010/11,GS,Olympique Lyon
+2010,2010/11,GS,Benfica
+2010,2010/11,GS,Hapoel Tel-Aviv
+2010,2010/11,GS,Olympique Lyon
+2010,2010/11,GS,Schalke 04
+2010,2010/11,GS,FC Twente Enschede
+2010,2010/11,GS,Werder Bremen
+2010,2010/11,GS,Internazionale
+2010,2010/11,GS,Tottenham Hotspur
+2010,2010/11,GS,Internazionale
+2010,2010/11,GS,Werder Bremen
+2010,2010/11,GS,Tottenham Hotspur
+2010,2010/11,GS,FC Twente Enschede
+2010,2010/11,GS,Werder Bremen
+2010,2010/11,GS,Tottenham Hotspur
+2010,2010/11,GS,FC Twente Enschede
+2010,2010/11,GS,Internazionale
+2011,2011/12,F,Bayern München
+2011,2011/12,F,Chelsea
+2011,2011/12,SF,Chelsea
+2011,2011/12,SF,FC Barcelona
+2011,2011/12,SF,Bayern München
+2011,2011/12,SF,Real Madrid
+2011,2011/12,QF,AC Milan
+2011,2011/12,QF,FC Barcelona
+2011,2011/12,QF,Benfica
+2011,2011/12,QF,Chelsea
+2011,2011/12,QF,Olympique Marseille
+2011,2011/12,QF,Bayern München
+2011,2011/12,QF,APOEL Nicosia
+2011,2011/12,QF,Real Madrid
+2011,2011/12,R16,Olympique Marseille
+2011,2011/12,R16,Internazionale
+2011,2011/12,R16,Zenit St. Petersburg
+2011,2011/12,R16,Benfica
+2011,2011/12,R16,CSKA Moscow
+2011,2011/12,R16,Real Madrid
+2011,2011/12,R16,Bayer Leverkusen
+2011,2011/12,R16,FC Barcelona
+2011,2011/12,R16,FC Basel
+2011,2011/12,R16,Bayern München
+2011,2011/12,R16,AC Milan
+2011,2011/12,R16,Arsenal
+2011,2011/12,R16,Napoli
+2011,2011/12,R16,Chelsea
+2011,2011/12,R16,Olympique Lyon
+2011,2011/12,R16,APOEL Nicosia
+2011,2011/12,GS,FC Barcelona
+2011,2011/12,GS,Viktoria Plzen
+2011,2011/12,GS,AC Milan
+2011,2011/12,GS,BATE Borisov
+2011,2011/12,GS,AC Milan
+2011,2011/12,GS,Viktoria Plzen
+2011,2011/12,GS,BATE Borisov
+2011,2011/12,GS,FC Barcelona
+2011,2011/12,GS,Viktoria Plzen
+2011,2011/12,GS,BATE Borisov
+2011,2011/12,GS,FC Barcelona
+2011,2011/12,GS,AC Milan
+2011,2011/12,GS,FC Porto
+2011,2011/12,GS,APOEL Nicosia
+2011,2011/12,GS,Shakhtar Donetsk
+2011,2011/12,GS,Zenit St. Petersburg
+2011,2011/12,GS,Shakhtar Donetsk
+2011,2011/12,GS,APOEL Nicosia
+2011,2011/12,GS,Zenit St. Petersburg
+2011,2011/12,GS,FC Porto
+2011,2011/12,GS,APOEL Nicosia
+2011,2011/12,GS,Zenit St. Petersburg
+2011,2011/12,GS,FC Porto
+2011,2011/12,GS,Shakhtar Donetsk
+2011,2011/12,GS,Olympiakos Piraeus
+2011,2011/12,GS,Borussia Dortmund
+2011,2011/12,GS,Olympique Marseille
+2011,2011/12,GS,Arsenal
+2011,2011/12,GS,Olympique Marseille
+2011,2011/12,GS,Borussia Dortmund
+2011,2011/12,GS,Arsenal
+2011,2011/12,GS,Olympiakos Piraeus
+2011,2011/12,GS,Borussia Dortmund
+2011,2011/12,GS,Arsenal
+2011,2011/12,GS,Olympiakos Piraeus
+2011,2011/12,GS,Olympique Marseille
+2011,2011/12,GS,Chelsea
+2011,2011/12,GS,Racing Genk
+2011,2011/12,GS,Bayer Leverkusen
+2011,2011/12,GS,Valencia
+2011,2011/12,GS,Bayer Leverkusen
+2011,2011/12,GS,Racing Genk
+2011,2011/12,GS,Valencia
+2011,2011/12,GS,Chelsea
+2011,2011/12,GS,Racing Genk
+2011,2011/12,GS,Valencia
+2011,2011/12,GS,Chelsea
+2011,2011/12,GS,Bayer Leverkusen
+2011,2011/12,GS,Dinamo Zagreb
+2011,2011/12,GS,Ajax
+2011,2011/12,GS,Real Madrid
+2011,2011/12,GS,Olympique Lyon
+2011,2011/12,GS,Real Madrid
+2011,2011/12,GS,Ajax
+2011,2011/12,GS,Olympique Lyon
+2011,2011/12,GS,Dinamo Zagreb
+2011,2011/12,GS,Ajax
+2011,2011/12,GS,Olympique Lyon
+2011,2011/12,GS,Dinamo Zagreb
+2011,2011/12,GS,Real Madrid
+2011,2011/12,GS,FC Basel
+2011,2011/12,GS,Benfica
+2011,2011/12,GS,Otelul Galati
+2011,2011/12,GS,Manchester United
+2011,2011/12,GS,Otelul Galati
+2011,2011/12,GS,Benfica
+2011,2011/12,GS,Manchester United
+2011,2011/12,GS,FC Basel
+2011,2011/12,GS,Benfica
+2011,2011/12,GS,Manchester United
+2011,2011/12,GS,FC Basel
+2011,2011/12,GS,Otelul Galati
+2011,2011/12,GS,Lille OSC
+2011,2011/12,GS,Internazionale
+2011,2011/12,GS,CSKA Moscow
+2011,2011/12,GS,Trabzonspor
+2011,2011/12,GS,CSKA Moscow
+2011,2011/12,GS,Internazionale
+2011,2011/12,GS,Trabzonspor
+2011,2011/12,GS,Lille OSC
+2011,2011/12,GS,Internazionale
+2011,2011/12,GS,Trabzonspor
+2011,2011/12,GS,Lille OSC
+2011,2011/12,GS,CSKA Moscow
+2011,2011/12,GS,Manchester City
+2011,2011/12,GS,Villarreal
+2011,2011/12,GS,Napoli
+2011,2011/12,GS,Bayern München
+2011,2011/12,GS,Napoli
+2011,2011/12,GS,Villarreal
+2011,2011/12,GS,Bayern München
+2011,2011/12,GS,Manchester City
+2011,2011/12,GS,Villarreal
+2011,2011/12,GS,Bayern München
+2011,2011/12,GS,Manchester City
+2011,2011/12,GS,Napoli
+2012,2012/13,F,Borussia Dortmund
+2012,2012/13,F,Bayern München
+2012,2012/13,SF,Borussia Dortmund
+2012,2012/13,SF,Real Madrid
+2012,2012/13,SF,Bayern München
+2012,2012/13,SF,FC Barcelona
+2012,2012/13,QF,Bayern München
+2012,2012/13,QF,Juventus
+2012,2012/13,QF,Paris Saint-Germain
+2012,2012/13,QF,FC Barcelona
+2012,2012/13,QF,Real Madrid
+2012,2012/13,QF,Galatasaray
+2012,2012/13,QF,Málaga CF
+2012,2012/13,QF,Borussia Dortmund
+2012,2012/13,R16,FC Porto
+2012,2012/13,R16,Málaga CF
+2012,2012/13,R16,Valencia
+2012,2012/13,R16,Paris Saint-Germain
+2012,2012/13,R16,Real Madrid
+2012,2012/13,R16,Manchester United
+2012,2012/13,R16,AC Milan
+2012,2012/13,R16,FC Barcelona
+2012,2012/13,R16,Shakhtar Donetsk
+2012,2012/13,R16,Borussia Dortmund
+2012,2012/13,R16,Arsenal
+2012,2012/13,R16,Bayern München
+2012,2012/13,R16,Celtic
+2012,2012/13,R16,Juventus
+2012,2012/13,R16,Galatasaray
+2012,2012/13,R16,Schalke 04
+2012,2012/13,GS,Manchester United
+2012,2012/13,GS,Sporting Braga
+2012,2012/13,GS,Galatasaray
+2012,2012/13,GS,CFR Cluj
+2012,2012/13,GS,Galatasaray
+2012,2012/13,GS,Sporting Braga
+2012,2012/13,GS,CFR Cluj
+2012,2012/13,GS,Manchester United
+2012,2012/13,GS,Sporting Braga
+2012,2012/13,GS,CFR Cluj
+2012,2012/13,GS,Manchester United
+2012,2012/13,GS,Galatasaray
+2012,2012/13,GS,FC Barcelona
+2012,2012/13,GS,Celtic
+2012,2012/13,GS,Spartak Moscow
+2012,2012/13,GS,Benfica
+2012,2012/13,GS,Spartak Moscow
+2012,2012/13,GS,Celtic
+2012,2012/13,GS,Benfica
+2012,2012/13,GS,FC Barcelona
+2012,2012/13,GS,Celtic
+2012,2012/13,GS,Benfica
+2012,2012/13,GS,FC Barcelona
+2012,2012/13,GS,Spartak Moscow
+2012,2012/13,GS,Lille OSC
+2012,2012/13,GS,Bayern München
+2012,2012/13,GS,BATE Borisov
+2012,2012/13,GS,Valencia
+2012,2012/13,GS,BATE Borisov
+2012,2012/13,GS,Bayern München
+2012,2012/13,GS,Valencia
+2012,2012/13,GS,Lille OSC
+2012,2012/13,GS,Bayern München
+2012,2012/13,GS,Valencia
+2012,2012/13,GS,Lille OSC
+2012,2012/13,GS,BATE Borisov
+2012,2012/13,GS,Shakhtar Donetsk
+2012,2012/13,GS,Chelsea
+2012,2012/13,GS,FC Nordsjælland
+2012,2012/13,GS,Juventus
+2012,2012/13,GS,FC Nordsjælland
+2012,2012/13,GS,Chelsea
+2012,2012/13,GS,Juventus
+2012,2012/13,GS,Shakhtar Donetsk
+2012,2012/13,GS,Chelsea
+2012,2012/13,GS,Juventus
+2012,2012/13,GS,Shakhtar Donetsk
+2012,2012/13,GS,FC Nordsjælland
+2012,2012/13,GS,Borussia Dortmund
+2012,2012/13,GS,Real Madrid
+2012,2012/13,GS,Ajax
+2012,2012/13,GS,Manchester City
+2012,2012/13,GS,Ajax
+2012,2012/13,GS,Real Madrid
+2012,2012/13,GS,Manchester City
+2012,2012/13,GS,Borussia Dortmund
+2012,2012/13,GS,Real Madrid
+2012,2012/13,GS,Manchester City
+2012,2012/13,GS,Borussia Dortmund
+2012,2012/13,GS,Ajax
+2012,2012/13,GS,Málaga CF
+2012,2012/13,GS,AC Milan
+2012,2012/13,GS,Zenit St. Petersburg
+2012,2012/13,GS,Anderlecht
+2012,2012/13,GS,Zenit St. Petersburg
+2012,2012/13,GS,AC Milan
+2012,2012/13,GS,Anderlecht
+2012,2012/13,GS,Málaga CF
+2012,2012/13,GS,AC Milan
+2012,2012/13,GS,Anderlecht
+2012,2012/13,GS,Málaga CF
+2012,2012/13,GS,Zenit St. Petersburg
+2012,2012/13,GS,Montpellier
+2012,2012/13,GS,Olympiakos Piraeus
+2012,2012/13,GS,Arsenal
+2012,2012/13,GS,Schalke 04
+2012,2012/13,GS,Arsenal
+2012,2012/13,GS,Olympiakos Piraeus
+2012,2012/13,GS,Schalke 04
+2012,2012/13,GS,Montpellier
+2012,2012/13,GS,Olympiakos Piraeus
+2012,2012/13,GS,Schalke 04
+2012,2012/13,GS,Montpellier
+2012,2012/13,GS,Arsenal
+2012,2012/13,GS,Dinamo Zagreb
+2012,2012/13,GS,Paris Saint-Germain
+2012,2012/13,GS,FC Porto
+2012,2012/13,GS,Dinamo Kiev
+2012,2012/13,GS,FC Porto
+2012,2012/13,GS,Paris Saint-Germain
+2012,2012/13,GS,Dinamo Kiev
+2012,2012/13,GS,Dinamo Zagreb
+2012,2012/13,GS,Paris Saint-Germain
+2012,2012/13,GS,Dinamo Kiev
+2012,2012/13,GS,Dinamo Zagreb
+2012,2012/13,GS,FC Porto
+2013,2013/14,F,Real Madrid
+2013,2013/14,F,Atlético Madrid
+2013,2013/14,SF,Atlético Madrid
+2013,2013/14,SF,Chelsea
+2013,2013/14,SF,Real Madrid
+2013,2013/14,SF,Bayern München
+2013,2013/14,QF,Paris Saint-Germain
+2013,2013/14,QF,Chelsea
+2013,2013/14,QF,Real Madrid
+2013,2013/14,QF,Borussia Dortmund
+2013,2013/14,QF,Manchester United
+2013,2013/14,QF,Bayern München
+2013,2013/14,QF,FC Barcelona
+2013,2013/14,QF,Atlético Madrid
+2013,2013/14,R16,Schalke 04
+2013,2013/14,R16,Real Madrid
+2013,2013/14,R16,Galatasaray
+2013,2013/14,R16,Chelsea
+2013,2013/14,R16,Zenit St. Petersburg
+2013,2013/14,R16,Borussia Dortmund
+2013,2013/14,R16,Olympiakos Piraeus
+2013,2013/14,R16,Manchester United
+2013,2013/14,R16,Arsenal
+2013,2013/14,R16,Bayern München
+2013,2013/14,R16,AC Milan
+2013,2013/14,R16,Atlético Madrid
+2013,2013/14,R16,Bayer Leverkusen
+2013,2013/14,R16,Paris Saint-Germain
+2013,2013/14,R16,Manchester City
+2013,2013/14,R16,FC Barcelona
+2013,2013/14,GS,AC Milan
+2013,2013/14,GS,FC Barcelona
+2013,2013/14,GS,Celtic
+2013,2013/14,GS,Ajax
+2013,2013/14,GS,Celtic
+2013,2013/14,GS,FC Barcelona
+2013,2013/14,GS,Ajax
+2013,2013/14,GS,AC Milan
+2013,2013/14,GS,FC Barcelona
+2013,2013/14,GS,Ajax
+2013,2013/14,GS,AC Milan
+2013,2013/14,GS,Celtic
+2013,2013/14,GS,Austria Wien
+2013,2013/14,GS,Atlético Madrid
+2013,2013/14,GS,FC Porto
+2013,2013/14,GS,Zenit St. Petersburg
+2013,2013/14,GS,FC Porto
+2013,2013/14,GS,Atlético Madrid
+2013,2013/14,GS,Zenit St. Petersburg
+2013,2013/14,GS,Austria Wien
+2013,2013/14,GS,Atlético Madrid
+2013,2013/14,GS,Zenit St. Petersburg
+2013,2013/14,GS,Austria Wien
+2013,2013/14,GS,FC Porto
+2013,2013/14,GS,Olympique Marseille
+2013,2013/14,GS,Napoli
+2013,2013/14,GS,Arsenal
+2013,2013/14,GS,Borussia Dortmund
+2013,2013/14,GS,Arsenal
+2013,2013/14,GS,Napoli
+2013,2013/14,GS,Borussia Dortmund
+2013,2013/14,GS,Olympique Marseille
+2013,2013/14,GS,Napoli
+2013,2013/14,GS,Borussia Dortmund
+2013,2013/14,GS,Olympique Marseille
+2013,2013/14,GS,Arsenal
+2013,2013/14,GS,Schalke 04
+2013,2013/14,GS,Chelsea
+2013,2013/14,GS,Steaua Bucuresti
+2013,2013/14,GS,FC Basel
+2013,2013/14,GS,Steaua Bucuresti
+2013,2013/14,GS,Chelsea
+2013,2013/14,GS,FC Basel
+2013,2013/14,GS,Schalke 04
+2013,2013/14,GS,Chelsea
+2013,2013/14,GS,FC Basel
+2013,2013/14,GS,Schalke 04
+2013,2013/14,GS,Steaua Bucuresti
+2013,2013/14,GS,Bayern München
+2013,2013/14,GS,Viktoria Plzen
+2013,2013/14,GS,CSKA Moscow
+2013,2013/14,GS,Manchester City
+2013,2013/14,GS,CSKA Moscow
+2013,2013/14,GS,Viktoria Plzen
+2013,2013/14,GS,Manchester City
+2013,2013/14,GS,Bayern München
+2013,2013/14,GS,Viktoria Plzen
+2013,2013/14,GS,Manchester City
+2013,2013/14,GS,Bayern München
+2013,2013/14,GS,CSKA Moscow
+2013,2013/14,GS,Benfica
+2013,2013/14,GS,Olympiakos Piraeus
+2013,2013/14,GS,Anderlecht
+2013,2013/14,GS,Paris Saint-Germain
+2013,2013/14,GS,Anderlecht
+2013,2013/14,GS,Olympiakos Piraeus
+2013,2013/14,GS,Paris Saint-Germain
+2013,2013/14,GS,Benfica
+2013,2013/14,GS,Olympiakos Piraeus
+2013,2013/14,GS,Paris Saint-Germain
+2013,2013/14,GS,Benfica
+2013,2013/14,GS,Anderlecht
+2013,2013/14,GS,Galatasaray
+2013,2013/14,GS,FC København
+2013,2013/14,GS,Real Madrid
+2013,2013/14,GS,Juventus
+2013,2013/14,GS,Real Madrid
+2013,2013/14,GS,FC København
+2013,2013/14,GS,Juventus
+2013,2013/14,GS,Galatasaray
+2013,2013/14,GS,FC København
+2013,2013/14,GS,Juventus
+2013,2013/14,GS,Galatasaray
+2013,2013/14,GS,Real Madrid
+2013,2013/14,GS,Manchester United
+2013,2013/14,GS,Real Sociedad
+2013,2013/14,GS,Bayer Leverkusen
+2013,2013/14,GS,Shakhtar Donetsk
+2013,2013/14,GS,Bayer Leverkusen
+2013,2013/14,GS,Real Sociedad
+2013,2013/14,GS,Shakhtar Donetsk
+2013,2013/14,GS,Manchester United
+2013,2013/14,GS,Real Sociedad
+2013,2013/14,GS,Shakhtar Donetsk
+2013,2013/14,GS,Manchester United
+2013,2013/14,GS,Bayer Leverkusen
+2014,2014/15,F,Juventus
+2014,2014/15,F,FC Barcelona
+2014,2014/15,SF,FC Barcelona
+2014,2014/15,SF,Bayern München
+2014,2014/15,SF,Juventus
+2014,2014/15,SF,Real Madrid
+2014,2014/15,QF,Juventus
+2014,2014/15,QF,AS Monaco
+2014,2014/15,QF,FC Porto
+2014,2014/15,QF,Bayern München
+2014,2014/15,QF,Atlético Madrid
+2014,2014/15,QF,Real Madrid
+2014,2014/15,QF,Paris Saint-Germain
+2014,2014/15,QF,FC Barcelona
+2014,2014/15,R16,Arsenal
+2014,2014/15,R16,AS Monaco
+2014,2014/15,R16,Bayer Leverkusen
+2014,2014/15,R16,Atlético Madrid
+2014,2014/15,R16,Juventus
+2014,2014/15,R16,Borussia Dortmund
+2014,2014/15,R16,Manchester City
+2014,2014/15,R16,FC Barcelona
+2014,2014/15,R16,FC Basel
+2014,2014/15,R16,FC Porto
+2014,2014/15,R16,Schalke 04
+2014,2014/15,R16,Real Madrid
+2014,2014/15,R16,Shakhtar Donetsk
+2014,2014/15,R16,Bayern München
+2014,2014/15,R16,Paris Saint-Germain
+2014,2014/15,R16,Chelsea
+2014,2014/15,GS,FC Porto
+2014,2014/15,GS,Athletic Bilbao
+2014,2014/15,GS,BATE Borisov
+2014,2014/15,GS,Shakhtar Donetsk
+2014,2014/15,GS,BATE Borisov
+2014,2014/15,GS,Athletic Bilbao
+2014,2014/15,GS,Shakhtar Donetsk
+2014,2014/15,GS,FC Porto
+2014,2014/15,GS,Athletic Bilbao
+2014,2014/15,GS,Shakhtar Donetsk
+2014,2014/15,GS,FC Porto
+2014,2014/15,GS,BATE Borisov
+2014,2014/15,GS,Chelsea
+2014,2014/15,GS,NK Maribor
+2014,2014/15,GS,Schalke 04
+2014,2014/15,GS,Sporting CP Lisbon
+2014,2014/15,GS,Schalke 04
+2014,2014/15,GS,NK Maribor
+2014,2014/15,GS,Sporting CP Lisbon
+2014,2014/15,GS,Chelsea
+2014,2014/15,GS,NK Maribor
+2014,2014/15,GS,Sporting CP Lisbon
+2014,2014/15,GS,Chelsea
+2014,2014/15,GS,Schalke 04
+2014,2014/15,GS,FC Barcelona
+2014,2014/15,GS,Ajax
+2014,2014/15,GS,APOEL Nicosia
+2014,2014/15,GS,Paris Saint-Germain
+2014,2014/15,GS,APOEL Nicosia
+2014,2014/15,GS,Ajax
+2014,2014/15,GS,Paris Saint-Germain
+2014,2014/15,GS,FC Barcelona
+2014,2014/15,GS,Ajax
+2014,2014/15,GS,Paris Saint-Germain
+2014,2014/15,GS,FC Barcelona
+2014,2014/15,GS,APOEL Nicosia
+2014,2014/15,GS,AS Roma
+2014,2014/15,GS,Bayern München
+2014,2014/15,GS,CSKA Moscow
+2014,2014/15,GS,Manchester City
+2014,2014/15,GS,CSKA Moscow
+2014,2014/15,GS,Bayern München
+2014,2014/15,GS,Manchester City
+2014,2014/15,GS,AS Roma
+2014,2014/15,GS,Bayern München
+2014,2014/15,GS,Manchester City
+2014,2014/15,GS,AS Roma
+2014,2014/15,GS,CSKA Moscow
+2014,2014/15,GS,Galatasaray
+2014,2014/15,GS,Borussia Dortmund
+2014,2014/15,GS,Anderlecht
+2014,2014/15,GS,Arsenal
+2014,2014/15,GS,Anderlecht
+2014,2014/15,GS,Borussia Dortmund
+2014,2014/15,GS,Arsenal
+2014,2014/15,GS,Galatasaray
+2014,2014/15,GS,Borussia Dortmund
+2014,2014/15,GS,Arsenal
+2014,2014/15,GS,Galatasaray
+2014,2014/15,GS,Anderlecht
+2014,2014/15,GS,AS Monaco
+2014,2014/15,GS,Benfica
+2014,2014/15,GS,Bayer Leverkusen
+2014,2014/15,GS,Zenit St. Petersburg
+2014,2014/15,GS,Bayer Leverkusen
+2014,2014/15,GS,Benfica
+2014,2014/15,GS,Zenit St. Petersburg
+2014,2014/15,GS,AS Monaco
+2014,2014/15,GS,Benfica
+2014,2014/15,GS,Zenit St. Petersburg
+2014,2014/15,GS,AS Monaco
+2014,2014/15,GS,Bayer Leverkusen
+2014,2014/15,GS,Liverpool
+2014,2014/15,GS,Real Madrid
+2014,2014/15,GS,Ludogorets Razgrad
+2014,2014/15,GS,FC Basel
+2014,2014/15,GS,Ludogorets Razgrad
+2014,2014/15,GS,Real Madrid
+2014,2014/15,GS,FC Basel
+2014,2014/15,GS,Liverpool
+2014,2014/15,GS,Real Madrid
+2014,2014/15,GS,FC Basel
+2014,2014/15,GS,Liverpool
+2014,2014/15,GS,Ludogorets Razgrad
+2014,2014/15,GS,Olympiakos Piraeus
+2014,2014/15,GS,Juventus
+2014,2014/15,GS,Atlético Madrid
+2014,2014/15,GS,Malmö FF
+2014,2014/15,GS,Atlético Madrid
+2014,2014/15,GS,Juventus
+2014,2014/15,GS,Malmö FF
+2014,2014/15,GS,Olympiakos Piraeus
+2014,2014/15,GS,Juventus
+2014,2014/15,GS,Malmö FF
+2014,2014/15,GS,Olympiakos Piraeus
+2014,2014/15,GS,Atlético Madrid
+2015,2015/16,F,Real Madrid
+2015,2015/16,F,Atlético Madrid
+2015,2015/16,SF,Atlético Madrid
+2015,2015/16,SF,Bayern München
+2015,2015/16,SF,Manchester City
+2015,2015/16,SF,Real Madrid
+2015,2015/16,QF,Paris Saint-Germain
+2015,2015/16,QF,Manchester City
+2015,2015/16,QF,FC Barcelona
+2015,2015/16,QF,Atlético Madrid
+2015,2015/16,QF,Bayern München
+2015,2015/16,QF,Benfica
+2015,2015/16,QF,VfL Wolfsburg
+2015,2015/16,QF,Real Madrid
+2015,2015/16,R16,Dinamo Kiev
+2015,2015/16,R16,Manchester City
+2015,2015/16,R16,Benfica
+2015,2015/16,R16,Zenit St. Petersburg
+2015,2015/16,R16,PSV Eindhoven
+2015,2015/16,R16,Atlético Madrid
+2015,2015/16,R16,Juventus
+2015,2015/16,R16,Bayern München
+2015,2015/16,R16,Arsenal
+2015,2015/16,R16,FC Barcelona
+2015,2015/16,R16,Paris Saint-Germain
+2015,2015/16,R16,Chelsea
+2015,2015/16,R16,AS Roma
+2015,2015/16,R16,Real Madrid
+2015,2015/16,R16,AA Gent
+2015,2015/16,R16,VfL Wolfsburg
+2015,2015/16,GS,Valencia
+2015,2015/16,GS,AA Gent
+2015,2015/16,GS,Zenit St. Petersburg
+2015,2015/16,GS,Olympique Lyon
+2015,2015/16,GS,Zenit St. Petersburg
+2015,2015/16,GS,AA Gent
+2015,2015/16,GS,Olympique Lyon
+2015,2015/16,GS,Valencia
+2015,2015/16,GS,AA Gent
+2015,2015/16,GS,Olympique Lyon
+2015,2015/16,GS,Valencia
+2015,2015/16,GS,Zenit St. Petersburg
+2015,2015/16,GS,Dinamo Kiev
+2015,2015/16,GS,Chelsea
+2015,2015/16,GS,FC Porto
+2015,2015/16,GS,Maccabi Tel-Aviv
+2015,2015/16,GS,FC Porto
+2015,2015/16,GS,Chelsea
+2015,2015/16,GS,Maccabi Tel-Aviv
+2015,2015/16,GS,Dinamo Kiev
+2015,2015/16,GS,Chelsea
+2015,2015/16,GS,Maccabi Tel-Aviv
+2015,2015/16,GS,Dinamo Kiev
+2015,2015/16,GS,FC Porto
+2015,2015/16,GS,Dinamo Zagreb
+2015,2015/16,GS,Olympiakos Piraeus
+2015,2015/16,GS,Arsenal
+2015,2015/16,GS,Bayern München
+2015,2015/16,GS,Arsenal
+2015,2015/16,GS,Olympiakos Piraeus
+2015,2015/16,GS,Bayern München
+2015,2015/16,GS,Dinamo Zagreb
+2015,2015/16,GS,Olympiakos Piraeus
+2015,2015/16,GS,Bayern München
+2015,2015/16,GS,Dinamo Zagreb
+2015,2015/16,GS,Arsenal
+2015,2015/16,GS,Bayer Leverkusen
+2015,2015/16,GS,AS Roma
+2015,2015/16,GS,BATE Borisov
+2015,2015/16,GS,FC Barcelona
+2015,2015/16,GS,BATE Borisov
+2015,2015/16,GS,AS Roma
+2015,2015/16,GS,FC Barcelona
+2015,2015/16,GS,Bayer Leverkusen
+2015,2015/16,GS,AS Roma
+2015,2015/16,GS,FC Barcelona
+2015,2015/16,GS,Bayer Leverkusen
+2015,2015/16,GS,BATE Borisov
+2015,2015/16,GS,Manchester City
+2015,2015/16,GS,Sevilla
+2015,2015/16,GS,Juventus
+2015,2015/16,GS,Borussia Mönchengladbach
+2015,2015/16,GS,Juventus
+2015,2015/16,GS,Sevilla
+2015,2015/16,GS,Borussia Mönchengladbach
+2015,2015/16,GS,Manchester City
+2015,2015/16,GS,Sevilla
+2015,2015/16,GS,Borussia Mönchengladbach
+2015,2015/16,GS,Manchester City
+2015,2015/16,GS,Juventus
+2015,2015/16,GS,Galatasaray
+2015,2015/16,GS,Benfica
+2015,2015/16,GS,Atlético Madrid
+2015,2015/16,GS,FK Astana
+2015,2015/16,GS,Atlético Madrid
+2015,2015/16,GS,Benfica
+2015,2015/16,GS,FK Astana
+2015,2015/16,GS,Galatasaray
+2015,2015/16,GS,Benfica
+2015,2015/16,GS,FK Astana
+2015,2015/16,GS,Galatasaray
+2015,2015/16,GS,Atlético Madrid
+2015,2015/16,GS,VfL Wolfsburg
+2015,2015/16,GS,PSV Eindhoven
+2015,2015/16,GS,CSKA Moscow
+2015,2015/16,GS,Manchester United
+2015,2015/16,GS,CSKA Moscow
+2015,2015/16,GS,PSV Eindhoven
+2015,2015/16,GS,Manchester United
+2015,2015/16,GS,VfL Wolfsburg
+2015,2015/16,GS,PSV Eindhoven
+2015,2015/16,GS,Manchester United
+2015,2015/16,GS,VfL Wolfsburg
+2015,2015/16,GS,CSKA Moscow
+2015,2015/16,GS,Paris Saint-Germain
+2015,2015/16,GS,Real Madrid
+2015,2015/16,GS,Malmö FF
+2015,2015/16,GS,Shakhtar Donetsk
+2015,2015/16,GS,Malmö FF
+2015,2015/16,GS,Real Madrid
+2015,2015/16,GS,Shakhtar Donetsk
+2015,2015/16,GS,Paris Saint-Germain
+2015,2015/16,GS,Real Madrid
+2015,2015/16,GS,Shakhtar Donetsk
+2015,2015/16,GS,Paris Saint-Germain
+2015,2015/16,GS,Malmö FF
+2016,2016/17,F,Juventus
+2016,2016/17,F,Real Madrid
+2016,2016/17,SF,AS Monaco
+2016,2016/17,SF,Juventus
+2016,2016/17,SF,Real Madrid
+2016,2016/17,SF,Atlético Madrid
+2016,2016/17,QF,Juventus
+2016,2016/17,QF,FC Barcelona
+2016,2016/17,QF,Bayern München
+2016,2016/17,QF,Real Madrid
+2016,2016/17,QF,Borussia Dortmund
+2016,2016/17,QF,AS Monaco
+2016,2016/17,QF,Atlético Madrid
+2016,2016/17,QF,Leicester City
+2016,2016/17,R16,Sevilla
+2016,2016/17,R16,Leicester City
+2016,2016/17,R16,Paris Saint-Germain
+2016,2016/17,R16,FC Barcelona
+2016,2016/17,R16,Bayer Leverkusen
+2016,2016/17,R16,Atlético Madrid
+2016,2016/17,R16,FC Porto
+2016,2016/17,R16,Juventus
+2016,2016/17,R16,Bayern München
+2016,2016/17,R16,Arsenal
+2016,2016/17,R16,Benfica
+2016,2016/17,R16,Borussia Dortmund
+2016,2016/17,R16,Real Madrid
+2016,2016/17,R16,Napoli
+2016,2016/17,R16,Manchester City
+2016,2016/17,R16,AS Monaco
+2016,2016/17,GS,Olympique Lyon
+2016,2016/17,GS,Juventus
+2016,2016/17,GS,Dinamo Zagreb
+2016,2016/17,GS,Sevilla
+2016,2016/17,GS,Dinamo Zagreb
+2016,2016/17,GS,Juventus
+2016,2016/17,GS,Sevilla
+2016,2016/17,GS,Olympique Lyon
+2016,2016/17,GS,Juventus
+2016,2016/17,GS,Sevilla
+2016,2016/17,GS,Olympique Lyon
+2016,2016/17,GS,Dinamo Zagreb
+2016,2016/17,GS,Club Brugge
+2016,2016/17,GS,FC Porto
+2016,2016/17,GS,Leicester City
+2016,2016/17,GS,FC København
+2016,2016/17,GS,Leicester City
+2016,2016/17,GS,FC Porto
+2016,2016/17,GS,FC København
+2016,2016/17,GS,Club Brugge
+2016,2016/17,GS,FC Porto
+2016,2016/17,GS,FC København
+2016,2016/17,GS,Club Brugge
+2016,2016/17,GS,Leicester City
+2016,2016/17,GS,Real Madrid
+2016,2016/17,GS,Legia Warsaw
+2016,2016/17,GS,Sporting CP Lisbon
+2016,2016/17,GS,Borussia Dortmund
+2016,2016/17,GS,Sporting CP Lisbon
+2016,2016/17,GS,Legia Warsaw
+2016,2016/17,GS,Borussia Dortmund
+2016,2016/17,GS,Real Madrid
+2016,2016/17,GS,Legia Warsaw
+2016,2016/17,GS,Borussia Dortmund
+2016,2016/17,GS,Real Madrid
+2016,2016/17,GS,Sporting CP Lisbon
+2016,2016/17,GS,Bayer Leverkusen
+2016,2016/17,GS,Tottenham Hotspur
+2016,2016/17,GS,CSKA Moscow
+2016,2016/17,GS,AS Monaco
+2016,2016/17,GS,CSKA Moscow
+2016,2016/17,GS,Tottenham Hotspur
+2016,2016/17,GS,AS Monaco
+2016,2016/17,GS,Bayer Leverkusen
+2016,2016/17,GS,Tottenham Hotspur
+2016,2016/17,GS,AS Monaco
+2016,2016/17,GS,Bayer Leverkusen
+2016,2016/17,GS,CSKA Moscow
+2016,2016/17,GS,Bayern München
+2016,2016/17,GS,PSV Eindhoven
+2016,2016/17,GS,FK Rostov
+2016,2016/17,GS,Atlético Madrid
+2016,2016/17,GS,FK Rostov
+2016,2016/17,GS,PSV Eindhoven
+2016,2016/17,GS,Atlético Madrid
+2016,2016/17,GS,Bayern München
+2016,2016/17,GS,PSV Eindhoven
+2016,2016/17,GS,Atlético Madrid
+2016,2016/17,GS,Bayern München
+2016,2016/17,GS,FK Rostov
+2016,2016/17,GS,FC Barcelona
+2016,2016/17,GS,Manchester City
+2016,2016/17,GS,Celtic
+2016,2016/17,GS,Borussia Mönchengladbach
+2016,2016/17,GS,Celtic
+2016,2016/17,GS,Manchester City
+2016,2016/17,GS,Borussia Mönchengladbach
+2016,2016/17,GS,FC Barcelona
+2016,2016/17,GS,Manchester City
+2016,2016/17,GS,Borussia Mönchengladbach
+2016,2016/17,GS,FC Barcelona
+2016,2016/17,GS,Celtic
+2016,2016/17,GS,Dinamo Kiev
+2016,2016/17,GS,Benfica
+2016,2016/17,GS,Napoli
+2016,2016/17,GS,Besiktas
+2016,2016/17,GS,Napoli
+2016,2016/17,GS,Benfica
+2016,2016/17,GS,Besiktas
+2016,2016/17,GS,Dinamo Kiev
+2016,2016/17,GS,Benfica
+2016,2016/17,GS,Besiktas
+2016,2016/17,GS,Dinamo Kiev
+2016,2016/17,GS,Napoli
+2016,2016/17,GS,Paris Saint-Germain
+2016,2016/17,GS,FC Basel
+2016,2016/17,GS,Arsenal
+2016,2016/17,GS,Ludogorets Razgrad
+2016,2016/17,GS,Arsenal
+2016,2016/17,GS,FC Basel
+2016,2016/17,GS,Ludogorets Razgrad
+2016,2016/17,GS,Paris Saint-Germain
+2016,2016/17,GS,FC Basel
+2016,2016/17,GS,Ludogorets Razgrad
+2016,2016/17,GS,Paris Saint-Germain
+2016,2016/17,GS,Arsenal
+2017,2017/18,F,Real Madrid
+2017,2017/18,F,Liverpool
+2017,2017/18,SF,Liverpool
+2017,2017/18,SF,AS Roma
+2017,2017/18,SF,Bayern München
+2017,2017/18,SF,Real Madrid
+2017,2017/18,QF,Liverpool
+2017,2017/18,QF,Manchester City
+2017,2017/18,QF,Juventus
+2017,2017/18,QF,Real Madrid
+2017,2017/18,QF,Sevilla
+2017,2017/18,QF,Bayern München
+2017,2017/18,QF,FC Barcelona
+2017,2017/18,QF,AS Roma
+2017,2017/18,R16,Bayern München
+2017,2017/18,R16,Besiktas
+2017,2017/18,R16,Chelsea
+2017,2017/18,R16,FC Barcelona
+2017,2017/18,R16,Shakhtar Donetsk
+2017,2017/18,R16,AS Roma
+2017,2017/18,R16,Real Madrid
+2017,2017/18,R16,Paris Saint-Germain
+2017,2017/18,R16,Sevilla
+2017,2017/18,R16,Manchester United
+2017,2017/18,R16,FC Porto
+2017,2017/18,R16,Liverpool
+2017,2017/18,R16,FC Basel
+2017,2017/18,R16,Manchester City
+2017,2017/18,R16,Juventus
+2017,2017/18,R16,Tottenham Hotspur
+2017,2017/18,GS,Real Madrid
+2017,2017/18,GS,Tottenham Hotspur
+2017,2017/18,GS,APOEL Nicosia
+2017,2017/18,GS,Borussia Dortmund
+2017,2017/18,GS,APOEL Nicosia
+2017,2017/18,GS,Tottenham Hotspur
+2017,2017/18,GS,Borussia Dortmund
+2017,2017/18,GS,Real Madrid
+2017,2017/18,GS,Tottenham Hotspur
+2017,2017/18,GS,Borussia Dortmund
+2017,2017/18,GS,Real Madrid
+2017,2017/18,GS,APOEL Nicosia
+2017,2017/18,GS,RB Leipzig
+2017,2017/18,GS,FC Porto
+2017,2017/18,GS,AS Monaco
+2017,2017/18,GS,Besiktas
+2017,2017/18,GS,AS Monaco
+2017,2017/18,GS,FC Porto
+2017,2017/18,GS,Besiktas
+2017,2017/18,GS,RB Leipzig
+2017,2017/18,GS,FC Porto
+2017,2017/18,GS,Besiktas
+2017,2017/18,GS,RB Leipzig
+2017,2017/18,GS,AS Monaco
+2017,2017/18,GS,Feyenoord
+2017,2017/18,GS,Shakhtar Donetsk
+2017,2017/18,GS,Manchester City
+2017,2017/18,GS,Napoli
+2017,2017/18,GS,Manchester City
+2017,2017/18,GS,Shakhtar Donetsk
+2017,2017/18,GS,Napoli
+2017,2017/18,GS,Feyenoord
+2017,2017/18,GS,Shakhtar Donetsk
+2017,2017/18,GS,Napoli
+2017,2017/18,GS,Feyenoord
+2017,2017/18,GS,Manchester City
+2017,2017/18,GS,NK Maribor
+2017,2017/18,GS,Liverpool
+2017,2017/18,GS,Spartak Moscow
+2017,2017/18,GS,Sevilla
+2017,2017/18,GS,Spartak Moscow
+2017,2017/18,GS,Liverpool
+2017,2017/18,GS,Sevilla
+2017,2017/18,GS,NK Maribor
+2017,2017/18,GS,Liverpool
+2017,2017/18,GS,Sevilla
+2017,2017/18,GS,NK Maribor
+2017,2017/18,GS,Spartak Moscow
+2017,2017/18,GS,FC Barcelona
+2017,2017/18,GS,Olympiakos Piraeus
+2017,2017/18,GS,Juventus
+2017,2017/18,GS,Sporting CP Lisbon
+2017,2017/18,GS,Juventus
+2017,2017/18,GS,Olympiakos Piraeus
+2017,2017/18,GS,Sporting CP Lisbon
+2017,2017/18,GS,FC Barcelona
+2017,2017/18,GS,Olympiakos Piraeus
+2017,2017/18,GS,Sporting CP Lisbon
+2017,2017/18,GS,FC Barcelona
+2017,2017/18,GS,Juventus
+2017,2017/18,GS,Chelsea
+2017,2017/18,GS,AS Roma
+2017,2017/18,GS,Qarabag FK
+2017,2017/18,GS,Atlético Madrid
+2017,2017/18,GS,Qarabag FK
+2017,2017/18,GS,AS Roma
+2017,2017/18,GS,Atlético Madrid
+2017,2017/18,GS,Chelsea
+2017,2017/18,GS,AS Roma
+2017,2017/18,GS,Atlético Madrid
+2017,2017/18,GS,Chelsea
+2017,2017/18,GS,Qarabag FK
+2017,2017/18,GS,Bayern München
+2017,2017/18,GS,Celtic
+2017,2017/18,GS,Anderlecht
+2017,2017/18,GS,Paris Saint-Germain
+2017,2017/18,GS,Anderlecht
+2017,2017/18,GS,Celtic
+2017,2017/18,GS,Paris Saint-Germain
+2017,2017/18,GS,Bayern München
+2017,2017/18,GS,Celtic
+2017,2017/18,GS,Paris Saint-Germain
+2017,2017/18,GS,Bayern München
+2017,2017/18,GS,Anderlecht
+2017,2017/18,GS,Benfica
+2017,2017/18,GS,Manchester United
+2017,2017/18,GS,CSKA Moscow
+2017,2017/18,GS,FC Basel
+2017,2017/18,GS,CSKA Moscow
+2017,2017/18,GS,Manchester United
+2017,2017/18,GS,FC Basel
+2017,2017/18,GS,Benfica
+2017,2017/18,GS,Manchester United
+2017,2017/18,GS,FC Basel
+2017,2017/18,GS,Benfica
+2017,2017/18,GS,CSKA Moscow
+2018,2018/19,F,Tottenham Hotspur
+2018,2018/19,F,Liverpool
+2018,2018/19,SF,FC Barcelona
+2018,2018/19,SF,Liverpool
+2018,2018/19,SF,Tottenham Hotspur
+2018,2018/19,SF,Ajax
+2018,2018/19,QF,Manchester United
+2018,2018/19,QF,FC Barcelona
+2018,2018/19,QF,Tottenham Hotspur
+2018,2018/19,QF,Manchester City
+2018,2018/19,QF,Liverpool
+2018,2018/19,QF,FC Porto
+2018,2018/19,QF,Ajax
+2018,2018/19,QF,Juventus
+2018,2018/19,R16,Liverpool
+2018,2018/19,R16,Bayern München
+2018,2018/19,R16,Ajax
+2018,2018/19,R16,Real Madrid
+2018,2018/19,R16,AS Roma
+2018,2018/19,R16,FC Porto
+2018,2018/19,R16,Olympique Lyon
+2018,2018/19,R16,FC Barcelona
+2018,2018/19,R16,Tottenham Hotspur
+2018,2018/19,R16,Borussia Dortmund
+2018,2018/19,R16,Manchester United
+2018,2018/19,R16,Paris Saint-Germain
+2018,2018/19,R16,Atlético Madrid
+2018,2018/19,R16,Juventus
+2018,2018/19,R16,Schalke 04
+2018,2018/19,R16,Manchester City
+2018,2018/19,GS,Young Boys
+2018,2018/19,GS,Valencia
+2018,2018/19,GS,Manchester United
+2018,2018/19,GS,Juventus
+2018,2018/19,GS,Manchester United
+2018,2018/19,GS,Valencia
+2018,2018/19,GS,Juventus
+2018,2018/19,GS,Young Boys
+2018,2018/19,GS,Valencia
+2018,2018/19,GS,Juventus
+2018,2018/19,GS,Young Boys
+2018,2018/19,GS,Manchester United
+2018,2018/19,GS,Real Madrid
+2018,2018/19,GS,Viktoria Plzen
+2018,2018/19,GS,AS Roma
+2018,2018/19,GS,CSKA Moscow
+2018,2018/19,GS,AS Roma
+2018,2018/19,GS,Viktoria Plzen
+2018,2018/19,GS,CSKA Moscow
+2018,2018/19,GS,Real Madrid
+2018,2018/19,GS,Viktoria Plzen
+2018,2018/19,GS,CSKA Moscow
+2018,2018/19,GS,Real Madrid
+2018,2018/19,GS,AS Roma
+2018,2018/19,GS,Shakhtar Donetsk
+2018,2018/19,GS,Manchester City
+2018,2018/19,GS,1899 Hoffenheim
+2018,2018/19,GS,Olympique Lyon
+2018,2018/19,GS,1899 Hoffenheim
+2018,2018/19,GS,Manchester City
+2018,2018/19,GS,Olympique Lyon
+2018,2018/19,GS,Shakhtar Donetsk
+2018,2018/19,GS,Manchester City
+2018,2018/19,GS,Olympique Lyon
+2018,2018/19,GS,Shakhtar Donetsk
+2018,2018/19,GS,1899 Hoffenheim
+2018,2018/19,GS,Ajax
+2018,2018/19,GS,Benfica
+2018,2018/19,GS,AEK Athens
+2018,2018/19,GS,Bayern München
+2018,2018/19,GS,AEK Athens
+2018,2018/19,GS,Benfica
+2018,2018/19,GS,Bayern München
+2018,2018/19,GS,Ajax
+2018,2018/19,GS,Benfica
+2018,2018/19,GS,Bayern München
+2018,2018/19,GS,Ajax
+2018,2018/19,GS,AEK Athens
+2018,2018/19,GS,Galatasaray
+2018,2018/19,GS,Schalke 04
+2018,2018/19,GS,Lokomotiv Moscow
+2018,2018/19,GS,FC Porto
+2018,2018/19,GS,Lokomotiv Moscow
+2018,2018/19,GS,Schalke 04
+2018,2018/19,GS,FC Porto
+2018,2018/19,GS,Galatasaray
+2018,2018/19,GS,Schalke 04
+2018,2018/19,GS,FC Porto
+2018,2018/19,GS,Galatasaray
+2018,2018/19,GS,Lokomotiv Moscow
+2018,2018/19,GS,Liverpool
+2018,2018/19,GS,Red Star Belgrade
+2018,2018/19,GS,Paris Saint-Germain
+2018,2018/19,GS,Napoli
+2018,2018/19,GS,Paris Saint-Germain
+2018,2018/19,GS,Red Star Belgrade
+2018,2018/19,GS,Napoli
+2018,2018/19,GS,Liverpool
+2018,2018/19,GS,Red Star Belgrade
+2018,2018/19,GS,Napoli
+2018,2018/19,GS,Liverpool
+2018,2018/19,GS,Paris Saint-Germain
+2018,2018/19,GS,FC Barcelona
+2018,2018/19,GS,Internazionale
+2018,2018/19,GS,PSV Eindhoven
+2018,2018/19,GS,Tottenham Hotspur
+2018,2018/19,GS,PSV Eindhoven
+2018,2018/19,GS,Internazionale
+2018,2018/19,GS,Tottenham Hotspur
+2018,2018/19,GS,FC Barcelona
+2018,2018/19,GS,Internazionale
+2018,2018/19,GS,Tottenham Hotspur
+2018,2018/19,GS,FC Barcelona
+2018,2018/19,GS,PSV Eindhoven
+2018,2018/19,GS,Club Brugge
+2018,2018/19,GS,AS Monaco
+2018,2018/19,GS,Borussia Dortmund
+2018,2018/19,GS,Atlético Madrid
+2018,2018/19,GS,Borussia Dortmund
+2018,2018/19,GS,AS Monaco
+2018,2018/19,GS,Atlético Madrid
+2018,2018/19,GS,Club Brugge
+2018,2018/19,GS,AS Monaco
+2018,2018/19,GS,Atlético Madrid
+2018,2018/19,GS,Club Brugge
+2018,2018/19,GS,Borussia Dortmund
+2019,2019/20,F,Paris Saint-Germain
+2019,2019/20,F,Bayern München
+2019,2019/20,SF,Olympique Lyon
+2019,2019/20,SF,Bayern München
+2019,2019/20,SF,RB Leipzig
+2019,2019/20,SF,Paris Saint-Germain
+2019,2019/20,QF,Manchester City
+2019,2019/20,QF,Olympique Lyon
+2019,2019/20,QF,FC Barcelona
+2019,2019/20,QF,Bayern München
+2019,2019/20,QF,RB Leipzig
+2019,2019/20,QF,Atlético Madrid
+2019,2019/20,QF,Atalanta
+2019,2019/20,QF,Paris Saint-Germain
+2019,2019/20,R16,Napoli
+2019,2019/20,R16,FC Barcelona
+2019,2019/20,R16,Tottenham Hotspur
+2019,2019/20,R16,RB Leipzig
+2019,2019/20,R16,Olympique Lyon
+2019,2019/20,R16,Juventus
+2019,2019/20,R16,Chelsea
+2019,2019/20,R16,Bayern München
+2019,2019/20,R16,Atlético Madrid
+2019,2019/20,R16,Liverpool
+2019,2019/20,R16,Atalanta
+2019,2019/20,R16,Valencia
+2019,2019/20,R16,Real Madrid
+2019,2019/20,R16,Manchester City
+2019,2019/20,R16,Borussia Dortmund
+2019,2019/20,R16,Paris Saint-Germain
+2019,2019/20,GS,Ajax
+2019,2019/20,GS,Chelsea
+2019,2019/20,GS,Lille OSC
+2019,2019/20,GS,Valencia
+2019,2019/20,GS,Lille OSC
+2019,2019/20,GS,Chelsea
+2019,2019/20,GS,Valencia
+2019,2019/20,GS,Ajax
+2019,2019/20,GS,Chelsea
+2019,2019/20,GS,Valencia
+2019,2019/20,GS,Ajax
+2019,2019/20,GS,Lille OSC
+2019,2019/20,GS,Benfica
+2019,2019/20,GS,Olympique Lyon
+2019,2019/20,GS,RB Leipzig
+2019,2019/20,GS,Zenit St. Petersburg
+2019,2019/20,GS,RB Leipzig
+2019,2019/20,GS,Olympique Lyon
+2019,2019/20,GS,Zenit St. Petersburg
+2019,2019/20,GS,Benfica
+2019,2019/20,GS,Olympique Lyon
+2019,2019/20,GS,Zenit St. Petersburg
+2019,2019/20,GS,Benfica
+2019,2019/20,GS,RB Leipzig
+2019,2019/20,GS,Internazionale
+2019,2019/20,GS,Borussia Dortmund
+2019,2019/20,GS,Slavia Praha
+2019,2019/20,GS,FC Barcelona
+2019,2019/20,GS,Slavia Praha
+2019,2019/20,GS,Borussia Dortmund
+2019,2019/20,GS,FC Barcelona
+2019,2019/20,GS,Internazionale
+2019,2019/20,GS,Borussia Dortmund
+2019,2019/20,GS,FC Barcelona
+2019,2019/20,GS,Internazionale
+2019,2019/20,GS,Slavia Praha
+2019,2019/20,GS,FC Salzburg
+2019,2019/20,GS,Napoli
+2019,2019/20,GS,Racing Genk
+2019,2019/20,GS,Liverpool
+2019,2019/20,GS,Racing Genk
+2019,2019/20,GS,Napoli
+2019,2019/20,GS,Liverpool
+2019,2019/20,GS,FC Salzburg
+2019,2019/20,GS,Napoli
+2019,2019/20,GS,Liverpool
+2019,2019/20,GS,FC Salzburg
+2019,2019/20,GS,Racing Genk
+2019,2019/20,GS,Atlético Madrid
+2019,2019/20,GS,Bayer Leverkusen
+2019,2019/20,GS,Juventus
+2019,2019/20,GS,Lokomotiv Moscow
+2019,2019/20,GS,Juventus
+2019,2019/20,GS,Bayer Leverkusen
+2019,2019/20,GS,Lokomotiv Moscow
+2019,2019/20,GS,Atlético Madrid
+2019,2019/20,GS,Bayer Leverkusen
+2019,2019/20,GS,Lokomotiv Moscow
+2019,2019/20,GS,Atlético Madrid
+2019,2019/20,GS,Juventus
+2019,2019/20,GS,Shakhtar Donetsk
+2019,2019/20,GS,Dinamo Zagreb
+2019,2019/20,GS,Manchester City
+2019,2019/20,GS,Atalanta
+2019,2019/20,GS,Manchester City
+2019,2019/20,GS,Dinamo Zagreb
+2019,2019/20,GS,Atalanta
+2019,2019/20,GS,Shakhtar Donetsk
+2019,2019/20,GS,Dinamo Zagreb
+2019,2019/20,GS,Atalanta
+2019,2019/20,GS,Shakhtar Donetsk
+2019,2019/20,GS,Manchester City
+2019,2019/20,GS,Olympiakos Piraeus
+2019,2019/20,GS,Bayern München
+2019,2019/20,GS,Tottenham Hotspur
+2019,2019/20,GS,Red Star Belgrade
+2019,2019/20,GS,Tottenham Hotspur
+2019,2019/20,GS,Bayern München
+2019,2019/20,GS,Red Star Belgrade
+2019,2019/20,GS,Olympiakos Piraeus
+2019,2019/20,GS,Bayern München
+2019,2019/20,GS,Red Star Belgrade
+2019,2019/20,GS,Olympiakos Piraeus
+2019,2019/20,GS,Tottenham Hotspur
+2019,2019/20,GS,Club Brugge
+2019,2019/20,GS,Paris Saint-Germain
+2019,2019/20,GS,Galatasaray
+2019,2019/20,GS,Real Madrid
+2019,2019/20,GS,Galatasaray
+2019,2019/20,GS,Paris Saint-Germain
+2019,2019/20,GS,Real Madrid
+2019,2019/20,GS,Club Brugge
+2019,2019/20,GS,Paris Saint-Germain
+2019,2019/20,GS,Real Madrid
+2019,2019/20,GS,Club Brugge
+2019,2019/20,GS,Galatasaray
+2020,2020/21,F,Manchester City
+2020,2020/21,F,Chelsea
+2020,2020/21,SF,Real Madrid
+2020,2020/21,SF,Chelsea
+2020,2020/21,SF,Paris Saint-Germain
+2020,2020/21,SF,Manchester City
+2020,2020/21,QF,Real Madrid
+2020,2020/21,QF,Liverpool
+2020,2020/21,QF,Bayern München
+2020,2020/21,QF,Paris Saint-Germain
+2020,2020/21,QF,FC Porto
+2020,2020/21,QF,Chelsea
+2020,2020/21,QF,Manchester City
+2020,2020/21,QF,Borussia Dortmund
+2020,2020/21,R16,Atalanta
+2020,2020/21,R16,Real Madrid
+2020,2020/21,R16,Sevilla
+2020,2020/21,R16,Borussia Dortmund
+2020,2020/21,R16,FC Barcelona
+2020,2020/21,R16,Paris Saint-Germain
+2020,2020/21,R16,FC Porto
+2020,2020/21,R16,Juventus
+2020,2020/21,R16,RB Leipzig
+2020,2020/21,R16,Liverpool
+2020,2020/21,R16,Atlético Madrid
+2020,2020/21,R16,Chelsea
+2020,2020/21,R16,Lazio
+2020,2020/21,R16,Bayern München
+2020,2020/21,R16,Borussia Mönchengladbach
+2020,2020/21,R16,Manchester City
+2020,2020/21,GS,RB Leipzig
+2020,2020/21,GS,Paris Saint-Germain
+2020,2020/21,GS,Istanbul Basaksehir
+2020,2020/21,GS,Manchester United
+2020,2020/21,GS,Istanbul Basaksehir
+2020,2020/21,GS,Paris Saint-Germain
+2020,2020/21,GS,Manchester United
+2020,2020/21,GS,RB Leipzig
+2020,2020/21,GS,Paris Saint-Germain
+2020,2020/21,GS,Manchester United
+2020,2020/21,GS,RB Leipzig
+2020,2020/21,GS,Istanbul Basaksehir
+2020,2020/21,GS,FC Barcelona
+2020,2020/21,GS,Dinamo Kiev
+2020,2020/21,GS,Ferencváros
+2020,2020/21,GS,Juventus
+2020,2020/21,GS,Ferencváros
+2020,2020/21,GS,Dinamo Kiev
+2020,2020/21,GS,Juventus
+2020,2020/21,GS,FC Barcelona
+2020,2020/21,GS,Dinamo Kiev
+2020,2020/21,GS,Juventus
+2020,2020/21,GS,FC Barcelona
+2020,2020/21,GS,Ferencváros
+2020,2020/21,GS,Zenit St. Petersburg
+2020,2020/21,GS,Lazio
+2020,2020/21,GS,Club Brugge
+2020,2020/21,GS,Borussia Dortmund
+2020,2020/21,GS,Club Brugge
+2020,2020/21,GS,Lazio
+2020,2020/21,GS,Borussia Dortmund
+2020,2020/21,GS,Zenit St. Petersburg
+2020,2020/21,GS,Lazio
+2020,2020/21,GS,Borussia Dortmund
+2020,2020/21,GS,Zenit St. Petersburg
+2020,2020/21,GS,Club Brugge
+2020,2020/21,GS,Chelsea
+2020,2020/21,GS,Stade Rennais
+2020,2020/21,GS,Sevilla
+2020,2020/21,GS,FK Krasnodar
+2020,2020/21,GS,Sevilla
+2020,2020/21,GS,Stade Rennais
+2020,2020/21,GS,FK Krasnodar
+2020,2020/21,GS,Chelsea
+2020,2020/21,GS,Stade Rennais
+2020,2020/21,GS,FK Krasnodar
+2020,2020/21,GS,Chelsea
+2020,2020/21,GS,Sevilla
+2020,2020/21,GS,FC Midtjylland
+2020,2020/21,GS,Ajax
+2020,2020/21,GS,Atalanta
+2020,2020/21,GS,Liverpool
+2020,2020/21,GS,Atalanta
+2020,2020/21,GS,Ajax
+2020,2020/21,GS,Liverpool
+2020,2020/21,GS,FC Midtjylland
+2020,2020/21,GS,Ajax
+2020,2020/21,GS,Liverpool
+2020,2020/21,GS,FC Midtjylland
+2020,2020/21,GS,Atalanta
+2020,2020/21,GS,Manchester City
+2020,2020/21,GS,Olympiakos Piraeus
+2020,2020/21,GS,FC Porto
+2020,2020/21,GS,Olympique Marseille
+2020,2020/21,GS,FC Porto
+2020,2020/21,GS,Olympiakos Piraeus
+2020,2020/21,GS,Olympique Marseille
+2020,2020/21,GS,Manchester City
+2020,2020/21,GS,Olympiakos Piraeus
+2020,2020/21,GS,Olympique Marseille
+2020,2020/21,GS,Manchester City
+2020,2020/21,GS,FC Porto
+2020,2020/21,GS,Real Madrid
+2020,2020/21,GS,Internazionale
+2020,2020/21,GS,Shakhtar Donetsk
+2020,2020/21,GS,Borussia Mönchengladbach
+2020,2020/21,GS,Shakhtar Donetsk
+2020,2020/21,GS,Internazionale
+2020,2020/21,GS,Borussia Mönchengladbach
+2020,2020/21,GS,Real Madrid
+2020,2020/21,GS,Internazionale
+2020,2020/21,GS,Borussia Mönchengladbach
+2020,2020/21,GS,Real Madrid
+2020,2020/21,GS,Shakhtar Donetsk
+2020,2020/21,GS,FC Salzburg
+2020,2020/21,GS,Bayern München
+2020,2020/21,GS,Lokomotiv Moscow
+2020,2020/21,GS,Atlético Madrid
+2020,2020/21,GS,Lokomotiv Moscow
+2020,2020/21,GS,Bayern München
+2020,2020/21,GS,Atlético Madrid
+2020,2020/21,GS,FC Salzburg
+2020,2020/21,GS,Bayern München
+2020,2020/21,GS,Atlético Madrid
+2020,2020/21,GS,FC Salzburg
+2020,2020/21,GS,Lokomotiv Moscow
+2021,2021/22,F,Liverpool
+2021,2021/22,F,Real Madrid
+2021,2021/22,SF,Liverpool
+2021,2021/22,SF,Villarreal
+2021,2021/22,SF,Manchester City
+2021,2021/22,SF,Real Madrid
+2021,2021/22,QF,Benfica
+2021,2021/22,QF,Liverpool
+2021,2021/22,QF,Villarreal
+2021,2021/22,QF,Bayern München
+2021,2021/22,QF,Manchester City
+2021,2021/22,QF,Atlético Madrid
+2021,2021/22,QF,Chelsea
+2021,2021/22,QF,Real Madrid
+2021,2021/22,R16,Atlético Madrid
+2021,2021/22,R16,Manchester United
+2021,2021/22,R16,Benfica
+2021,2021/22,R16,Ajax
+2021,2021/22,R16,Villarreal
+2021,2021/22,R16,Juventus
+2021,2021/22,R16,Chelsea
+2021,2021/22,R16,Lille OSC
+2021,2021/22,R16,Internazionale
+2021,2021/22,R16,Liverpool
+2021,2021/22,R16,FC Salzburg
+2021,2021/22,R16,Bayern München
+2021,2021/22,R16,Paris Saint-Germain
+2021,2021/22,R16,Real Madrid
+2021,2021/22,R16,Sporting CP Lisbon
+2021,2021/22,R16,Manchester City
+2021,2021/22,GS,Chelsea
+2021,2021/22,GS,Malmö FF
+2021,2021/22,GS,Zenit St. Petersburg
+2021,2021/22,GS,Juventus
+2021,2021/22,GS,Juventus
+2021,2021/22,GS,Chelsea
+2021,2021/22,GS,Zenit St. Petersburg
+2021,2021/22,GS,Malmö FF
+2021,2021/22,GS,Malmö FF
+2021,2021/22,GS,Juventus
+2021,2021/22,GS,Chelsea
+2021,2021/22,GS,Zenit St. Petersburg
+2021,2021/22,GS,Lille OSC
+2021,2021/22,GS,Sevilla
+2021,2021/22,GS,FC Salzburg
+2021,2021/22,GS,VfL Wolfsburg
+2021,2021/22,GS,VfL Wolfsburg
+2021,2021/22,GS,Sevilla
+2021,2021/22,GS,FC Salzburg
+2021,2021/22,GS,Lille OSC
+2021,2021/22,GS,Lille OSC
+2021,2021/22,GS,VfL Wolfsburg
+2021,2021/22,GS,Sevilla
+2021,2021/22,GS,FC Salzburg
+2021,2021/22,GS,Young Boys
+2021,2021/22,GS,Villarreal
+2021,2021/22,GS,Manchester United
+2021,2021/22,GS,Atalanta
+2021,2021/22,GS,Atalanta
+2021,2021/22,GS,Young Boys
+2021,2021/22,GS,Manchester United
+2021,2021/22,GS,Villarreal
+2021,2021/22,GS,Villarreal
+2021,2021/22,GS,Atalanta
+2021,2021/22,GS,Young Boys
+2021,2021/22,GS,Manchester United
+2021,2021/22,GS,FC Barcelona
+2021,2021/22,GS,Dinamo Kiev
+2021,2021/22,GS,Benfica
+2021,2021/22,GS,Bayern München
+2021,2021/22,GS,Bayern München
+2021,2021/22,GS,Dinamo Kiev
+2021,2021/22,GS,Benfica
+2021,2021/22,GS,FC Barcelona
+2021,2021/22,GS,FC Barcelona
+2021,2021/22,GS,Bayern München
+2021,2021/22,GS,Dinamo Kiev
+2021,2021/22,GS,Benfica
+2021,2021/22,GS,Internazionale
+2021,2021/22,GS,Sheriff Tiraspol
+2021,2021/22,GS,Shakhtar Donetsk
+2021,2021/22,GS,Real Madrid
+2021,2021/22,GS,Real Madrid
+2021,2021/22,GS,Sheriff Tiraspol
+2021,2021/22,GS,Shakhtar Donetsk
+2021,2021/22,GS,Internazionale
+2021,2021/22,GS,Internazionale
+2021,2021/22,GS,Real Madrid
+2021,2021/22,GS,Sheriff Tiraspol
+2021,2021/22,GS,Shakhtar Donetsk
+2021,2021/22,GS,Besiktas
+2021,2021/22,GS,Sporting CP Lisbon
+2021,2021/22,GS,Ajax
+2021,2021/22,GS,Borussia Dortmund
+2021,2021/22,GS,Borussia Dortmund
+2021,2021/22,GS,Sporting CP Lisbon
+2021,2021/22,GS,Ajax
+2021,2021/22,GS,Besiktas
+2021,2021/22,GS,Besiktas
+2021,2021/22,GS,Borussia Dortmund
+2021,2021/22,GS,Sporting CP Lisbon
+2021,2021/22,GS,Ajax
+2021,2021/22,GS,Atlético Madrid
+2021,2021/22,GS,Liverpool
+2021,2021/22,GS,FC Porto
+2021,2021/22,GS,AC Milan
+2021,2021/22,GS,AC Milan
+2021,2021/22,GS,Atlético Madrid
+2021,2021/22,GS,FC Porto
+2021,2021/22,GS,Liverpool
+2021,2021/22,GS,Liverpool
+2021,2021/22,GS,AC Milan
+2021,2021/22,GS,Atlético Madrid
+2021,2021/22,GS,FC Porto
+2021,2021/22,GS,Club Brugge
+2021,2021/22,GS,Manchester City
+2021,2021/22,GS,Paris Saint-Germain
+2021,2021/22,GS,RB Leipzig
+2021,2021/22,GS,RB Leipzig
+2021,2021/22,GS,Club Brugge
+2021,2021/22,GS,Paris Saint-Germain
+2021,2021/22,GS,Manchester City
+2021,2021/22,GS,Manchester City
+2021,2021/22,GS,RB Leipzig
+2021,2021/22,GS,Club Brugge
+2021,2021/22,GS,Paris Saint-Germain
+2022,2022/23,SF,Real Madrid
+2022,2022/23,SF,Manchester City
+2022,2022/23,SF,AC Milan
+2022,2022/23,SF,Internazionale
+2022,2022/23,QF,AC Milan
+2022,2022/23,QF,Napoli
+2022,2022/23,QF,Manchester City
+2022,2022/23,QF,Bayern München
+2022,2022/23,QF,Benfica
+2022,2022/23,QF,Internazionale
+2022,2022/23,QF,Real Madrid
+2022,2022/23,QF,Chelsea
+2022,2022/23,R16,Paris Saint-Germain
+2022,2022/23,R16,Bayern München
+2022,2022/23,R16,Internazionale
+2022,2022/23,R16,FC Porto
+2022,2022/23,R16,Borussia Dortmund
+2022,2022/23,R16,Chelsea
+2022,2022/23,R16,Eintracht Frankfurt
+2022,2022/23,R16,Napoli
+2022,2022/23,R16,AC Milan
+2022,2022/23,R16,Tottenham Hotspur
+2022,2022/23,R16,Liverpool
+2022,2022/23,R16,Real Madrid
+2022,2022/23,R16,Club Brugge
+2022,2022/23,R16,Benfica
+2022,2022/23,R16,RB Leipzig
+2022,2022/23,R16,Manchester City
+2022,2022/23,GS,Benfica
+2022,2022/23,GS,Paris Saint-Germain
+2022,2022/23,GS,Juventus
+2022,2022/23,GS,Maccabi Haifa
+2022,2022/23,GS,Maccabi Haifa
+2022,2022/23,GS,Paris Saint-Germain
+2022,2022/23,GS,Juventus
+2022,2022/23,GS,Benfica
+2022,2022/23,GS,Benfica
+2022,2022/23,GS,Maccabi Haifa
+2022,2022/23,GS,Paris Saint-Germain
+2022,2022/23,GS,Juventus
+2022,2022/23,GS,Sevilla
+2022,2022/23,GS,Borussia Dortmund
+2022,2022/23,GS,Manchester City
+2022,2022/23,GS,FC København
+2022,2022/23,GS,Manchester City
+2022,2022/23,GS,Borussia Dortmund
+2022,2022/23,GS,FC København
+2022,2022/23,GS,Sevilla
+2022,2022/23,GS,Sevilla
+2022,2022/23,GS,Manchester City
+2022,2022/23,GS,Borussia Dortmund
+2022,2022/23,GS,FC København
+2022,2022/23,GS,RB Leipzig
+2022,2022/23,GS,Celtic
+2022,2022/23,GS,Real Madrid
+2022,2022/23,GS,Shakhtar Donetsk
+2022,2022/23,GS,Shakhtar Donetsk
+2022,2022/23,GS,Celtic
+2022,2022/23,GS,Real Madrid
+2022,2022/23,GS,RB Leipzig
+2022,2022/23,GS,RB Leipzig
+2022,2022/23,GS,Shakhtar Donetsk
+2022,2022/23,GS,Celtic
+2022,2022/23,GS,Real Madrid
+2022,2022/23,GS,FC Salzburg
+2022,2022/23,GS,Dinamo Zagreb
+2022,2022/23,GS,Chelsea
+2022,2022/23,GS,AC Milan
+2022,2022/23,GS,AC Milan
+2022,2022/23,GS,Dinamo Zagreb
+2022,2022/23,GS,Chelsea
+2022,2022/23,GS,FC Salzburg
+2022,2022/23,GS,FC Salzburg
+2022,2022/23,GS,AC Milan
+2022,2022/23,GS,Dinamo Zagreb
+2022,2022/23,GS,Chelsea
+2022,2022/23,GS,Eintracht Frankfurt
+2022,2022/23,GS,Tottenham Hotspur
+2022,2022/23,GS,Olympique Marseille
+2022,2022/23,GS,Sporting CP Lisbon
+2022,2022/23,GS,Olympique Marseille
+2022,2022/23,GS,Eintracht Frankfurt
+2022,2022/23,GS,Sporting CP Lisbon
+2022,2022/23,GS,Tottenham Hotspur
+2022,2022/23,GS,Tottenham Hotspur
+2022,2022/23,GS,Olympique Marseille
+2022,2022/23,GS,Eintracht Frankfurt
+2022,2022/23,GS,Sporting CP Lisbon
+2022,2022/23,GS,Internazionale
+2022,2022/23,GS,FC Barcelona
+2022,2022/23,GS,Bayern München
+2022,2022/23,GS,Viktoria Plzen
+2022,2022/23,GS,Bayern München
+2022,2022/23,GS,FC Barcelona
+2022,2022/23,GS,Viktoria Plzen
+2022,2022/23,GS,Internazionale
+2022,2022/23,GS,Internazionale
+2022,2022/23,GS,Bayern München
+2022,2022/23,GS,FC Barcelona
+2022,2022/23,GS,Viktoria Plzen
+2022,2022/23,GS,Club Brugge
+2022,2022/23,GS,Atlético Madrid
+2022,2022/23,GS,FC Porto
+2022,2022/23,GS,Bayer Leverkusen
+2022,2022/23,GS,Bayer Leverkusen
+2022,2022/23,GS,Atlético Madrid
+2022,2022/23,GS,FC Porto
+2022,2022/23,GS,Club Brugge
+2022,2022/23,GS,Club Brugge
+2022,2022/23,GS,Bayer Leverkusen
+2022,2022/23,GS,Atlético Madrid
+2022,2022/23,GS,FC Porto
+2022,2022/23,GS,Ajax
+2022,2022/23,GS,Napoli
+2022,2022/23,GS,Liverpool
+2022,2022/23,GS,Glasgow Rangers
+2022,2022/23,GS,Liverpool
+2022,2022/23,GS,Ajax
+2022,2022/23,GS,Glasgow Rangers
+2022,2022/23,GS,Napoli
+2022,2022/23,GS,Napoli
+2022,2022/23,GS,Liverpool
+2022,2022/23,GS,Ajax
+2022,2022/23,GS,Glasgow Rangers
