@@ -4,7 +4,7 @@ name: ucl_scraping
 # Controls when the action will run.
 on:
   schedule:
-    - cron:  '* * * * *'
+    - cron:  '0 12 * * FRI'
 
 permissions:
   contents: write
