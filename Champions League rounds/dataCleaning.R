@@ -45,4 +45,4 @@ long_data <- champions_matches_clean %>%
   select(!x) %>% 
   filter(team != "")
 
-write_csv(long_data, "long_data.csv")
+write_csv(long_data, "Champions League rounds/long_data.csv")
