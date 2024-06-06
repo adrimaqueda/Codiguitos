@@ -1378,7 +1378,7 @@ Real Betis,Marc Roca,65,0,5
 Real Betis,Isco,65,0,5
 Real Betis,Sergi Altimira,90,0,5
 Real Betis,Chadi Riad,90,0,5
-Real Betis,Francisco Barbosa,45,45,5
+Real Betis,Fran Vieites,45,45,5
 Real Betis,Guido Rodríguez,25,65,5
 Real Betis,Abdessamad Ezzalzouli,45,45,5
 Real Betis,Juan Cruz,25,65,5
@@ -3965,7 +3965,7 @@ Sevilla,Suso,18,72,12
 Sevilla,Dodi Lukebakio,29,61,12
 Sevilla,Mariano,4,86,12
 Sevilla,Juanlu Sánchez,4,86,12
-Real Betis,Francisco Barbosa,90,0,13
+Real Betis,Fran Vieites,90,0,13
 Real Betis,Héctor Bellerín,90,0,13
 Real Betis,Juan Miranda,64,0,13
 Real Betis,Guido Rodríguez,90,0,13
@@ -4265,7 +4265,7 @@ Real Madrid,Dani Ceballos,21,69,14
 Real Madrid,Fran Garcia,3,87,14
 Real Madrid,Nicolás Paz,3,87,14
 Real Madrid,Gonzalo García,13,77,14
-Real Betis,Francisco Barbosa,90,0,14
+Real Betis,Fran Vieites,90,0,14
 Real Betis,Héctor Bellerín,90,0,14
 Real Betis,Juan Miranda,90,0,14
 Real Betis,Guido Rodríguez,90,0,14
@@ -11255,3 +11255,635 @@ Valencia,José Luis Gayà,31,59,36
 Valencia,Selim Amallah,6,84,36
 Valencia,Alberto Marí,20,70,36
 Valencia,Hugo González,20,70,36
+Alavés,Jesús Owono,90,0,37
+Alavés,Rubén Duarte,90,0,37
+Alavés,Abdel Abqar,90,0,37
+Alavés,Antonio Blanco,90,0,37
+Alavés,Nahuel Tenaglia,90,0,37
+Alavés,Kiké,40,0,37
+Alavés,Jon Guridi,86,0,37
+Alavés,Giuliano Simeone,87,0,37
+Alavés,Carlos Vicente,87,0,37
+Alavés,Carlos Benavídez,61,0,37
+Alavés,Javi López,90,0,37
+Alavés,Andoni Gorosabel,3,87,37
+Alavés,Ander Guevara,29,61,37
+Alavés,Ianis Hagi,4,86,37
+Alavés,Luis Rioja,3,87,37
+Alavés,Samuel Omorodion,50,40,37
+Getafe,David Soria,90,0,37
+Getafe,Gastón Álvarez,90,0,37
+Getafe,Luis Milla,40,0,37
+Getafe,Jaime Mata,68,0,37
+Getafe,Mason Greenwood,90,0,37
+Getafe,Omar Alderete,90,0,37
+Getafe,Diego Rico,55,0,37
+Getafe,Carmona,40,0,37
+Getafe,Nemanja Maksimović,90,0,37
+Getafe,Jesús Santiago,68,0,37
+Getafe,Nabil Aberdin,90,0,37
+Getafe,Djené,50,40,37
+Getafe,Carles Aleñá,22,68,37
+Getafe,Juanmi Latasa,50,40,37
+Getafe,Ilaix Moriba,21,69,37
+Getafe,Alberto Risco,35,55,37
+Atlético Madrid,Jan Oblak,90,0,37
+Atlético Madrid,César Azpilicueta,59,0,37
+Atlético Madrid,Gabriel Paulista,45,0,37
+Atlético Madrid,Rodrigo De Paul,90,0,37
+Atlético Madrid,Koke,70,0,37
+Atlético Madrid,Antoine Griezmann,90,0,37
+Atlético Madrid,Ángel Correa,54,0,37
+Atlético Madrid,Samuel Lino,59,0,37
+Atlético Madrid,Marcos Llorente,90,0,37
+Atlético Madrid,Stefan Savić,90,0,37
+Atlético Madrid,Mario Hermoso,90,0,37
+Atlético Madrid,Memphis,31,59,37
+Atlético Madrid,Rodrigo Riquelme,36,54,37
+Atlético Madrid,Arthur Vermeeren,20,70,37
+Atlético Madrid,Álvaro Morata,45,45,37
+Atlético Madrid,Reinildo Mandava,31,59,37
+Osasuna,Sergio Herrera,90,0,37
+Osasuna,Lucas Torró,90,0,37
+Osasuna,Jesús Areso,90,0,37
+Osasuna,Rubén García,30,0,37
+Osasuna,Rubén Peña,71,0,37
+Osasuna,Pablo Ibáñez,90,0,37
+Osasuna,Johan Mojica,90,0,37
+Osasuna,Raúl,83,0,37
+Osasuna,Catena,90,0,37
+Osasuna,Jorge Herrando,90,0,37
+Osasuna,Iker Muñoz,90,0,37
+Osasuna,Jon Moncayola,19,71,37
+Osasuna,Aimar Oroz,60,30,37
+Osasuna,Ante Budimir,7,83,37
+Athletic Club,Julen Agirrezabala,90,0,37
+Athletic Club,Daniel Vivian,90,0,37
+Athletic Club,Yeray Álvarez,90,0,37
+Athletic Club,Iñaki Williams,81,0,37
+Athletic Club,Iker Muniain,62,0,37
+Athletic Club,Nico Williams,74,0,37
+Athletic Club,Iñigo Ruiz de Galarreta,74,0,37
+Athletic Club,Yuri Berchiche,90,0,37
+Athletic Club,Óscar de Marcos,90,0,37
+Athletic Club,Raúl García,81,0,37
+Athletic Club,Beñat Prados,90,0,37
+Athletic Club,Álex Berenguer,16,74,37
+Athletic Club,Asier Villalibre,9,81,37
+Athletic Club,Ander Herrera,16,74,37
+Athletic Club,Mikel Jauregizar,28,62,37
+Athletic Club,Aingeru Olabarrieta,9,81,37
+Sevilla,Ørjan Nyland,90,0,37
+Sevilla,Kike Salas,90,0,37
+Sevilla,Sergio Ramos,90,0,37
+Sevilla,Lucas Ocampos,90,0,37
+Sevilla,Dodi Lukebakio,84,0,37
+Sevilla,Youssef En-Nesyri,89,0,37
+Sevilla,Jesús Navas,44,0,37
+Sevilla,Marcos Acuña,45,0,37
+Sevilla,Loïc Bade,90,0,37
+Sevilla,Manuel Sebastián,84,0,37
+Sevilla,Lucien Agoume,90,0,37
+Sevilla,Adrià Pedrosa,45,45,37
+Sevilla,Alejo Véliz,1,89,37
+Sevilla,Mariano,6,84,37
+Sevilla,Juanlu Sánchez,46,44,37
+Sevilla,Hannibal Mejbri,6,84,37
+Real Betis,Rui Silva,90,0,37
+Real Betis,Juan Miranda,90,0,37
+Real Betis,Johnny Cardoso,90,0,37
+Real Betis,Nabil Fekir,90,0,37
+Real Betis,Ayoze Pérez,90,0,37
+Real Betis,Willian José,58,0,37
+Real Betis,William Carvalho,45,0,37
+Real Betis,Pablo Fornals,45,0,37
+Real Betis,Sokratis Papastathopoulos,90,0,37
+Real Betis,Youssouf Sabaly,59,0,37
+Real Betis,Chadi Riad,90,0,37
+Real Betis,Héctor Bellerín,31,59,37
+Real Betis,Abdessamad Ezzalzouli,32,58,37
+Real Betis,Rodri,45,45,37
+Real Betis,Sergi Altimira,45,45,37
+Real Sociedad,Álex Remiro,90,0,37
+Real Sociedad,Aritz Elustondo,90,0,37
+Real Sociedad,Mikel Merino,90,0,37
+Real Sociedad,Mikel Oyarzabal,90,0,37
+Real Sociedad,Sheraldo Becker,80,0,37
+Real Sociedad,Kieran Tierney,66,0,37
+Real Sociedad,Hamari Traoré,75,0,37
+Real Sociedad,Jon Pacheco,90,0,37
+Real Sociedad,Beñat Turrientes,66,0,37
+Real Sociedad,Brais Méndez,75,0,37
+Real Sociedad,Javi Galán,90,0,37
+Real Sociedad,Ander Barrenetxea,15,75,37
+Real Sociedad,Arsen Zakharyan,10,80,37
+Real Sociedad,Olasagasti,24,66,37
+Real Sociedad,Jon Martin,24,66,37
+Real Sociedad,Jon Aramburu,15,75,37
+Barcelona,Marc-André ter Stegen,90,0,37
+Barcelona,João Cancelo,90,0,37
+Barcelona,Iñigo Martínez,90,0,37
+Barcelona,Robert Lewandowski,78,0,37
+Barcelona,Raphinha,61,0,37
+Barcelona,Fermin López,61,0,37
+Barcelona,Sergi Roberto,45,0,37
+Barcelona,İlkay Gündoğan,90,0,37
+Barcelona,Jules Koundé,90,0,37
+Barcelona,Lamine Yamal,90,0,37
+Barcelona,Pau Cubarsí,61,0,37
+Barcelona,Ronald Araújo,29,61,37
+Barcelona,Pedri,29,61,37
+Barcelona,João Félix,29,61,37
+Barcelona,Andreas Christensen,45,45,37
+Barcelona,Vitor Roque,12,78,37
+Rayo Vallecano,Stole Dimitrievski,90,0,37
+Rayo Vallecano,Isaac Palazón Camacho,78,0,37
+Rayo Vallecano,Alfonso Espino,90,0,37
+Rayo Vallecano,Abdul Mumin,90,0,37
+Rayo Vallecano,Álvaro García,75,0,37
+Rayo Vallecano,Jorge de Frutos,61,0,37
+Rayo Vallecano,Iván Balliu,90,0,37
+Rayo Vallecano,Pathé Ciss,90,0,37
+Rayo Vallecano,Óscar Valentín,61,0,37
+Rayo Vallecano,Florian Lejeune,90,0,37
+Rayo Vallecano,Sergio Camello,78,0,37
+Rayo Vallecano,Andrei Ratiu,29,61,37
+Rayo Vallecano,Pep Chavarría,15,75,37
+Rayo Vallecano,Radamel Falcao,12,78,37
+Rayo Vallecano,Crespo,29,61,37
+Rayo Vallecano,Unai López,12,78,37
+Mallorca,Predrag Rajković,90,0,37
+Mallorca,Copete,68,0,37
+Mallorca,Vedat Muriqi,90,0,37
+Mallorca,Sergi Darder,90,0,37
+Mallorca,Jaume Costa,75,0,37
+Mallorca,Samu Costa,45,0,37
+Mallorca,Dani Rodríguez,62,0,37
+Mallorca,Cyle Larin,62,0,37
+Mallorca,Giovanni González,90,0,37
+Mallorca,Antonio Raillo,90,0,37
+Mallorca,Martin Valjent,90,0,37
+Mallorca,Toni Lato,15,75,37
+Mallorca,Omar Mascarell,45,45,37
+Mallorca,Manu Morlanes,28,62,37
+Mallorca,Abdón Prats,28,62,37
+Mallorca,Nemanja Radonjić,22,68,37
+Almería,Fernando,90,0,37
+Almería,Édgar González,90,0,37
+Almería,Luis Javier Suárez,64,0,37
+Almería,Gonzalo Melero,57,0,37
+Almería,Alejandro Pozo Pozo,90,0,37
+Almería,Sergio Arribas,81,0,37
+Almería,Álex Centelles,81,0,37
+Almería,Juan Brandáriz,90,0,37
+Almería,César Montes,90,0,37
+Almería,Bruno Langa,90,0,37
+Almería,Luka Romero,64,0,37
+Almería,Lucas Robertone,33,57,37
+Almería,Adri Embarba,9,81,37
+Almería,Léo Baptistão,26,64,37
+Almería,Anthony Lozano,26,64,37
+Almería,Aleksandar Radovanović,9,81,37
+Granada,Marc Martínez,90,0,37
+Granada,Bruno Méndez,88,0,37
+Granada,Miguel Ángel Rubio,90,0,37
+Granada,Martin Hongla,72,0,37
+Granada,Lucas Boyé,90,0,37
+Granada,Carlos Neva,90,0,37
+Granada,Facundo Pellistri,89,0,37
+Granada,Sergio Ruiz,90,0,37
+Granada,Gerard Gumbau,90,0,37
+Granada,Sergio Rodelas,59,0,37
+Granada,Raúl Torrente,72,0,37
+Granada,Antonio Puertas,1,89,37
+Granada,Ricard Sánchez,2,88,37
+Granada,Óscar Melendo,18,72,37
+Granada,Kamil Piątkowski,18,72,37
+Granada,Gonzalo Villar,31,59,37
+Celta Vigo,Vicente Guaita,90,0,37
+Celta Vigo,Carl Starfelt,84,0,37
+Celta Vigo,Óscar Mingueza,90,0,37
+Celta Vigo,Renato Tapia,45,0,37
+Celta Vigo,Iago Aspas,90,0,37
+Celta Vigo,Luca de la Torre,45,0,37
+Celta Vigo,Jailson Siqueira,90,0,37
+Celta Vigo,Jørgen Strand Larsen,64,0,37
+Celta Vigo,Javier Manquillo,90,0,37
+Celta Vigo,Hugo Sotelo,78,0,37
+Celta Vigo,Hugo Álvarez,90,0,37
+Celta Vigo,Unai Núñez,12,78,37
+Celta Vigo,Fran Beltrán,45,45,37
+Celta Vigo,Anastasios Douvikas,26,64,37
+Celta Vigo,Jonathan Bamba,45,45,37
+Celta Vigo,Carlos Dominguez,6,84,37
+Valencia,Giorgi Mamardashvili,90,0,37
+Valencia,Cristhian Mosquera,90,0,37
+Valencia,Sergi Canós,90,0,37
+Valencia,Javier Guerra,90,0,37
+Valencia,Hugo Duro,45,0,37
+Valencia,Cenk Özkacar,60,0,37
+Valencia,Diego López,90,0,37
+Valencia,José Luis García Vayá,90,0,37
+Valencia,Dimitri Foulquier,45,0,37
+Valencia,Alberto Marí,60,0,37
+Valencia,Yarek Hernandis,90,0,37
+Valencia,Domingos André Ribeiro Almeida,19,71,37
+Valencia,Peter González,45,45,37
+Valencia,Thierry Correia,45,45,37
+Valencia,José Luis Gayà,11,79,37
+Valencia,Roman Yaremchuk,30,60,37
+Girona,Paulo Gazzaniga,90,0,37
+Girona,Arnau Martinez,90,0,37
+Girona,David López,90,0,37
+Girona,Viktor Tsyhankov,67,0,37
+Girona,Artem Dovbyk,78,0,37
+Girona,Aleix García,90,0,37
+Girona,Sávio,73,0,37
+Girona,Daley Blind,90,0,37
+Girona,Yangel Herrera,73,0,37
+Girona,Iván Martín,90,0,37
+Girona,Eric García,67,0,37
+Girona,Cristhian Stuani,12,78,37
+Girona,Valery Fernández,17,73,37
+Girona,Juanpe,23,67,37
+Girona,Portu,23,67,37
+Girona,Jastin García,17,73,37
+Cádiz,Jeremías Ledesma,90,0,37
+Cádiz,Joseba Zaldúa,84,0,37
+Cádiz,Fali,90,0,37
+Cádiz,Rubén Alcaraz,90,0,37
+Cádiz,Víctor Chust,73,0,37
+Cádiz,Rubén Sobrino,54,0,37
+Cádiz,Javi Hernández,90,0,37
+Cádiz,Chris Ramos,84,0,37
+Cádiz,Gonzalo Escalante,90,0,37
+Cádiz,Roger Martí,54,0,37
+Cádiz,Roberto Navarro,66,0,37
+Cádiz,Juanmi,36,54,37
+Cádiz,Brian Ocampo,24,66,37
+Cádiz,Sergi Guardiola,36,54,37
+Cádiz,Isaac Carcelen,6,84,37
+Cádiz,Maxi Gómez,6,84,37
+Las Palmas,Álvaro Vallés,90,0,37
+Las Palmas,Marvin,83,0,37
+Las Palmas,Sergi Cardona,90,0,37
+Las Palmas,Javier Muñoz,90,0,37
+Las Palmas,Sandro Ramírez,67,0,37
+Las Palmas,Alberto Moleiro,83,0,37
+Las Palmas,Enzo Loiodice,72,0,37
+Las Palmas,Mika Màrmol,90,0,37
+Las Palmas,Kirian Rodríguez,90,0,37
+Las Palmas,Saúl Coco,90,0,37
+Las Palmas,Julian Araujo,67,0,37
+Las Palmas,Álex Suárez,23,67,37
+Las Palmas,Máximo Perrone,7,83,37
+Las Palmas,Munir El Haddadi,7,83,37
+Las Palmas,Marc Cardona,23,67,37
+Las Palmas,José Campaña,18,72,37
+Villarreal,Filip Jørgensen,90,0,37
+Villarreal,Yerson Mosquera,90,0,37
+Villarreal,Santi Comesaña,90,0,37
+Villarreal,Jorge Cuenca,45,0,37
+Villarreal,Gerard Moreno,72,0,37
+Villarreal,Gonçalo Guedes,90,0,37
+Villarreal,Daniel Parejo,45,0,37
+Villarreal,Alexander Sørloth,90,0,37
+Villarreal,Eric Bailly,90,0,37
+Villarreal,Alberto Moreno,79,0,37
+Villarreal,Ilias Akhomach,45,0,37
+Villarreal,Raúl Albiol,45,45,37
+Villarreal,Étienne Capoue,18,72,37
+Villarreal,Francis Coquelin,45,45,37
+Villarreal,Ramón Terrats,11,79,37
+Villarreal,Bertrand Traoré,45,45,37
+Real Madrid,Andriy Lunin,90,0,37
+Real Madrid,Éder Militão,60,0,37
+Real Madrid,Luka Modrić,81,0,37
+Real Madrid,Joselu,90,0,37
+Real Madrid,Federico Valverde,59,0,37
+Real Madrid,Lucas Vázquez,90,0,37
+Real Madrid,Dani Ceballos,90,0,37
+Real Madrid,Fran Garcia,90,0,37
+Real Madrid,Brahim Díaz,67,0,37
+Real Madrid,Antonio Rüdiger,90,0,37
+Real Madrid,Arda Güler,90,0,37
+Real Madrid,Nacho,30,60,37
+Real Madrid,Rodrygo,23,67,37
+Real Madrid,Eduardo Camavinga,31,59,37
+Real Madrid,Mario Martín,9,81,37
+Girona,Paulo Gazzaniga,90,0,38
+Girona,Miguel Gutiérrez,64,0,38
+Girona,David López,49,0,38
+Girona,Viktor Tsyhankov,55,0,38
+Girona,Artem Dovbyk,90,0,38
+Girona,Aleix García,90,0,38
+Girona,Daley Blind,90,0,38
+Girona,Yangel Herrera,49,0,38
+Girona,Iván Martín,90,0,38
+Girona,Portu,49,0,38
+Girona,Eric García,90,0,38
+Girona,Arnau Martinez,26,64,38
+Girona,Cristhian Stuani,35,55,38
+Girona,Sávio,41,49,38
+Girona,Pablo Torre,41,49,38
+Girona,Yan Couto,41,49,38
+Granada,Marc Martínez,90,0,38
+Granada,Faitout Maouassa,59,0,38
+Granada,Miguel Ángel Rubio,90,0,38
+Granada,Lucas Boyé,90,0,38
+Granada,Ricard Sánchez,71,0,38
+Granada,Facundo Pellistri,60,0,38
+Granada,Sergio Ruiz,90,0,38
+Granada,Gerard Gumbau,90,0,38
+Granada,Gonzalo Villar,45,0,38
+Granada,Sergio Rodelas,45,0,38
+Granada,Raúl Torrente,71,0,38
+Granada,Bruno Méndez,19,71,38
+Granada,José Callejón,45,45,38
+Granada,Kamil Piątkowski,45,45,38
+Granada,Pablo Saenz,19,71,38
+Granada,Brau,31,59,38
+Osasuna,Aitor Fernández,90,0,38
+Osasuna,Lucas Torró,65,0,38
+Osasuna,Aimar Oroz,79,0,38
+Osasuna,Jesús Areso,90,0,38
+Osasuna,Rubén Peña,90,0,38
+Osasuna,Ante Budimir,57,0,38
+Osasuna,Pablo Ibáñez,65,0,38
+Osasuna,Johan Mojica,90,0,38
+Osasuna,Catena,78,0,38
+Osasuna,Jorge Herrando,90,0,38
+Osasuna,Iker Muñoz,90,0,38
+Osasuna,Unai García,12,78,38
+Osasuna,Jon Moncayola,25,65,38
+Osasuna,Moi Gómez,25,65,38
+Osasuna,José Arnaiz,11,79,38
+Osasuna,Raúl,33,57,38
+Villarreal,Pepe Reina,90,0,38
+Villarreal,Yerson Mosquera,90,0,38
+Villarreal,Santi Comesaña,90,0,38
+Villarreal,Jorge Cuenca,62,0,38
+Villarreal,Alexander Sørloth,16,0,38
+Villarreal,Manu Trigueros,90,0,38
+Villarreal,Alex Baena,62,0,38
+Villarreal,Kiko Femenía,90,0,38
+Villarreal,Ramón Terrats,78,0,38
+Villarreal,Aïssa Mandi,90,0,38
+Villarreal,Bertrand Traoré,90,0,38
+Villarreal,Gonçalo Guedes,28,62,38
+Villarreal,Daniel Parejo,28,62,38
+Villarreal,José Luis Morales,74,16,38
+Villarreal,Ilias Akhomach,12,78,38
+Real Sociedad,Álex Remiro,90,0,38
+Real Sociedad,Aritz Elustondo,90,0,38
+Real Sociedad,Ander Barrenetxea,67,0,38
+Real Sociedad,Sheraldo Becker,81,0,38
+Real Sociedad,Arsen Zakharyan,67,0,38
+Real Sociedad,Takefusa Kubo,90,0,38
+Real Sociedad,Kieran Tierney,80,0,38
+Real Sociedad,Hamari Traoré,90,0,38
+Real Sociedad,Jon Pacheco,90,0,38
+Real Sociedad,Beñat Turrientes,83,0,38
+Real Sociedad,Brais Méndez,90,0,38
+Real Sociedad,Mikel Oyarzabal,23,67,38
+Real Sociedad,Urko González,7,83,38
+Real Sociedad,Olasagasti,23,67,38
+Real Sociedad,André Silva,9,81,38
+Real Sociedad,Jon Aramburu,10,80,38
+Atlético Madrid,Jan Oblak,90,0,38
+Atlético Madrid,José María Giménez,90,0,38
+Atlético Madrid,César Azpilicueta,83,0,38
+Atlético Madrid,Rodrigo De Paul,69,0,38
+Atlético Madrid,Koke,90,0,38
+Atlético Madrid,Antoine Griezmann,90,0,38
+Atlético Madrid,Ángel Correa,69,0,38
+Atlético Madrid,Samuel Lino,69,0,38
+Atlético Madrid,Marcos Llorente,90,0,38
+Atlético Madrid,Arthur Vermeeren,57,0,38
+Atlético Madrid,Axel Witsel,90,0,38
+Atlético Madrid,Saúl Ñíguez,20,70,38
+Atlético Madrid,Rodrigo Riquelme,33,57,38
+Atlético Madrid,Álvaro Morata,21,69,38
+Atlético Madrid,Mario Hermoso,21,69,38
+Atlético Madrid,Reinildo Mandava,7,83,38
+Almería,Fernando,90,0,38
+Almería,Édgar González,45,0,38
+Almería,Lucas Robertone,90,0,38
+Almería,Jonathan Viera,83,0,38
+Almería,Luis Javier Suárez,75,0,38
+Almería,Adri Embarba,90,0,38
+Almería,Léo Baptistão,45,0,38
+Almería,Aleksandar Radovanović,66,0,38
+Almería,Pubill,90,0,38
+Almería,Juan Brandáriz,90,0,38
+Almería,Bruno Langa,90,0,38
+Almería,Gonzalo Melero,45,45,38
+Almería,Sergio Arribas,45,45,38
+Almería,Ibrahima Koné,15,75,38
+Almería,Paco Sanz,24,66,38
+Almería,Luka Romero,7,83,38
+Cádiz,David Gil,90,0,38
+Cádiz,Joseba Zaldúa,86,0,38
+Cádiz,Fali,90,0,38
+Cádiz,Rubén Alcaraz,90,0,38
+Cádiz,Álex Fernández,63,0,38
+Cádiz,Brian Ocampo,69,0,38
+Cádiz,Javi Hernández,90,0,38
+Cádiz,Gonzalo Escalante,63,0,38
+Cádiz,Roger Martí,90,0,38
+Cádiz,Roberto Navarro,86,0,38
+Cádiz,Lucas,90,0,38
+Cádiz,Diadie Samassékou,27,63,38
+Cádiz,Rubén Sobrino,21,69,38
+Cádiz,Juanmi,27,63,38
+Cádiz,Isaac Carcelen,4,86,38
+Cádiz,Borja Vázquez,4,86,38
+Rayo Vallecano,Cárdenas,90,0,38
+Rayo Vallecano,Andrei Ratiu,90,0,38
+Rayo Vallecano,Pep Chavarría,90,0,38
+Rayo Vallecano,Aridane Hernández,90,0,38
+Rayo Vallecano,Óscar Trejo,67,0,38
+Rayo Vallecano,Radamel Falcao,67,0,38
+Rayo Vallecano,Unai López,77,0,38
+Rayo Vallecano,Álvaro García,90,0,38
+Rayo Vallecano,Jorge de Frutos,77,0,38
+Rayo Vallecano,Pathé Ciss,72,0,38
+Rayo Vallecano,Florian Lejeune,90,0,38
+Rayo Vallecano,Isaac Palazón Camacho,23,67,38
+Rayo Vallecano,Bebé,13,77,38
+Rayo Vallecano,Kike Pérez,13,77,38
+Rayo Vallecano,Crespo,18,72,38
+Rayo Vallecano,Raúl de Tomás,23,67,38
+Athletic Club,Unai Simón,61,0,38
+Athletic Club,Aitor Paredes,90,0,38
+Athletic Club,Yeray Álvarez,45,0,38
+Athletic Club,Álex Berenguer,90,0,38
+Athletic Club,Nico Williams,90,0,38
+Athletic Club,Dani García,90,0,38
+Athletic Club,Iñigo Lekue,90,0,38
+Athletic Club,Iñigo Ruiz de Galarreta,90,0,38
+Athletic Club,Yuri Berchiche,58,0,38
+Athletic Club,Asier Villalibre,45,0,38
+Athletic Club,Mikel Jauregizar,45,0,38
+Athletic Club,Julen Agirrezabala,29,61,38
+Athletic Club,Daniel Vivian,45,45,38
+Athletic Club,Imanol,32,58,38
+Athletic Club,Raúl García,45,45,38
+Athletic Club,Unai Gómez,45,45,38
+Real Madrid,Thibaut Courtois,62,0,38
+Real Madrid,Dani Carvajal,73,0,38
+Real Madrid,Jude Bellingham,90,0,38
+Real Madrid,Nacho,63,0,38
+Real Madrid,Vinicius Júnior,90,0,38
+Real Madrid,Toni Kroos,86,0,38
+Real Madrid,Rodrygo,90,0,38
+Real Madrid,Eduardo Camavinga,73,0,38
+Real Madrid,Federico Valverde,90,0,38
+Real Madrid,Antonio Rüdiger,90,0,38
+Real Madrid,Ferland Mendy,90,0,38
+Real Madrid,Kepa Arrizabalaga,28,62,38
+Real Madrid,Éder Militão,27,63,38
+Real Madrid,Luka Modrić,17,73,38
+Real Madrid,Lucas Vázquez,17,73,38
+Real Madrid,Dani Ceballos,4,86,38
+Real Betis,Fran Vieites,90,0,38
+Real Betis,Héctor Bellerín,90,0,38
+Real Betis,Juan Miranda,90,0,38
+Real Betis,Johnny Cardoso,90,0,38
+Real Betis,Ayoze Pérez,90,0,38
+Real Betis,Willian José,80,0,38
+Real Betis,Rodri,71,0,38
+Real Betis,Sokratis Papastathopoulos,90,0,38
+Real Betis,Marc Roca,90,0,38
+Real Betis,Youssouf Sabaly,90,0,38
+Real Betis,Ricardo Visus,90,0,38
+Real Betis,Abdessamad Ezzalzouli,10,80,38
+Real Betis,Sergi Altimira,19,71,38
+Getafe,David Soria,83,0,38
+Getafe,Djené,70,0,38
+Getafe,Gastón Álvarez,90,0,38
+Getafe,Luis Milla,66,0,38
+Getafe,Jaime Mata,90,0,38
+Getafe,Óscar Rodríguez Arnaiz,66,0,38
+Getafe,Mason Greenwood,90,0,38
+Getafe,Omar Alderete,90,0,38
+Getafe,Nemanja Maksimović,90,0,38
+Getafe,Nabil Aberdin,90,0,38
+Getafe,Alberto Risco,70,0,38
+Getafe,Daniel Fuzato,7,83,38
+Getafe,Carles Aleñá,24,66,38
+Getafe,Carmona,20,70,38
+Getafe,Jesús Santiago,24,66,38
+Getafe,Jordi,20,70,38
+Mallorca,Iván Cuéllar,90,0,38
+Mallorca,Manu Morlanes,90,0,38
+Mallorca,Abdón Prats,56,0,38
+Mallorca,Sergi Darder,69,0,38
+Mallorca,Jaume Costa,90,0,38
+Mallorca,Antonio Sánchez,56,0,38
+Mallorca,Javier Llabrés,69,0,38
+Mallorca,Antonio Raillo,90,0,38
+Mallorca,Nacho Vidal,90,0,38
+Mallorca,Nemanja Radonjić,56,0,38
+Mallorca,Martin Valjent,90,0,38
+Mallorca,Omar Mascarell,21,69,38
+Mallorca,Vedat Muriqi,34,56,38
+Mallorca,Dani Rodríguez,34,56,38
+Mallorca,Pablo Maffeo,21,69,38
+Mallorca,Cyle Larin,34,56,38
+Las Palmas,Álvaro Vallés,90,0,38
+Las Palmas,Álex Suárez,64,0,38
+Las Palmas,Javier Muñoz,90,0,38
+Las Palmas,Sandro Ramírez,79,0,38
+Las Palmas,Alberto Moleiro,90,0,38
+Las Palmas,Álvaro Lemos,57,0,38
+Las Palmas,Mika Màrmol,90,0,38
+Las Palmas,Munir El Haddadi,57,0,38
+Las Palmas,Kirian Rodríguez,90,0,38
+Las Palmas,Saúl Coco,90,0,38
+Las Palmas,Fabio González,78,0,38
+Las Palmas,Eric Curbelo,12,78,38
+Las Palmas,Cristian Herrera,11,79,38
+Las Palmas,Benito Ramírez,33,57,38
+Las Palmas,Enzo Loiodice,26,64,38
+Las Palmas,Marc Cardona,33,57,38
+Alavés,Jesús Owono,90,0,38
+Alavés,Rubén Duarte,90,0,38
+Alavés,Abdel Abqar,45,0,38
+Alavés,Ander Guevara,90,0,38
+Alavés,Alex Sola,76,0,38
+Alavés,Ianis Hagi,90,0,38
+Alavés,Jon Guridi,90,0,38
+Alavés,Giuliano Simeone,89,0,38
+Alavés,Carlos Vicente,90,0,38
+Alavés,Javi López,76,0,38
+Alavés,Joaquín Panichelli,76,0,38
+Alavés,Andoni Gorosabel,1,89,38
+Alavés,Rafa Marín,45,45,38
+Alavés,Abderrahman Rebbach,14,76,38
+Alavés,Samuel Omorodion,14,76,38
+Alavés,Eneko Ortiz,14,76,38
+Celta Vigo,Iván Villar,90,0,38
+Celta Vigo,Óscar Mingueza,90,0,38
+Celta Vigo,Fran Beltrán,90,0,38
+Celta Vigo,Iago Aspas,74,0,38
+Celta Vigo,Anastasios Douvikas,63,0,38
+Celta Vigo,Williot Swedberg,64,0,38
+Celta Vigo,Kevin Vázquez,70,0,38
+Celta Vigo,Miguel Rodríguez,90,0,38
+Celta Vigo,Carlos Dominguez,64,0,38
+Celta Vigo,Hugo Sotelo,90,0,38
+Celta Vigo,Yoel Lago,90,0,38
+Celta Vigo,Renato Tapia,26,64,38
+Celta Vigo,Carlos Dotor,16,74,38
+Celta Vigo,Tadeo Allende,26,64,38
+Celta Vigo,Jørgen Strand Larsen,27,63,38
+Celta Vigo,Javier Rueda Garcia,20,70,38
+Valencia,Giorgi Mamardashvili,90,0,38
+Valencia,Cristhian Mosquera,90,0,38
+Valencia,Hugo Guillamón,68,0,38
+Valencia,Sergi Canós,77,0,38
+Valencia,Domingos André Ribeiro Almeida,90,0,38
+Valencia,Thierry Correia,79,0,38
+Valencia,Diego López,68,0,38
+Valencia,José Luis García Vayá,90,0,38
+Valencia,Dimitri Foulquier,90,0,38
+Valencia,Alberto Marí,76,0,38
+Valencia,Yarek Hernandis,90,0,38
+Valencia,Javier Guerra,22,68,38
+Valencia,Hugo Duro,14,76,38
+Valencia,Peter González,22,68,38
+Valencia,Hugo González,13,77,38
+Valencia,Ruben Lendinez,11,79,38
+Sevilla,Ørjan Nyland,90,0,38
+Sevilla,Kike Salas,45,0,38
+Sevilla,Adrià Pedrosa,90,0,38
+Sevilla,Sergio Ramos,90,0,38
+Sevilla,Lucas Ocampos,90,0,38
+Sevilla,Dodi Lukebakio,78,0,38
+Sevilla,Youssef En-Nesyri,89,0,38
+Sevilla,Loïc Bade,78,0,38
+Sevilla,Boubakary Soumaré,90,0,38
+Sevilla,Juanlu Sánchez,90,0,38
+Sevilla,Lucien Agoume,78,0,38
+Sevilla,Nemanja Gudelj,12,78,38
+Sevilla,Alejo Véliz,1,89,38
+Sevilla,Mariano,12,78,38
+Sevilla,Marcão,45,45,38
+Sevilla,Manuel Sebastián,12,78,38
+Barcelona,Marc-André ter Stegen,90,0,38
+Barcelona,João Cancelo,83,0,38
+Barcelona,Iñigo Martínez,90,0,38
+Barcelona,Pedri,90,0,38
+Barcelona,Robert Lewandowski,61,0,38
+Barcelona,Andreas Christensen,45,0,38
+Barcelona,Fermin López,74,0,38
+Barcelona,İlkay Gündoğan,90,0,38
+Barcelona,Jules Koundé,90,0,38
+Barcelona,Lamine Yamal,61,0,38
+Barcelona,Pau Cubarsí,90,0,38
+Barcelona,Ferrán Torres,29,61,38
+Barcelona,João Félix,29,61,38
+Barcelona,Oriol Romeu,45,45,38
+Barcelona,Vitor Roque,16,74,38
+Barcelona,Héctor Fort,7,83,38
