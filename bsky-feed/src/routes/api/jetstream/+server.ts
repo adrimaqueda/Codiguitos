@@ -1,7 +1,5 @@
 // src/routes/api/jetstream/+server.ts
 import { Jetstream } from '@skyware/jetstream';
-import { json } from '@sveltejs/kit';
-import { error } from '@sveltejs/kit';
 
 const clients = new Set<ReadableStreamController>();
 const jetstream = new Jetstream();
@@ -25,14 +23,18 @@ console.log('Inicializando Jetstream...');
 
 jetstream.start()
 
+let count = 0
+
 jetstream.onCreate("app.bsky.feed.post", (event) => {
+    count += 1
     // console.log('Nuevo post recibido:', event);
-    const postData = {
-        type: 'new-post',
-        text: event.commit.record.text,
-        timestamp: event.commit.record.createdAt
-    };
-    sendToAllClients(postData);
+    // const postData = {
+    //     type: 'new-post',
+    //     // text: event.commit.record.text,
+    //     timestamp: event.commit.record.createdAt,
+    //     cid: event.commit.cid
+    // };
+    sendToAllClients(count);
 });
 
 // También podemos agregar un manejador de errores global
