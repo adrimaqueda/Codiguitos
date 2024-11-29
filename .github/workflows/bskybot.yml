@@ -2,7 +2,7 @@ name: bsky bot
 # Controls when the action will run.
 on:
   schedule:
-    - cron:  '0 9 * * *'
+    - cron:  '0 8 * * *'
 permissions:
   contents: write
 jobs: 
