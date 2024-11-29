@@ -15,9 +15,6 @@ jobs:
   post:
     runs-on: ubuntu-latest
     
-    env:
-      RENV_PATHS_ROOT: ~/.local/share/renv
-      
     steps:
     - uses: actions/checkout@v3
     
@@ -28,21 +25,31 @@ jobs:
     - name: Cache R packages
       uses: actions/cache@v3
       with:
-        path: ${{ env.RENV_PATHS_ROOT }}
-        key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
-        restore-keys: |
-          ${{ runner.os }}-renv-
+        path: |
+          ${{ env.R_LIBS_USER }}
+          !${{ env.R_LIBS_USER }}/pak
+        key: ${{ runner.os }}-R-${{ hashFiles('DESCRIPTION') }}-2
+        restore-keys: ${{ runner.os }}-R-
+    
+    - name: Install pak
+      run: |
+        install.packages("pak", repos = "https://r-lib.github.io/p/pak/stable")
+      shell: Rscript {0}
     
     - name: Install system dependencies
       run: |
         sudo apt-get update
-        sudo apt-get install -y libcurl4-openssl-dev libssl-dev libxml2-dev libfontconfig1-dev libharfbuzz-dev libfribidi-dev
+        sudo apt-get install -y --no-install-recommends \
+          libcurl4-openssl-dev \
+          libssl-dev \
+          libxml2-dev \
+          libfontconfig1-dev \
+          libharfbuzz-dev \
+          libfribidi-dev
 
-    - name: Install R packages
-      working-directory: ./suncalc-bot
+    - name: Install dependencies
       run: |
-        if (!require("renv")) install.packages("renv")
-        renv::restore()
+        pak::pkg_install(c("tidyverse", "suncalc", "scales", "grid", "ggtext", "showtext", "httr2"))
       shell: Rscript {0}
       
     - name: Run script
@@ -51,14 +58,13 @@ jobs:
         BLUESKY_APP_PASS: ${{ secrets.BLUESKY_APP_PASS }}
       run: Rscript './post.R'
       
- # Add new files in data folder, commit along with other modified files, push
     - name: Commit files
       working-directory: ./suncalc-bot
       run: |
-        git config --local user.name actions-user
-        git config --local user.email "actions@github.com"
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add '*'
-        git commit -am "Actualización: $(date)"
+        git commit -am "Actualización: $(date)" || echo "No changes to commit"
         git push origin main
       env:
         REPO_KEY: ${{secrets.GITHUB_TOKEN}}
