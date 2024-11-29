@@ -106,8 +106,8 @@ daysCount <- function() {
     interval(ymd(fecha_actual),ymd(s_verano)) %/% days(1)
   )
 
-  max_sol <- '¡Hoy es el día con más horas de luz del año! 🎉🎉🎉'
-  max_noche <- 'Hoy es el día con menos horas de luz del año... 🫤🫤🫤\n\n❄️❄️ Winter is coming ❄️❄️'
+  max_sol <- '¡Hoy es el día con más horas de sol del año! 🎉🎉🎉'
+  max_noche <- 'Hoy es el día con menos horas de sol del año... 🫤🫤🫤\n\n❄️❄️ Winter is coming ❄️❄️'
 
   start_max_sol <- '¡Vamos! ¡Que a partir de hoy los días empiezan a ser más largos! 🎉🎉🎉'
 
@@ -178,7 +178,7 @@ plot <- ggplot(datos_luz_anuales, aes(x = fecha, y = horas_luz, color = horas_lu
     label.size = NA
   ) +
   labs(
-    title = "Horas de luz en Madrid",
+    title = "Horas de sol en Madrid",
     subtitle = str_glue("{format(ymd(hoy$fecha),'%d de %B')}: <img src='./images/sunrise.png' height='10' style='vertical-align: bottom'/>{fixHour(hoy$amanecer)} - <img src='./images/sunset.png' height='10' style='vertical-align: bottom'/>{fixHour(hoy$atardecer)}"),
     caption = 'Hecho por @adrimaqueda.com\nCálculos de horas de luz hechos con {suncalc}'
   ) +
