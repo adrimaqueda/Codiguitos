@@ -54,8 +54,10 @@ jobs:
  # Add new files in data folder, commit along with other modified files, push
     - name: Commit files
       working-directory: ./suncalc-bot
+      run: |
         git config --local user.name actions-user
         git config --local user.email "actions@github.com"
+        git add '*'
         git commit -am "Actualización: $(date)"
         git push origin main
       env:
