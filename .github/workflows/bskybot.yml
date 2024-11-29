@@ -1,70 +1,47 @@
 name: bsky bot
-
+# Controls when the action will run.
 on:
   schedule:
-    - cron: '0 8 * * *'
+    - cron:  '0 8 * * *'
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
 
 jobs: 
   post:
-    runs-on: ubuntu-latest
-    
+    # The type of runner that the job will run on
+    runs-on: macos-latest
+    # Load repo and install R
     steps:
-    - uses: actions/checkout@v3
-    
+    - uses: actions/checkout@master
     - uses: r-lib/actions/setup-r@v2
-      with:
-        r-version: 'release'
-        
-    - name: Cache R packages
-      uses: actions/cache@v3
-      with:
-        path: |
-          ${{ env.R_LIBS_USER }}
-          !${{ env.R_LIBS_USER }}/pak
-        key: ${{ runner.os }}-R-${{ hashFiles('DESCRIPTION') }}-2
-        restore-keys: ${{ runner.os }}-R-
-    
-    - name: Install pak
+    # Set-up R
+    - name: Install packages
+      working-directory: ./suncalc-bot
       run: |
-        install.packages("pak", repos = "https://r-lib.github.io/p/pak/stable")
-      shell: Rscript {0}
-    
-    - name: Install system dependencies
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y --no-install-recommends \
-          libcurl4-openssl-dev \
-          libssl-dev \
-          libxml2-dev \
-          libfontconfig1-dev \
-          libharfbuzz-dev \
-          libfribidi-dev
-
-    - name: Install dependencies
-      run: |
-        pak::pkg_install(c("tidyverse", "suncalc", "scales", "grid", "ggtext", "showtext", "httr2"))
-      shell: Rscript {0}
-      
+        R -e 'install.packages("tidyverse")'
+        R -e 'install.packages("suncalc")'
+        R -e 'install.packages("scales")'
+        R -e 'install.packages("grid")'
+        R -e 'install.packages("ggtext")'
+        R -e 'install.packages("showtext")'
+        R -e 'install.packages("httr2")'
+    # Run R script
     - name: Run script
       working-directory: ./suncalc-bot
       env:
         BLUESKY_APP_PASS: ${{ secrets.BLUESKY_APP_PASS }}
       run: Rscript './post.R'
       
+ # Add new files in data folder, commit along with other modified files, push
     - name: Commit files
       working-directory: ./suncalc-bot
       run: |
-        git config --local user.name "github-actions[bot]"
-        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name actions-user
+        git config --local user.email "actions@github.com"
         git add '*'
-        git commit -am "Actualización: $(date)" || echo "No changes to commit"
+        git commit -am "Actualización: $(date)"
         git push origin main
       env:
         REPO_KEY: ${{secrets.GITHUB_TOKEN}}
