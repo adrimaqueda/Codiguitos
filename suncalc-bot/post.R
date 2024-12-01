@@ -132,7 +132,9 @@ sunHours <- function() {
 
   minutos_text <- if_else(minutos > 1, 'minutos', 'minuto')
 
-  text <- str_glue("En total, habrá {horas} horas y {minutos} {minutos_text} de sol:\n🌅 {fixHour(hoy$amanecer)}\n🌇 {fixHour(hoy$atardecer)}")
+  mins <- if_else(minutos != 0, str_glue(" y {minutos} {minutos_text}"), '')
+
+  text <- str_glue("En total, habrá {horas} horas{mins} de sol:\n🌅 {fixHour(hoy$amanecer)}\n🌇 {fixHour(hoy$atardecer)}")
 
   return(text)
 }
@@ -179,7 +181,7 @@ plot <- ggplot(datos_luz_anuales, aes(x = fecha, y = horas_luz, color = horas_lu
   ) +
   labs(
     title = "Horas de sol en Madrid",
-    subtitle = str_glue("{format(ymd(hoy$fecha),'%d de %B')}: <img src='./images/sunrise.png' height='10' style='vertical-align: bottom'/>{fixHour(hoy$amanecer)} - <img src='./images/sunset.png' height='10' style='vertical-align: bottom'/>{fixHour(hoy$atardecer)}"),
+    subtitle = str_glue("{format(ymd(hoy$fecha),'%e de %B')}: <img src='./images/sunrise.png' height='10' style='vertical-align: bottom'/>{fixHour(hoy$amanecer)} - <img src='./images/sunset.png' height='10' style='vertical-align: bottom'/>{fixHour(hoy$atardecer)}"),
     caption = 'Hecho por @adrimaqueda.com\nCálculos de horas de luz hechos con {suncalc}'
   ) +
   theme_minimal() +
