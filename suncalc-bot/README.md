@@ -10,6 +10,4 @@ Siéntete libre de proponer cualquier cambio que quieras 😊
 
 Emojis descargados de [emojipedia](https://emojipedia.org/)
 
-
-<!-- https://canovasjm.netlify.app/2021/01/12/github-secrets-from-python-and-r/ -->
-
+<img src='hs_madrid.png' />
