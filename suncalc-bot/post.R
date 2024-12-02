@@ -98,7 +98,7 @@ fixHour <- function(hora) {
 # text depending on the day of the year
 daysCount <- function() {
 
-  d_cortos <- fecha_actual > s_verano
+  d_cortos <- between(as.numeric(format(fecha_actual, "%j")), as.numeric(format(s_verano, "%j")), as.numeric(format(s_invierno, "%j")))
 
   calc_dias <- if_else(
     d_cortos,
@@ -117,7 +117,7 @@ daysCount <- function() {
   text <- case_when(
     fecha_actual == s_verano ~ max_sol,
     fecha_actual == s_invierno ~ max_noche,
-    as.numeric(fecha_actual) == as.numeric(format(s_verano, "%j")) + 1 ~ start_max_sol,
+    as.numeric(fecha_actual) == as.numeric(format(s_invierno, "%j")) + 1 ~ start_max_sol,
     d_cortos ~ menos_luz,
     T ~ mas_luz,
   )
