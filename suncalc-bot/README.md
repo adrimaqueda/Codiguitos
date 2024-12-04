@@ -1,4 +1,6 @@
 # BSKY BOT
+> Desde el 4 de diciembre contenido ya no se genera desde automatizaciones de GitHub.
+> A partir de esa fecha se ejecuta en local para poder generar texto con LLama3.2
 
 🤖 Bot de Bluesky con R
 
