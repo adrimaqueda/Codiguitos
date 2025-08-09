@@ -1,6 +1,6 @@
 # Análisis de Traspasos de La Liga
 
-Este repositorio contiene un script de R (`getTransfers.R`) que descarga, limpia y procesa datos de traspasos de jugadores entre equipos de La Liga española de fútbol. He usado esos datos para un _side project_ en Svelte siguiendo el ejemplo de [Yuriko Schumacher](https://x.com/yuriko_a_s/status/1950958702464221231) en (The Athletic)[https://www.nytimes.com/athletic/6521187/2025/07/30/mlb-trade-deadline-matrix-cliques-rivals-executives/].
+Este repositorio contiene un script de R (`getTransfers.R`) que descarga, limpia y procesa datos de traspasos de jugadores entre equipos de La Liga española de fútbol. He usado esos datos para un _side project_ en Svelte siguiendo el ejemplo de [Yuriko Schumacher](https://x.com/yuriko_a_s/status/1950958702464221231) en [The Athletic](https://www.nytimes.com/athletic/6521187/2025/07/30/mlb-trade-deadline-matrix-cliques-rivals-executives/).
 
 Puedes ver los gráficos interactivos [aquí](https://adrimaqueda.com/projects/traspasos-la-liga)
 
