@@ -4,7 +4,7 @@ Este repositorio contiene un script de R (`getTransfers.R`) que descarga, limpia
 
 Puedes ver los gráficos interactivos [aquí](https://adrimaqueda.com/projects/traspasos-la-liga)
 
-
+https://github.com/user-attachments/assets/43959f7a-507c-4892-a7c2-2b5179622171
 
 ## Cómo funciona
 
